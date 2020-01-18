@@ -15,7 +15,8 @@
            
            <li>You would be able to write simple programs on your mobile device that can solve calculations such as Fibonacci series, Palindrome etc. </li>
            <li>You would learn the practical ways in which Python can be applied basic life instances. </li>
-           <li>You would get to learn about programming platforms, opportunities that can directly/indirectly bring in the earning of Money</b></p>
+           <li>You would get to learn about programming platforms, opportunities that can directly/indirectly bring in the earning of Money
+           </b></p>
        <div class="div2"><h4>Discliamer:</h4>This course as much as I would like it to be free. A start-up fee is required. Hold up, I'm not scaring you away. You get this course at an affordable price.<b><em>A price that, for a structured Python 3 Course like this, you would get at no other place</em></b></div>
         <p>The reason for this very affordable price is simply these:I need to pay for hosting the website and at the moment I'm not focused on income but rather quality of services I can give.</p>
            
@@ -28,10 +29,10 @@
         <label for="password">Password<input type="password" name="password" required><br>
         <label for="DOB">Date of Birth<input type="date" name="DOB" placeholder="YYYY-MM-DD"><br>
        <p></p> 
-        <button type="submit">Sign-up</button> 
-      </form>
-    </div>
-   </body>
+        <button type="submit">Sign-up</button></form></div></body> 
+     
+   
+   
        
       
            
