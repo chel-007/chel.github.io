@@ -1,6 +1,6 @@
 body {background-color:white}
 h1 {text-align: center;color:red; font-size:40px}
-h3 {margin:20px; color:blue; font-size:20px}
+h3 {margin:20px; color:blue; font-size:30px}
 h5 {margin:30px; font-size:30px; }
 .firstpar {margin:20px 30px 20px 30px;font-size:30px;}
 .secpar {margin:20px 30px 20px 30px; font-size:30px;}
@@ -9,7 +9,7 @@ ul {border:2px dashed #b34d4d; border-radius:30px; padding:20px 25px 20px 30px; 
 .fourthpar {font-size:30px; color:black; margin:20px}
 .fifthpar {text-align:center; font-size:30px}
 .kwes-form {border:3px dotted black; background-color:#b34d4d;font-size:40px; padding:15px 30px 20px 30px}
-.signup {background-color:red}
+.signup {background-color:red;font-size:30px}
 .author {fontsize:10px; color:black; shadow:white}
 
 
