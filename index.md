@@ -1,4 +1,4 @@
-<!DOCTYPE! html>
+<!DOCTYPE! HTML>
 <html>
   <head>
     <title>Python 3 Simplified Course (Chel' Overboard) Sign up</title>
@@ -7,7 +7,7 @@
       <h1>Python 3 Simplified</h1>
       <h3><em>Sign-up page</em></h3>
       <div class="div1"><h5>Do you want to learn Python 3 in 2020?</h5></div>
-      <p>I begin a simplified version of the Python 3 on <b>1st of February 2020.</b>
+      <p>I begin a simplified version of the Python 3 on <b>1st of February 2020</b>
         Being on this page means that you clicked on the sign up button on my YouTube channel(Chel' Overboard),what this sign up would do is to collect your name and email address, so when the course begins you would get the link to access the <i>Python 3 simplified Course.</i></p>
       <p>If you've been a follower of my YouTube channel at anytime, you would know that not one of my videos claims to contain contents it does not really have. Likewise I'm gonna have that same transparency in this new project.</p>
        <p><b><em>Through this course a few of what you would learn are:</em>
@@ -16,12 +16,12 @@
            
            <li>You would be able to write simple programs on your mobile device that can solve calculations such as Fibonacci series, Palindrome etc. </li>
            <li>You would learn the practical ways in which Python can be applied basic life instances. </li>
-           <li>You would get to learn about programming platforms, opportunities that can directly/indirectly bring in the earning of Money<br>
-       <div class="div2"><p class="fund"><h4>Discliamer:</h4>This course as much as I would like it to be free. A start-up fee is required. Hold up, I'm not scaring you away. You get this course at an affordable price.<b><em>A price that, for a structured Python 3 Course like this, you would get at no other place</b></em><br></div>
+           <li>You would get to learn about programming platforms, opportunities that can directly/indirectly bring in the earning of Money<br></b></p>
+       <div class="div2"><p class="fund"><h4>Discliamer:</h4>This course as much as I would like it to be free. A start-up fee is required. Hold up, I'm not scaring you away. You get this course at an affordable price.<b><em>A price that, for a structured Python 3 Course like this, you would get at no other place</em></b><br></p></div>
         <p>The reason for this very affordable price is simply these:I need to pay for hosting the website and at the moment I'm not focused on income but rather quality of services I can give.</p>
            
      <p><strong>Sign-up Here</strong></p>
-    </body>
+    
      <div class="kwes-form">   
       <form method="POST" action="https://kwes.io/api/foreign/forms/2kXJ3XhjEYCWnHLW7Djx">
          <label for="name"> Name</label><input type="text" name="name"   placeholder="ENTER YOUR NAME" required rules="required|max:255"><br>
@@ -32,6 +32,7 @@
         <button type="submit">Sign-up</button> 
       </form>
      </div>
+    </body>
        
       
            
