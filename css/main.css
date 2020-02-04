@@ -18,7 +18,7 @@
 /* The dropdown container */
 .dropdown {
   float: right;
-  overflow: hidden;
+  overflow: display;
 }
 
 /* Dropdown button */
