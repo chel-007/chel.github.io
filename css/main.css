@@ -60,10 +60,11 @@ text-align: left;
 padding: 8px 20px;
 }
 #logo {
-  width: 200px;
-  height: 100px;
+  width: 200%;
+  height: 60px;
   float: left;
   margin-top: 15px;
+  padding: 5px 15px;
   background-image: url(https://github.com/Chel-Ash/chel.github.io/blob/master/CHELOVERBOARD%20_thumbnail.png);
   background-size: cover;
 }
