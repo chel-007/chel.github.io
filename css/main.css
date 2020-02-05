@@ -29,7 +29,7 @@
 color: rgba(0,0,0,0.7);
 text-decoration: none;
 font-family: Arial;
-font-size: 10px;
+font-size: 13px;
 font-weight: bold;
 text-shadow: rgba(255,255,255,0.3) 1px 1px 0px;
 display: block;
@@ -61,7 +61,7 @@ padding: 8px 20px;
 }
 #logo {
   width: 20%;
-  height: 40%;
+  height: 10%;
   float: left;
   margin-top: 15px;
   padding: 5px 15px;
