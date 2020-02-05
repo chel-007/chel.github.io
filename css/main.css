@@ -96,7 +96,7 @@ h5 {margin:30px; font-size:30px; }
 .signup {background-color:red;font-size:30px}
 .author {fontsize:30px; color:black;padding:10px}
 
-.searchbox {position: absolute; width:1200px; height:100px; z-index:15;top:50%;left:15%;margin:-100px 0 0 -150px;background:brown;font-size:20px}
+.searchbox {position: absolute; width:7500px; height:100px; z-index:15;top:50%;left:20%;margin:-100px 0 0 -150px;background:brown;font-size:20px}
 
 
 
