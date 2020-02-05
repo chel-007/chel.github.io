@@ -72,7 +72,8 @@ padding: 8px 20px;
   height: 10%;
   float: left;
   margin-top: 15px;
- 
+  padding: 5px 15px;
+  
 }
 body {background-color:white; position: fixed; padding: 0; margin: 0;}
 h1 {text-align: center;color:red; font-size:40px}
