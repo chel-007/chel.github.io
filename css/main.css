@@ -73,11 +73,11 @@ body {background-color:white; position: fixed:}
 h1 {text-align: center;color:red; font-size:40px}
 h3 {margin:20px; color:blue; font-size:20px}
 h5 {margin:30px; font-size:30px; }
-.firstpar {margin:20px 30px 20px 30px;font-size:20%;}
-.secpar {margin:20px 30px 20px 30px; font-size:20%;}
-.thirdpar {margin:20px; font-size:20%}
-.list {border:2px dashed black; border-radius:30px; padding:20px 25px 20px 30px; font-size:20%;background-color:white}
-.fourthpar {font-size:20%; color:black; margin:20px;}
+.firstpar {margin:20px 30px 20px 30px;font-size:30%;}
+.secpar {margin:20px 30px 20px 30px; font-size:30%;}
+.thirdpar {margin:20px; font-size:30%}
+.list {border:2px dashed black; border-radius:30px; padding:20px 25px 20px 30px; font-size:30%;background-color:white}
+.fourthpar {font-size:30%; color:black; margin:20px;}
 .fifthpar {text-align:center; font-size:20%;}
 .netlify-form {border:3px dotted black; background-color:#b34d4d;font-size:30%; padding:15px 30px 20px 30px}
 .signup {background-color:red;font-size:30px}
