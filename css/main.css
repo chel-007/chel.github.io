@@ -5,7 +5,7 @@
 @media (min-width:1025px) { /* big landscape tablets, laptops, and desktops */ }
 @media (min-width:1281px) { /* hi-res laptops and desktops */ }
 .menu {
-  width: 100%;
+  width: 50%;
   height: 40px;
   background-color:skyblue;}
 .menu ul {
