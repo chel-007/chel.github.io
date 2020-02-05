@@ -29,6 +29,7 @@
 }
 .menu ul li:hover
 {
+    border-radius:12px;
     border: 1px solid rgba(0, 0, 0, 0.1);
     box-shadow: inset 0px 0px 20px 0px rgba(100,100,100,0.6),
                 0px 1px 3px 0px rgba(0, 0, 0, 0.3);
