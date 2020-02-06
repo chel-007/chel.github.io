@@ -95,13 +95,8 @@ h5 {margin:30px; font-size:30px; }
 .netlify-form {border:3px dotted black; background-color:#b34d4d;font-size:30px; padding:15px 30px 20px 30px}
 .signup {background-color:red;font-size:30px}
 .author {fontsize:30px; color:black;padding:10px}
-
-.searchbox {position: absolute; width:500px; height:150px; z-index:15;top:70%;left:30%;margin:-100px 0 0 -150px;background:skyblue;font-size:20px}
-
-
-.section-box {margin:150px 10px;border:2px solid}
-.modtitle {text-align:center;
-font-size:27px;color:blue;font-weight:900;}
+section {margin:180px 10px;border:2px solid}
+.Modtitle {text-align: center;font-size: 27px;color: blue;font-weight: 900;}
 .downloadlinks {text-align:center;}
 
 
