@@ -1,3 +1,4 @@
+if (typeof jQuery != 'undefined') { // jQuery is loaded => print the version alert(jQuery.fn.jquery); } 
 function AddReadMore() {
     //This limit you can set after how much characters you want to show Read More.
     var carLmt = 20;
