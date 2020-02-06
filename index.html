@@ -1,90 +1,64 @@
 <html lang="en-NG"><head><meta content="width=device-width, initial-scale=1" name="viewport">
  <title>Python 3 Simplified Course (Chel' Overboard) Sign up</title>
     <link rel="stylesheet" type="text/css" href="/css/main.css">
-    <script type="text/javascript"
-	src="https://www.viralpatel.net/demo/jquery/jquery.shorten.1.0.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
     <script>
-     /*
- * jQuery Shorten plugin 1.0.0
- *
- * Copyright (c) 2013 Viral Patel
- * //viralpatel.net
- *
- * Dual licensed under the MIT license:
- *   //www.opensource.org/licenses/mit-license.php
- */
-
- (function($) {
-	$.fn.shorten = function (settings) {
-	
-		var config = {
-			showChars: 100,
-			ellipsesText: "...",
-			moreText: "more",
-			lessText: "less"
-		};
-
-		if (settings) {
-			$.extend(config, settings);
-		}
-		
-		$(document).off("click", '.morelink');
-		
-		$(document).on({click: function () {
-
-				var $this = $(this);
-				if ($this.hasClass('less')) {
-					$this.removeClass('less');
-					$this.html(config.moreText);
-				} else {
-					$this.addClass('less');
-					$this.html(config.lessText);
-				}
-				$this.parent().prev().toggle();
-				$this.prev().toggle();
-				return false;
-			}
-		}, '.morelink');
-
-		return this.each(function () {
-			var $this = $(this);
-			if($this.hasClass("shortened")) return;
-			
-			$this.addClass("shortened");
-			var content = $this.html();
-			if (content.length > config.showChars) {
-				var c = content.substr(0, config.showChars);
-				var h = content.substr(config.showChars, content.length - config.showChars);
-				var html = c + '<span class="moreellipses">' + config.ellipsesText + ' </span><span class="morecontent"><span>' + h + '</span> <a href="#" class="morelink">' + config.moreText + '</a></span>';
-				$this.html(html);
-				$(".morecontent span").hide();
-			}
-		});
-		
-	};
-
- })(jQuery);
-
-	    </script>
+    function AddReadMore() {
+        //This limit you can set after how much characters you want to show Read More.
+        var carLmt = 80;
+        // Text to show when text is collapsed
+        var readMoreTxt = " ... Read More";
+        // Text to show when text is expanded
+        var readLessTxt = " Read Less";
+ 
+ 
+        //Traverse all selectors with this class and manupulate HTML part to show Read More
+        $(".addReadMore").each(function() {
+            if ($(this).find(".firstSec").length)
+                return;
+ 
+            var allstr = $(this).text();
+            if (allstr.length > carLmt) {
+                var firstSet = allstr.substring(0, carLmt);
+                var secdHalf = allstr.substring(carLmt, allstr.length);
+                var strtoadd = firstSet + "<span class='SecSec'>" + secdHalf + "</span><span class='readMore'  title='Click to Show More'>" + readMoreTxt + "</span><span class='readLess' title='Click to Show Less'>" + readLessTxt + "</span>";
+                $(this).html(strtoadd);
+            }
+ 
+        });
+        //Read More and Read Less Click Event binding
+        $(document).on("click", ".readMore,.readLess", function() {
+            $(this).closest(".addReadMore").toggleClass("showlesscontent showmorecontent");
+        });
+    }
+    $(function() {
+        //Calling function after Page Load
+        AddReadMore();
+    });
+    </script>
     <style>
-    a {
-	color: #0254EB
-}
-a:visited {
-	color: #0254EB
-}
-a.morelink {
-	text-decoration:none;
-	outline: none;
-}
-.morecontent span {
-	display: none;
-}
-.comment {
-	width: 400px;
-	background-color: #f0f0f0;
-	margin: 10px;
-}  </style>
+    .addReadMore.showlesscontent .SecSec,
+    .addReadMore.showlesscontent .readLess {
+        display: none;
+    }
+ 
+    .addReadMore.showmorecontent .readMore {
+        display: none;
+    }
+ 
+    .addReadMore .readMore,
+    .addReadMore .readLess {
+        font-weight: bold;
+        margin-left: 2px;
+        color: blue;
+        cursor: pointer;
+    }
+ 
+    .addReadMoreWrapTxt.showmorecontent .SecSec,
+    .addReadMoreWrapTxt.showmorecontent .readLess {
+        display: block;
+    }
+    </style>
    </head>
     <body>
      <div class="menu">
@@ -118,15 +92,8 @@ a.morelink {
 <section>
  <div class="Anime Games">
    <p class="Modtitle">Anime Game Mods</p>
-   <ul><div class="comment">Doki Doki Mod Apk Download Latest Version Description:Anime Game where players control the pace of game by making various choices.MOD:Unlimited Diamonds/Rubies for making Premium Choices.<b class="downloadlinks">DOWNLOAD LINK:https://www.example.com</b></p>
+   <ul><div class="addReadMore showlesscontent">Doki Doki Mod Apk Download Latest Version Description:Anime Game where players control the pace of game by making various choices.MOD:Unlimited Diamonds/Rubies for making Premium Choices.<b class="downloadlinks">DOWNLOAD LINK:https://www.example.com</b></p>
  
 <h3>Show More Content</h3>
-<div class="comment">Es ist ein lang erwiesener Fakt, dass ein Leser vom Text abgelenkt wird, wenn er sich ein Layout ansieht. Der Punkt, Lorem Ipsum zu nutzen, ist, dass es mehr oder weniger die normale Anordnung von Buchstaben darstellt und somit nach lesbarer Sprache aussieht. Viele Desktop Publisher und Webeditoren nutzen mittlerweile Lorem Ipsum als den Standardtext, auch die Suche im Internet nach "lorem ipsum" macht viele Webseiten sichtbar, wo diese noch immer vorkommen. Mittlerweile gibt es mehrere Versionen des Lorem Ipsum, einige zufällig, andere bewusst (beeinflusst von Witz und des eigenen Geschmacks)Es ist ein lang erwiesener Fakt</p
-	<script>
-	$(document).ready(function() {
-	
-		$(".comment").shorten();
-	
-	});</script>   
-	   
+<div class="addReadMore showlesscontent">Es ist ein lang erwiesener Fakt, dass ein Leser vom Text abgelenkt wird, wenn er sich ein Layout ansieht. Der Punkt, Lorem Ipsum zu nutzen, ist, dass es mehr oder weniger die normale Anordnung von Buchstaben darstellt und somit nach lesbarer Sprache aussieht. Viele Desktop Publisher und Webeditoren nutzen mittlerweile Lorem Ipsum als den Standardtext, auch die Suche im Internet nach "lorem ipsum" macht viele Webseiten sichtbar, wo diese noch immer vorkommen. Mittlerweile gibt es mehrere Versionen des Lorem Ipsum, einige zufällig, andere bewusst (beeinflusst von Witz und des eigenen Geschmacks)Es ist ein lang erwiesener Fakt</p>
 </body>   
