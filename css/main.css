@@ -99,8 +99,8 @@ h5 {margin:30px; font-size:30px; }
 .searchbox {position: absolute; width:500px; height:150px; z-index:15;top:70%;left:30%;margin:-100px 0 0 -150px;background:skyblue;font-size:20px}
 
 
-section {margin:150px 10px;border:2px solid}
-.Modtitle {text-align:center;
+.section-box {margin:150px 10px;border:2px solid}
+.modtitle {text-align:center;
 font-size:27px;color:blue;font-weight:900;}
 .downloadlinks {text-align:center;}
 
