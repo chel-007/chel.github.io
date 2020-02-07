@@ -95,9 +95,9 @@ h5 {margin:30px; font-size:30px; }
 .netlify-form {border:3px dotted black; background-color:#b34d4d;font-size:30px; padding:15px 30px 20px 30px}
 .signup {background-color:red;font-size:30px}
 .author {fontsize:30px; color:black;padding:10px}
-section {margin:210px 10px;border:2px solid black;}
-.Modtitle {text-align:center;font-size:27px;color: blue;font-weight:900;}
-.downloadlinks {text-align:center; color:red;}
-
+.animegames {margin:210px 10px;border:2px solid black;}
+div .modtitile {text-align:center;font-size:27px;color: blue;font-weight:900;}
+div ul .downloadlinks {text-align:center; color:red;}
+.example {color:red;}
 
 
