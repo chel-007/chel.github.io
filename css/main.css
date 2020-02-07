@@ -98,22 +98,6 @@ h5 {margin:30px; font-size:30px; }
 section {margin:180px 10px;border:2px solid}
 .Modtitle {text-align: center;font-size: 27px;color: blue;font-weight: 900;}
 .downloadlinks {text-align:center; color:red;}
-.addReadMore.showmorecontent .readMore {
-    display: none;
-}
-
-.addReadMore .readMore,
-.addReadMore .readLess {
-    font-weight: bold;
-    margin-left: 2px;
-    color: blue;
-    cursor: pointer;
-}
-
-.addReadMoreWrapTxt.showmorecontent .SecSec,
-.addReadMoreWrapTxt.showmorecontent .readLess {
-    display: block;
-}
 
 
 
