@@ -4,9 +4,14 @@
 @media (min-width:801px)  { /* tablet, landscape iPad, lo-res laptops ands desktops */ }
 @media (min-width:1025px) { /* big landscape tablets, laptops, and desktops */ }
 @media (min-width:1281px) { /* hi-res laptops and desktops */ }
-.allgamesdivs {margin:150px 0px;border:2px solid black;}
-.modtitle {text-align:center;font-size:27px;color: blue;font-weight:900;}
-div ul .downloadlinks {text-align:center; color:red;}
+.allgamesdivs { margin:150px 0px; border:2px solid black;}  
+.modtitle {color: red;text-align:center;font-size:27px;
+font-weight:900;}
+div ul .downloadlinks {text-align:center; color:blue;}
+div ul .downloadlinks button {background-color:rgb(0,245,0);
+font-weight:800;}
+form input {background-color:red;
+font-weight:800;}
 .menu {
   width: 100%;
   height: 70px;
