@@ -5,7 +5,7 @@
 @media (min-width:1025px) { /* big landscape tablets, laptops, and desktops */ }
 @media (min-width:1281px) { /* hi-res laptops and desktops */ }
 .allgamesdivs {margin:150px 0px;border:2px solid black;}
-div .modtitile {text-align:center;font-size:27px;color: blue;font-weight:900;}
+.modtitile {text-align:center;font-size:27px;color: blue;font-weight:900;}
 div ul .downloadlinks {text-align:center; color:red;}
 .menu {
   width: 100%;
