@@ -125,16 +125,30 @@ h5 {margin:30px; font-size:30px; }
 .author {fontsize:30px; color:black;padding:10px}}
 
 /* FOOTER'S CSS */
+.face {
+  font-size: 24px;
+  color: white;
+  letter-spacing: 20px;
+  
+}
+div :hover > .face {
+  color: white;
+  transform: scale(1.1);
+  transition: all .4s ease-in-out;
+}
+.weblinks {
+  color: black;
+  font-weight: 600;
+}
 
-
-.socialcnt {
-  background-color: #1F8EB7;
-  display: inline-block;
-  width: 100%;
+/*  .socialcnt {
+   background-color: #1F8EB7;
+  display: inline-block; 
+  width: 100%; 
   height: 90px;
   text-align: center;
-  padding: 20px 20px;
-}
+ padding: 20px 20px; */
+/* }
 @media (max-width: 767px) {
 .socialcnt {
    height: 60px; 
@@ -170,7 +184,7 @@ div :hover > .weblinks {
  padding-top:5px;
  background-color: #5A5B67;
  margin: 50px 0px 0px 30px;
-}
-
+} */
+  
 
 
