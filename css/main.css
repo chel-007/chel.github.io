@@ -110,6 +110,7 @@ menu .sub {
 body {background-color:white;display:scroll;
 font-family: 'Roboto Mono', monospace;
 font-family: 'Sriracha', cursive;
+font-size: 24px;
 }
 h1 {text-align: center;color:red; font-size:40px}
 h3 {margin:20px; color:blue; font-size:20px}
@@ -125,6 +126,9 @@ h5 {margin:30px; font-size:30px; }
 .author {fontsize:30px; color:black;padding:10px}}
 
 /* FOOTER'S CSS */
+footer {
+  font-family: Arial;
+}
 .face {
   font-size: 20px;
   color: white;
