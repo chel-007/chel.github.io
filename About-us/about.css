@@ -83,7 +83,7 @@ padding: 8px 70px;
   height: 70px;
   float: left;
   margin-top: 10px;
-  padding: 5px 15px;
+  padding: 3px 15px;
   background-image: url(https://github.com/Chel-Ash/chel.github.io/blob/master/CHELOVERBOARD%20_thumbnail.png);
   background-size: cover;
 }
@@ -91,7 +91,7 @@ menu .sub {
   color:black;
 }
 body {
-  font-size: 16px;
+  font-size: 12px;
 }
 
 
