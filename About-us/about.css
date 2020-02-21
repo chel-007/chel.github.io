@@ -1,3 +1,8 @@
+.responsive {
+  width: 100%;
+  height: auto;
+}
+
 /*  Nav Bar CSS */
 
 .menu {
@@ -85,6 +90,12 @@ padding: 8px 70px;
 menu .sub {
   color:black;
 }
+body {
+  font-size: 16px;
+}
+
+
+
 
 /* FOOTER'S CSS */
 footer {
