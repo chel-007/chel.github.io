@@ -1,3 +1,4 @@
+/*  Contact's Page Image Bg Css */
 .responsive {
   width: 100%;
   height: auto;
@@ -91,8 +92,39 @@ padding: 8px 70px;
 menu .sub {
   color:black;
 }
+
+/*  Contact's Body Css */
 body {
   font-weight: 600;
+}
+
+/*    Contact's Form CSS */
+form {
+  margin: 0px 0px 0px 80px;
+  padding: 0px 60px 0px 0px;
+  font-family: Lato;
+  line-height: 35px;
+}
+label {
+  font-size: 20px;
+}
+#newsletter {
+  font-size: 18px;
+  font-weight: 500;
+}
+.check {
+  font-size: 11px;
+  padding: 0px 0px 0px 6px;
+}
+.submit {
+  margin: 0px 0px 0px -20px;
+  padding-top: 15px;
+}
+.email {
+  margin: 0px 0px 0px 70px;
+  padding-top: 20px;
+  font-family: Lato;
+  padding: 20px 5px;
 }
 
 
