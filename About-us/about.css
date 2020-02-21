@@ -86,14 +86,6 @@ menu .sub {
   color:black;
 }
 
-/* BODY'S CSS */
-
-body {background-color:white;display:scroll;
-font-family: 'Roboto Mono', monospace;
-font-family: 'Sriracha', cursive;
-font-size: 20px;
-}
-
 /* FOOTER'S CSS */
 footer {
   font-family: Lato;
