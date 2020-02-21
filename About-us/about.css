@@ -114,10 +114,10 @@ label {
 }
 .check {
   font-size: 11px;
-  padding: 0px 0px 0px 6px;
+  padding: 0px 0px 0px 10px;
 }
 .submit {
-  margin: 0px 0px 0px -5px;
+  margin: 0px 0px 0px -20px;
   padding-top: 15px;
 }
 .email {
