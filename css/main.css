@@ -111,6 +111,7 @@ body {background-color:white;display:scroll;
 font-family: 'Roboto Mono', monospace;
 font-family: 'Sriracha', cursive;
 font-size: 20px;
+margin: 5px;
 }
 h1 {text-align: center;color:red; font-size:40px}
 h3 {margin:20px; color:blue; font-size:20px}
