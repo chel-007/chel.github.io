@@ -102,6 +102,30 @@
     </ul></div></nav>
   <!-- Navigation dropdown menu that must be present in all website's pages -->
   <!-- End of the Navigation Bar Tags -->
+       <p class="date"><span id="datetime"></span><a href="#">Contact Us</a></p>
+<script>
+(function() {
+    var days = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
+
+    var months = ['January','February','March','April','May','June','July','August','September','October','November','December'];
+
+    Date.prototype.getMonthName = function() {
+        return months[ this.getMonth() ];
+    };
+    Date.prototype.getDayName = function() {
+        return days[ this.getDay() ];
+    };
+})();
+var now = new Date();
+var day = now.getDayName();
+var month = now.getMonthName();
+var date = now.getDate();
+document.getElementById("datetime").innerHTML = day +", "+ month +" "+ date;
+</script>
+<br>
+<span class="mainheader1">Chel</span>
+ <span class="mainheader2">Overboard</span><br>
+<p class="latest">LATEST UPDATES</p>
   <!-- For Index.html Page i.e Home: Showing 4 Game Mod Content 
        For Each Genre,,, View all available in respective pages -->
   <div id="animegames" class="allgamesdivs">
