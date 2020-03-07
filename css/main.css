@@ -104,6 +104,38 @@ padding: 8px 70px;
 menu .sub {
   color:black;
 }
+.date {
+  background-color: #3F3F3F;
+  color: white;
+  height:40px;
+  padding-top: 5px;
+}
+#datetime {
+  margin: 30px;
+}
+.mainheader1 {
+  color: rgba(0,200,0,0.9);
+  padding-top: 120px;
+  font-size: 35px;
+  font-weight: 600;
+  font-family: cursive;
+  margin: 30px;
+}
+.mainheader2 {
+  color: rgba(0,0,250,0.9);
+  padding-top: 120px;
+  font-size: 35px;
+  font-weight: 600;
+  font-family: cursive;
+  margin: -30px;
+}
+.latest {
+ font-size: 25px;
+ border-left: 5px solid rgb(250,0,0);
+ margin: 30px;
+ color: black;
+ letter-spacing: 1px;
+}
 
 /* BODY'S CSS */
 
