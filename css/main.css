@@ -110,6 +110,9 @@ menu .sub {
   height:40px;
   padding-top: 5px;
 }
+.datebox {
+  padding-top:10px;
+}
 #datetime {
   margin: 30px;
 }
