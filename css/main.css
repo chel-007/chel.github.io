@@ -20,6 +20,7 @@ font-weight:800;}
   border-left:4px solid rgb(250,0,0);
   position: relative;
   height: 10%;
+  line-height: 120%
 }
 .gamename a {
  color: black;
@@ -165,8 +166,8 @@ menu .sub {
 /* BODY'S CSS */
 
 body {background-color:white;display:scroll;
-font-family: 'Roboto Mono', monospace;
-font-family: 'Sriracha', cursive;
+font-family: 'Roboto Mono', 'Lato';
+/* font-family: 'Sriracha', cursive; */
 font-size: 18px;
 margin: 5px;
 }
