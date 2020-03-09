@@ -19,11 +19,11 @@ font-weight:800;}
 .gamename {
   border-left:4px solid rgb(250,0,0);
   position: relative;
-  height: 10%;
+  height: 20px;
 }
 .gamename a {
  color: black;
- font-weight: 500;
+ font-weight: 600;
  }
 .gamename:hover > a {
   color: black;
