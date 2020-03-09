@@ -170,6 +170,23 @@ font-family:'Lato';
 font-size: 17px;
 margin: 5px;
 }
+.top-left {
+  font-weight: 400;
+  background-color: rgb(200,0,0) ;
+  width: 65px;
+  margin: 0px 5px;
+  padding: 1px;
+  text-align: center;
+}
+.top-left a {
+  color:white;
+  font-size: 13.5px;
+}
+.top-left:hover > a {
+  color:white;
+}
+
+
 h1 {text-align: center;color:red; font-size:40px}
 h3 {margin:20px; color:blue; font-size:20px}
 h5 {margin:30px; font-size:30px; }
@@ -204,50 +221,6 @@ div :hover > .face {
   font-size: 18px;
 }
 
-/*  .socialcnt {
-   background-color: #1F8EB7;
-  display: inline-block; 
-  width: 100%; 
-  height: 90px;
-  text-align: center;
- padding: 20px 20px; */
-/* }
-@media (max-width: 767px) {
-.socialcnt {
-   height: 60px; 
-  }}
-.face {
-  font-size: 20px;
-  color: white;
-  letter-spacing: 20px;
-  
-}
-div :hover > .face {
-  color: white;
-  transform: scale(1.1);
-  transition: all .4s ease-in-out;
-}
-.footercnt {
-  background-color: #060D3B;
-  height: 100%;
-  width: 100%;
-  color: white;
-  margin: -50px;
-}
-.content {
-    padding-top: 50px;
-  }
-.weblinks {
-  color: white;
-}
-div :hover > .weblinks {
-  color: white;
-}
-.lastfooter {
- padding-top:5px;
- background-color: #5A5B67;
- margin: 50px 0px 0px 30px;
-} */
-  
+
 
 
