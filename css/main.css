@@ -128,12 +128,13 @@ menu .sub {
 }
 .date {
   background-color: black;
-  color: black;
+  color: white;
   height:40px;
   padding-top: 5px;
 }
 .datebox {
-  padding-top:10px;
+  padding-top:50px;
+  
 }
 #datetime {
   margin: 30px;
