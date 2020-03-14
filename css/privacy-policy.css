@@ -1,6 +1,4 @@
 /*  Nav Bar CSS */
-
-
 .menu {
   width: 100%;
   height: 100px;
@@ -87,7 +85,7 @@ menu .sub {
   color:black;
 /* Privacy Policy's Page CSS */
   
-div {
+.policypage {
   padding:40px;
   font-family: Lato;
   color: rgb(50,50,50);
