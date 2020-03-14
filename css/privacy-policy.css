@@ -104,3 +104,25 @@ h4 {
 a {
   color: #F67E7E;
 }
+  
+  
+/* FOOTER'S CSS */
+footer {
+  font-family: Lato;
+}
+.face {
+  font-size: 20px;
+  color: white;
+  letter-spacing: 20px;
+  
+}
+div :hover > .face {
+  color: white;
+  transform: scale(1.1);
+  transition: all .4s ease-in-out;
+}
+.weblinks {
+  color: black;
+  font-weight: 600;
+  font-size: 18px;
+}
