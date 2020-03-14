@@ -85,7 +85,7 @@ menu .sub {
   color:black;
 /* Privacy Policy's Page CSS */
   
-.policypage {
+body {
   padding:40px;
   font-family: Lato;
   color: rgb(50,50,50);
@@ -99,7 +99,7 @@ h2 {
 h4 {
   font-size:20px;
 }
-.policypage a {
+body a {
   color: #F67E7E;
 }
   
