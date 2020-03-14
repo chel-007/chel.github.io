@@ -85,13 +85,13 @@ menu .sub {
   color:black;
 /* Privacy Policy's Page CSS */
   
-body {
+/* body {
   padding:40px;
   font-family: Lato;
   color: rgb(50,50,50);
   font-size: 19px;
-  line-height: 1.8;
-}
+  line-height: 1.8; */
+
 h2 {
   font-size: 35px;
   font-weight: 900;
@@ -99,7 +99,7 @@ h2 {
 h4 {
   font-size:20px;
 }
-body a {
+section a {
   color: #F67E7E;
 }
   
