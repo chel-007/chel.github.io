@@ -133,8 +133,7 @@ menu .sub {
   padding-top: 5px;
 }
 .datebox {
-  padding:1px;
-  position:relative;
+  padding-top:1px;
 }
 #datetime {
   margin: 30px;
