@@ -141,7 +141,7 @@ menu .sub {
 }
 .datebox {
   padding-top:5px;
- margin: 0px;
+ width: 100px;
 }
 #datetime {
   margin: 30px;
