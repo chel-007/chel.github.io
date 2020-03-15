@@ -185,6 +185,23 @@ margin: 5px;
 .top-left:hover > a {
   color:white;
 }
+.gamecont {
+  margin: 20px;
+}
+@media screen and (max-width: 750px) {
+  .gamename {
+    text-align: center;
+  }
+}
+.gamename {
+  font-size: 21px;
+  border-left: 3px solid rgb(250,0,0);
+  line-height: 1.2
+  
+}
+.gamedate {
+  font-size: 13px;
+}
 
 
 h1 {text-align: center;color:red; font-size:40px}
