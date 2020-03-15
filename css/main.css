@@ -175,6 +175,9 @@ font-size: 17px;
 margin: 0px;
 padding-top: 100px;
 }
+.slide-content .scroller {
+  width: 1024px;
+}
 .top-left {
   font-weight: 400;
   background-color: rgb(200,0,0) ;
