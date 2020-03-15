@@ -18,7 +18,7 @@ font-weight:800;} */
 font-weight:800;}
 .gamename {
   border-left:4px solid rgb(250,0,0);
-  position: relative;
+/*   position: relative; */
   height: 20px;
 }
 .gamename a {
@@ -186,9 +186,9 @@ padding-top: 100px;
 .top-left:hover > a {
   color:white;
 }
-.gamecont {
+/* .gamecont {
   margin: 20px;
-}
+} */
 @media screen and (max-width: 750px) {
   .gamename {
     text-align: center;
