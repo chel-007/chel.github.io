@@ -141,7 +141,7 @@ menu .sub {
 }
 .datebox {
   padding-top:5px;
- margin: -5px;
+ margin: -10px;
 }
 #datetime {
   margin: 30px;
@@ -227,7 +227,7 @@ h5 {margin:30px; font-size:30px; }
 
 footer {
   font-family: Lato;
-  margin: 0px;
+  margin: -10px;
 }
 .face {
   font-size: 20px;
