@@ -84,13 +84,16 @@ padding: 8px 70px;
 menu .sub {
   color:black;
 /* Privacy Policy's Page CSS */
-  
-/* body {
-  padding:40px;
-  font-family: Lato;
-  color: rgb(50,50,50);
-  font-size: 19px;
-  line-height: 1.8; */
+
+}
+body {background-color:white;
+display:scroll;
+font-family:'Lato';
+/* font-size: 17px; */
+margin: 3px;
+padding-top: 100px;
+padding:40px;
+}
 
 section h2 {
   font-size: 35px;
