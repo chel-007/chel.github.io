@@ -164,10 +164,11 @@ menu .sub {
 
 
 
-body {background-color:white;display:scroll;
+body {background-color:white;
+ display:scroll;
 font-family:'Lato';
 font-size: 17px;
-margin: 20px;
+/* margin: 20px; */
 padding-top: 100px;
 }
 .top-left {
