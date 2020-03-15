@@ -175,7 +175,7 @@ body {background-color:white;
  display:scroll;
 font-family:'Lato';
 font-size: 17px;
-margin: 0px;
+margin: 2px;
 padding-top: 100px;
 }
 .top-left {
@@ -226,6 +226,7 @@ h5 {margin:30px; font-size:30px; }
 
 footer {
   font-family: Lato;
+  margin: 0px;
 }
 .face {
   font-size: 20px;
