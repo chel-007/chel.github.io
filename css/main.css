@@ -14,7 +14,7 @@ div ul .downloadlinks {text-align:center; color:blue;}
 div ul .downloadlinks button {background-color:rgb(0,245,0);
 font-weight:800;} */
 .games {
- margin: 2px;
+ margin: 10px;
  overflow-x: hidden;
 }
 /** {
@@ -141,6 +141,7 @@ menu .sub {
 }
 .datebox {
   padding-top:5px;
+ margin: 0px;
 }
 #datetime {
   margin: 30px;
@@ -175,7 +176,7 @@ body {background-color:white;
  display:scroll;
 font-family:'Lato';
 font-size: 17px;
-margin: 2px;
+margin: 10px;
 padding-top: 100px;
 }
 .top-left {
