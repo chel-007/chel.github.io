@@ -133,7 +133,7 @@ menu .sub {
   padding-top: 5px;
 }
 .datebox {
-  padding-top:8px;
+  padding-top:5px;
 }
 #datetime {
   margin: 30px;
@@ -168,7 +168,7 @@ body {background-color:white;
  display:scroll;
 font-family:'Lato';
 font-size: 17px;
-margin: 5px;
+margin: 3px;
 padding-top: 100px;
 }
 .top-left {
