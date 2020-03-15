@@ -92,11 +92,11 @@ menu .sub {
   font-size: 19px;
   line-height: 1.8; */
 
-h2 {
+section h2 {
   font-size: 35px;
   font-weight: 900;
 }
-h4 {
+section h4 {
   font-size:20px;
 }
   
