@@ -199,21 +199,23 @@ padding-top: 100px;
 .top-left:hover > a {
   color:white;
 }
- @media screen and (max-width: 750px) {
+
+.gamecont {
+  margin: 20px;
+}
+.gamenameinpg {
+  font-size: 21px;
+  border-left: 3px solid rgb(250,0,0);
+  line-height: 1.2
+ }
+@media screen and (max-width: 750px) {
   .gamenameinpg {
     text-align: center;
   }
 }
-.titleinpg {
-  font-size: 21px;
-  border-left: 3px solid rgb(250,0,0);
-  line-height: 1.2
-  
-}
 .gamedate {
   font-size: 13px;
 }
-
 
 h1 {text-align: center;color:red; font-size:40px}
 h3 {margin:20px; color:blue; font-size:20px}
