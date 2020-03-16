@@ -223,11 +223,12 @@ h3 {margin:20px; color:blue; font-size:20px}
 .gamedate {
   font-size: 13px;
 }
-.threerowimg {
-  display: block;
-  max-width: 100%;
-  height: auto;
-}
+@media screen and (max-width: 660px) {
+  .threerowimg {
+   display: block;
+/*    max-width: 100%;
+   height: auto; */
+ }}
 .howtodownload {
   font-size: 23px;
   font-weight: 600;
