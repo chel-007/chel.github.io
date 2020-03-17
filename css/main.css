@@ -100,7 +100,7 @@ menu .sub {
   padding-top: 5px;
 }
 .datebox {
-  padding-top:5px;
+  padding-top:7px;
  margin: -10px;
 }
 #datetime {
@@ -252,6 +252,7 @@ h3 {margin:20px; color:blue; font-size:20px}
   font-size: 20px;
 }
 .addcont {
+  padding-top: 10px;
 } 
 ul{
  display: inline-block;
