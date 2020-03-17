@@ -101,10 +101,11 @@ menu .sub {
 }
 .datebox {
   padding-top:7px;
+  padding: 10px;
 /*   position:absolute; */
 /*   left:0;
   right:0; */
- margin: -15px;
+/*  margin: -10px; */
 }
 #datetime {
   margin: 30px;
