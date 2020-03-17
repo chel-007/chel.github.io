@@ -100,11 +100,11 @@ menu .sub {
   padding-top: 5px;
 }
 .datebox {
-  padding-top:3px;
+  padding-top:7px;
 /*   position:absolute; */
 /*   left:0;
   right:0; */
-/*  margin: -10px; */
+ margin: -10px;
 }
 #datetime {
   margin: 30px;
@@ -138,7 +138,7 @@ body {background-color:white;
 display:scroll;
 font-family:'Lato';
 font-size: 17px;
- margin: 0px;
+ margin: 10px;
 padding-top: 100px;
 }
 
@@ -147,9 +147,9 @@ padding-top: 100px;
 /*  margin: 10px; */
  overflow-x: hidden;
 }
- * {
+/*  * {
   border: 1px solid #f00 !important;
-}
+} */
  .games .downloadlinks {text-align:center; color:blue;}
  .games .downloadlinks button {background-color:rgb(0,245,0);
 font-weight:800;}
@@ -270,7 +270,7 @@ ul{
 /* FOOTER'S CSS - EVERY PAGE */
 footer {
   font-family: Lato;
-/*   margin: -10px; */
+  margin: -10px;
 }
 .face {
   font-size: 20px;
