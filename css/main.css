@@ -101,11 +101,10 @@ menu .sub {
 }
 .datebox {
   padding-top:7px;
-  padding: 10px;
 /*   position:absolute; */
 /*   left:0;
   right:0; */
-/*  margin: -10px; */
+ margin: -10px;
 }
 #datetime {
   margin: 30px;
@@ -212,7 +211,7 @@ h3 {margin:20px; color:blue; font-size:20px}
 
 /* INDIVIDUAL GAME PAGES CSS */
 .gamecont {
-  
+  margin: 8px;
 }
 .gamenameinpg {
   font-size: 21px;
