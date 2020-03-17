@@ -135,13 +135,13 @@ body {background-color:white;
 display:scroll;
 font-family:'Lato';
 font-size: 17px;
-/* margin: 10px; */
+ margin: 10px;
 padding-top: 100px;
 }
 
 /* GAME-MOD PAGE CONTAINER = GAMES CSS */
 .games {
- margin: 10px;
+/*  margin: 10px; */
  overflow-x: hidden;
 }
  * {
