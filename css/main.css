@@ -135,7 +135,7 @@ body {background-color:white;
 display:scroll;
 font-family:'Lato';
 font-size: 17px;
-margin: 10px;
+/* margin: 10px; */
 padding-top: 100px;
 }
 
@@ -144,9 +144,9 @@ padding-top: 100px;
  margin: 10px;
  overflow-x: hidden;
 }
-* {
+/* * {
   border: 1px solid #f00 !important;
-}
+} */
  .games .downloadlinks {text-align:center; color:blue;}
  .games .downloadlinks button {background-color:rgb(0,245,0);
 font-weight:800;}
