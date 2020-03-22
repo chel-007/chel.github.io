@@ -304,6 +304,9 @@ ul{
 @media screen and (min-width:400px) {
   #paypal-button-container {
     width:250px;}}
+#paypal-button-container {
+  background-color: white;
+}
 
 /* FOOTER'S CSS - EVERY PAGE */
 footer {
