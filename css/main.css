@@ -267,6 +267,30 @@ ul{
 .unordered2 {
   padding-left: 25px;
 }
+
+/* Final Download Page's CSS */
+.freedownloadlinks {
+  text-align: center;
+  color: rgba(65,65,200,0.9);
+  font-family: cursive;
+  font-weight: 500;
+}
+.ExplainAds {
+  font-size: 18px;
+  font-style: italic;
+  font-weight: 600;
+}
+.stepstoload {
+  font-weight: 500;
+  font-size: 18px;
+}
+.finaldownload {
+  text-align: center;
+}
+.btn.btn-square {
+  border-radius: 0;
+}
+
 /* FOOTER'S CSS - EVERY PAGE */
 footer {
   font-family: Lato;
