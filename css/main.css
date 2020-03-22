@@ -290,6 +290,12 @@ ul{
 .btn.btn-square {
   border-radius: 0;
 }
+@media screen and (max-width:400px) {
+  #paypal-button-container {
+    width:100px;}}
+@media screen and (min-width:400px) {
+  #paypal-button-container {
+    width:250px;}}
 
 /* FOOTER'S CSS - EVERY PAGE */
 footer {
