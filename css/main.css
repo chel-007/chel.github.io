@@ -287,8 +287,15 @@ ul{
 .finaldownload {
   text-align: center;
 }
-.btn.btn-square {
-  border-radius: 0;
+.finaldownload button {
+  color: white;
+  background-color: rgba(220,0,0,0.9);
+  border: 0px;
+  font-size: 17px;
+  padding: 3px 6px;
+}
+.finaldownload :hover > button {
+  border: 1px solid rgba(0,0,0,1);
 }
 @media screen and (max-width:400px) {
   #paypal-button-container {
