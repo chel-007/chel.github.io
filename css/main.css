@@ -9,7 +9,7 @@
 .navbar-custom {
   background-color: #24BCF9;
   width: 100%;
-  min-height: 12vh;
+  min-height: 8vh;
   margin: 0 auto;
   box-shadow: inset 0px 0px 40px 0px rgba(0,0,0,0.4),
     -5px 3px 20px 3px rgba(0, 0, 0, 0.7);
@@ -21,7 +21,7 @@
 }
 @media (max-width: 990px) {
   .navbar-custom {
-    min-height: 48px;
+    min-height: 46px;
     box-shadow: inset 0px 0px 15px 0px rgba(0,0,0,0.4),
     -5px 0px 10px 3px rgba(0, 0, 0, 0.6);
   } 
@@ -69,7 +69,7 @@ ul li.dropdown div.dropdown-menu {
   padding-top: 5px;
 }
 .datebox {
-  padding-top:7px;
+  padding-top:5px;
 /*   position:absolute; */
 /*   left:0;
   right:0; */
