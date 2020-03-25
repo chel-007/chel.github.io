@@ -9,7 +9,7 @@
 .navbar-custom {
   background-color: #24BCF9;
   width: 100%;
-  min-height: 32vh;
+  min-height: 25vh;
   margin: 0 auto;
   box-shadow: inset 0px 0px 40px 0px rgba(0,0,0,0.4),
     -5px 3px 20px 3px rgba(0, 0, 0, 0.7);
