@@ -303,7 +303,21 @@ ul{
 #paypal-button-container {
   background-color: white;
 }
-
+/* REACH US PAGE'S CSS */
+.reach-us {
+  margin: 130px;
+  background-color: rgba(65,65,65,0.4);
+  border-radius: 8px;
+}
+.legit-mod {
+  font-weight: 700;
+  font-family: Lato;
+  font-style: italic;
+}
+.thanks {
+  font-weight: 600;
+  font-family: Lato;
+}
 /* FOOTER'S CSS - EVERY PAGE */
 footer {
   font-family: Lato;
