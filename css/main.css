@@ -309,6 +309,8 @@ ul{
   background-color: rgba(65,65,65,0.4);
   border-radius: 8px;
 }
+.form-field {
+  border: 0px;
 .legit-mod {
   font-weight: 700;
   font-family: Lato;
