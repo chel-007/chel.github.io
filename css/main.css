@@ -311,6 +311,8 @@ ul{
 }
 .form-field {
   border: 0px;
+  margin: 0px;
+}
 .legit-mod {
   font-weight: 700;
   font-family: Lato;
