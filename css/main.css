@@ -312,6 +312,7 @@ ul{
 .form-field {
   border: 0px;
   margin: 0px;
+  padding: 10px;
 }
 .legit-mod {
   font-weight: 700;
