@@ -120,6 +120,7 @@ padding-bottom: 25px;
   position: relative;
   text-align: center;
   color: white;
+  margin: 0 auto;
 }
 /* Centered text */
 .centertxt {
