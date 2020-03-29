@@ -111,10 +111,9 @@ ul li.dropdown div.dropdown-menu {
   height: auto;
 }}
 .responsive {
+ object-fit: cover;
   min-width: 100%;
- min-height: 100%;
-  width: auto;
-  height: auto;
+ min-height: auto;;
 padding-bottom: 25px;
 }
 .homepage-img {
