@@ -60,6 +60,81 @@ ul li.dropdown div.dropdown-menu {
   border-radius: 0px;
   padding: 7px;
 }
+/* Homepage's Image And Elements */
+@media (max-width:960px) {
+  .centertxt {
+  position: absolute;
+  top: 34%;
+  left: 37%;
+  transform: translate(-50%, -50%);
+  font-size: 33px;
+  font-family: 'Rubik';
+  font-weight: 600;
+}}
+@media (min-width:800px) {
+  .centertxt {
+  position: absolute;
+  top: 34%;
+  left: 43%;
+  transform: translate(-50%, -50%);
+  font-size: 30px;
+  font-family: 'Rubik';
+  font-weight: 600;
+}}  
+@media (max-width:660px) {
+  .centertxt {
+  position: absolute;
+  top: 31%;
+  left: 42%;
+  transform: translate(-50%, -50%);
+  font-size: 24px;
+  font-family: 'Rubik';
+  font-weight: 500;
+}}
+@media (max-width:900px) {
+  .centertxt {
+  display: none;
+}}
+@media (min-width:900px) {
+  .subject {
+  font-size: 30px;
+  font-weight: 400;
+  position: relative;
+  transform: translate(-50%, -50%);
+  font-family: 'Rubik';
+  top: 48%;
+  left: 42%;
+ }}
+.responsive {
+  width: 100%;
+  height: auto;
+  padding-top: 5px;
+}
+.homepage-img {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+/* Centered text */
+.centertxt {
+  position: absolute;
+  top: 38%;
+  left: 35%;
+  transform: translate(-50%, -50%);
+  font-size: 34px;
+  font-family: 'Rubik';
+  font-weight: 700;
+}
+.subject {
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  font-family: 'Rubik';
+  top: 48%;
+  left: 42%;
+}
+/* End of Homepage's Image And Elements */
 
 /* JAVASCRIPT newDATE AND CHELOVERBOARD+ LATEST UPDATES CSS */
 .date {
