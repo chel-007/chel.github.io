@@ -153,6 +153,17 @@ padding-bottom: 25px;
   text-decoration: none;
 }
 /* End of Homepage's Image And Elements */
+/* Homepage Body's Css */
+.introduction-book {
+  font-weight: 700;
+  color: rgba(0,15,0,1);
+  font-family: 'Lato';
+  font-size: 30px;
+}
+.body-book {
+  font-size: 18px;
+}
+
 
 /* JAVASCRIPT newDATE AND CHELOVERBOARD+ LATEST UPDATES CSS */
 .date {
