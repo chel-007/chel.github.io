@@ -4,9 +4,9 @@
 @media (min-width:801px)  { /* tablet, landscape iPad, lo-res laptops ands desktops */ }
 @media (min-width:1025px) { /* big landscape tablets, laptops, and desktops */ }
 @media (min-width:1281px) { /* hi-res laptops and desktops */ }
-/*   * {
+   * {
   border: 1px solid #f00 !important;
-}  */
+} 
 /*   Nav Bar CSS  */
 .navbar-custom {
   background-color: #24BCF9;
