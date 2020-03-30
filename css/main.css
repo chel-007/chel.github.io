@@ -184,7 +184,18 @@ button.starttheguide {
   padding: 10px;
   font-family: 'Tenor Sans', sans-serif;
 }
-
+.article-name {
+  border-left:4px solid rgb(0,0,250);
+  position:relative;
+  height: 25px;
+}
+.article-name a {
+  color: black;
+  font-weight: 300;
+}
+.article-name:hover > a {
+  color: black;
+}
 
 /* JAVASCRIPT newDATE AND CHELOVERBOARD+ LATEST UPDATES CSS */
 .date {
