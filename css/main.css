@@ -63,7 +63,7 @@ ul li.dropdown div.dropdown-menu {
   padding: 7px;
 }
 
-/* @media (max-width:960px) {
+ @media (max-width:960px) {
   .centertxt {
   position: absolute;
   top: 34%;
@@ -175,7 +175,7 @@ Homepage Body's Css
  &border-bottom: 2px solid rgba(0,0,260,0.9);
   padding-bottom: 8px; 
   text-align: center;
-}*/
+}
 button.starttheguide {
   border-radius: 50px;
   font-size: 17px;
