@@ -160,7 +160,7 @@ padding-bottom: 25px;
   width: 400px;
   height: auto;
 }
- @media (max-width:750) {
+ @media (max-width:750px) {
   .beginners-box {
    width: 100%;
    height: auto;
