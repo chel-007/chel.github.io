@@ -62,8 +62,8 @@ ul li.dropdown div.dropdown-menu {
   border-radius: 0px;
   padding: 7px;
 }
-/* Homepage's Image And Elements */
-@media (max-width:960px) {
+
+/* @media (max-width:960px) {
   .centertxt {
   position: absolute;
   top: 34%;
@@ -87,24 +87,24 @@ ul li.dropdown div.dropdown-menu {
   top: 48%;
   left: 42%;
  }}
-/* @media (max-width:750px) {
+ @media (max-width:750px) {
   .responsive {
   width: 100%;
   height: auto;
-}} */
-/* .responsive {
+}} 
+ .responsive {
  object-fit: cover;
   min-width: 100%;
  min-height: auto;;
 padding-bottom: 25px;
-} */
+}
 .homepage-img {
   position: relative;
   text-align: center;
   color: white;
   margin: -12px;
 }
-/* Centered text */
+ Centered text
 .centertxt {
   position: absolute;
   top: 38%;
@@ -123,19 +123,19 @@ padding-bottom: 25px;
   top: 48%;
   left: 42%;
 }
-/* .subject-links {
+.subject-links {
   color: white;
   text-decoration: none;
   border-bottom: 1px solid rgba(255,255,255,0.4);
   padding-bottom: 2px;
-} */
+} 
 .homepage-img p:hover > .subject-links {
   opacity: 1;
   color: rbga(0,0,0,1);
   text-decoration: none;
 }
-/* End of Homepage's Image CSS */
-/* Homepage Body's Css */
+ End of Homepage's Image CSS 
+Homepage Body's Css
 .introduction-book {
   font-weight: 700;
   color: rgba(0,15,0,1);
@@ -172,15 +172,15 @@ padding-bottom: 25px;
 .ai-quest {
   font-style: italic;
   font-size: 19px;
-/*   border-bottom: 2px solid rgba(0,0,260,0.9);
-  padding-bottom: 8px; */
+ &border-bottom: 2px solid rgba(0,0,260,0.9);
+  padding-bottom: 8px; 
   text-align: center;
 }
 button.starttheguide {
   border-radius: 50px;
   font-size: 17px;
   padding: 10px;
-  font-family: 'Tenor Sans', sans-serif; 
+  font-family: 'Tenor Sans', sans-serif;  */
 
 
 /* JAVASCRIPT newDATE AND CHELOVERBOARD+ LATEST UPDATES CSS */
