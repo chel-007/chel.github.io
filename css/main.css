@@ -152,7 +152,7 @@ padding-bottom: 25px;
   color: rbga(0,0,0,1);
   text-decoration: none;
 }
-/* End of Homepage's Image And Elements */
+/* End of Homepage's Image CSS */
 /* Homepage Body's Css */
 .introduction-book {
   font-weight: 700;
@@ -162,7 +162,37 @@ padding-bottom: 25px;
 }
 .body-book {
   font-size: 18px;
+  line-height: 30px;
 }
+.beginners-quest {
+  padding: 60px;
+  background-color: rgba(206,240,252,1);
+  text-align: center;
+  width: 100%;
+}
+.beginners-box {
+  background-color: white;
+  font-size: 18px;
+  padding: 32px;
+  font-weight: 700;
+  
+}
+.beginners-text {
+  font-size: 18px;
+  font-weight: 400;
+}
+.ai-quest {
+  font-style: italic;
+  font-size: 19px;
+/*   border-bottom: 2px solid rgba(0,0,260,0.9);
+  padding-bottom: 8px; */
+  text-align: center;
+}
+button.starttheguide {
+  border-radius: 50px;
+  font-size: 17px;
+  padding: 10px;
+  font-family: 'Tenor Sans', sans-serif; 
 
 
 /* JAVASCRIPT newDATE AND CHELOVERBOARD+ LATEST UPDATES CSS */
