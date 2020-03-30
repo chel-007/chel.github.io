@@ -87,7 +87,7 @@ ul li.dropdown div.dropdown-menu {
   top: 48%;
   left: 42%;
  }}
- @media (max-width:750px) {
+/*  @media (max-width:750px) {
   .responsive {
   width: 100%;
   height: auto;
@@ -97,7 +97,7 @@ ul li.dropdown div.dropdown-menu {
   min-width: 100%;
  min-height: auto;;
 padding-bottom: 25px;
-}
+} */
 .homepage-img {
   position: relative;
   text-align: center;
