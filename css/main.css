@@ -162,7 +162,7 @@ padding-bottom: 25px;
 }
  @media (max-width:750) {
     .beginners-box {
-      width: 250px;
+      width: 100%;
       height: auto;
     }}
 .beginners-text {
@@ -172,7 +172,7 @@ padding-bottom: 25px;
 .ai-quest {
   font-style: italic;
   font-size: 19px;
- &border-bottom: 2px solid rgba(0,0,260,0.9);
+ border-bottom: 2px solid rgba(0,0,260,0.9);
   padding-bottom: 8px; 
   text-align: center;
 }
