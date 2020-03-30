@@ -110,12 +110,12 @@ ul li.dropdown div.dropdown-menu {
   width: 100%;
   height: auto;
 }}
-.responsive {
+/* .responsive {
  object-fit: cover;
   min-width: 100%;
  min-height: auto;;
 padding-bottom: 25px;
-}
+} */
 .homepage-img {
   position: relative;
   text-align: center;
@@ -257,9 +257,9 @@ padding-top: 100px;
 /*  margin: 10px; */
  overflow-x: hidden;
 }
-  * {
+/*   * {
   border: 1px solid #f00 !important;
-}  
+}   */
  .games .downloadlinks {text-align:center; color:blue;}
  .games .downloadlinks button {background-color:rgb(0,245,0);
 font-weight:800;}
