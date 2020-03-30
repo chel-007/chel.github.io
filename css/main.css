@@ -177,8 +177,12 @@ padding-bottom: 25px;
   font-weight: 700;
   width: 400px;
   height: auto;
-  
 }
+ @media (max-width:750) {
+    .beginners-box {
+      width: 250px;
+      height: auto;
+    }}
 .beginners-text {
   font-size: 18px;
   font-weight: 400;
