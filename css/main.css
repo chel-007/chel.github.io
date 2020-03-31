@@ -210,6 +210,8 @@ button.starttheguide {
 }
 .cheloverboard-blog {
   font-size: 35px;
+  color: black;
+  text-align: left;
 }
 .paragraph-blog {
   font-size: 19px;
@@ -225,11 +227,14 @@ text-overflow: ellipsis;
 } */
 .posts-header {
   font-size: 29px;
+  color: black;
+  text-align: left;
 }
 .posts-title {
   font-size: 25px;
   font-weight: 600;
   color: black;
+  text-align: left;
   text-decoration: none;
 }
 div:hover > a {
