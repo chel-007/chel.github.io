@@ -197,6 +197,44 @@ button.starttheguide {
   color: black;
 }
 
+/* ChelOverboard Blog's CSS */
+.blog {
+  margin: 0px 0px 0px 10px;
+}
+
+.homepage-img {
+  position: relative;
+}
+.blog {
+  padding-top: 8%;
+}
+.cheloverboard-blog {
+  font-size: 35px;
+}
+.paragraph-blog {
+  font-size: 19px;
+}
+.ellipses {
+display: -webkit-box;
+-webkit-line-clamp: 1;
+-webkit-box-orient: vertical;
+overflow: hidden;
+text-overflow: ellipsis;
+}
+.posts-header {
+  font-size: 29px;
+}
+.posts-title {
+  font-size: 25px;
+  font-weight: 600;
+  color: black;
+  text-decoration: none;
+}
+div:hover > a {
+  text-decoration: none;
+  color: black;
+}
+
 /* JAVASCRIPT newDATE AND CHELOVERBOARD+ LATEST UPDATES CSS */
 .date {
   background-color: black;
