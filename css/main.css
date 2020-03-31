@@ -213,6 +213,8 @@ button.starttheguide {
 }
 .paragraph-blog {
   font-size: 19px;
+  color: black;
+  text-align: left;
 }
 /* .ellipses {
 display: -webkit-box;
