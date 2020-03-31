@@ -198,9 +198,9 @@ button.starttheguide {
 }
 
 /* ChelOverboard Blog's CSS */
-.blog {
+/* .blog {
   margin: 0px 0px 0px 10px;
-}
+} */
 
 .homepage-img {
   position: relative;
@@ -214,13 +214,13 @@ button.starttheguide {
 .paragraph-blog {
   font-size: 19px;
 }
-.ellipses {
+/* .ellipses {
 display: -webkit-box;
 -webkit-line-clamp: 1;
 -webkit-box-orient: vertical;
 overflow: hidden;
 text-overflow: ellipsis;
-}
+} */
 .posts-header {
   font-size: 29px;
 }
