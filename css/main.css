@@ -240,6 +240,11 @@ text-overflow: ellipsis;
   text-align: center;
   color: black;
 }
+@media (max-width:750px) {
+  .blog-text-img1 {
+  font-size: 25px;
+}
+}
 .blog-text-img2 {
  position: absolute;
   top: 35%;
@@ -250,6 +255,11 @@ text-overflow: ellipsis;
   font-weight: 900;
   text-align: center;
   color: rgba(36,174,249,1)
+}
+@media (max-width:750px) {
+  .blog-text-img2 {
+  font-size: 25px;
+}
 }
 .posts-header {
   font-size: 29px;
