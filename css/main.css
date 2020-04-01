@@ -225,6 +225,32 @@ display: -webkit-box;
 overflow: hidden;
 text-overflow: ellipsis;
 } */
+.background-blog-img {
+  position:relative; 
+  border: 1px solid grey
+}
+.blog-text-img1 {
+ position: absolute;
+  top: 25%;
+  left: 0%;
+  transform: translate(-0%, -40%);
+  font-size: 30px;
+  font-family: cursive;
+  font-weight: 900;
+  text-align: center;
+  color: black;
+}
+.blog-text-img2 {
+ position: absolute;
+  top: 35%;
+  left: 10%;
+  transform: translate(-0%, 0%);
+  font-size: 30px;
+  font-family: cursive;
+  font-weight: 900;
+  text-align: center;
+  color: rgba(36,174,249,1)
+}
 .posts-header {
   font-size: 29px;
   color: black;
