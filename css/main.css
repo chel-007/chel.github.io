@@ -230,12 +230,24 @@ text-overflow: ellipsis;
   color: black;
   text-align: left;
 }
+@media (max-width:600px) {
+  .posts-header {
+    font-size: 25px; 
+  }
+}
 .posts-title {
   font-size: 25px;
   font-weight: 600;
   color: black;
   text-align: left;
-  text-decoration: none;
+/*   text-decoration: none; */
+}
+@media (max-width:600px) {
+  .posts-title {
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: 0.3px;
+  }
 }
 div:hover > a {
   text-decoration: none;
