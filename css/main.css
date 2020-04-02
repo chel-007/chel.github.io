@@ -62,7 +62,7 @@ ul li.dropdown div.dropdown-menu {
   border-radius: 0px;
   padding: 7px;
 }
-
+/*Home page Image's CSS  */
  @media (max-width:960px) {
   .centertxt {
   position: absolute;
@@ -135,6 +135,8 @@ padding-bottom: 25px;
   text-decoration: none;
 }
 /*  End of Homepage's Image CSS  */
+
+
 /* Homepage Body's Css */
 .introduction-book {
   font-weight: 700;
@@ -196,12 +198,9 @@ button.starttheguide {
 .article-name:hover > a {
   color: black;
 }
+/*  END OF HOMEPAGE BODY'S CSS*/
 
 /* ChelOverboard Blog's CSS */
-/* .blog {
-  margin: 0px 0px 0px 10px;
-} */
-
 .homepage-img {
   position: relative;
 }
@@ -307,6 +306,29 @@ div:hover > a {
   text-decoration: none;
   color: black;
 }
+/*  eND of ChelOverboard's Blog CSS*/
+
+/* Resources Page's CSS */
+.resources-page {
+  padding-top: 10%;
+}
+.resources-header {
+  font-size: 30px;
+  font-weight: 650;
+}
+.resources-body {
+  font-size: 19px;
+  line-height: 35px;
+}
+.resources-body li {
+  color: rgba(45,142,249,1);
+  font-weight: 500;
+}
+.resources-list {
+  font-size: 27px;
+  font-weight:600;
+}
+/* End Of Resources Page's CSS */
 
 /* JAVASCRIPT newDATE AND CHELOVERBOARD+ LATEST UPDATES CSS */
 .date {
@@ -348,6 +370,8 @@ div:hover > a {
  color: black;
  letter-spacing: 1px;
 }
+/* End of NewDate Latest Updates CSS */
+
 
 /* BODY OF ALL PAGES CSS */
 body {background-color:white;
@@ -408,6 +432,8 @@ font-weight:800;}
 .top-left:hover > a {
   color:white;
 }
+/* End Of Game Mod's CSS page */
+
 
 /* LEARN PYTHON3 PAGE CSS */
 h1 {text-align: center;color:red; font-size:40px}
