@@ -389,16 +389,6 @@
      <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
      <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
      <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
-   <form method="POST">
-  <div class="h-captcha" data-sitekey="51e4380c-3b18-4115-afb6-0d7d8af76fdb"></div>
-  <script src="https://hcaptcha.com/1/api.js" async defer></script>
-</form>
-  token = request.POST[`"h-captcha-response"]
-params = {
-   "secret": "0xA8d6dc88fAfdc6b5570cAE492b2Cc62458464595",
-   "response": token
-}
-json = http.POST("https://hcaptcha.com/siteverify", params)
 
     </body>
 
