@@ -49,7 +49,7 @@ url: "http://chel.github.io" # the base hostname & protocol for your site
 twitter_username: Chel_
 github_username:  Chel-Ash
 # Build settings
-theme: hack
+#theme: hack
 plugins:
   - jekyll-feed
   - jekyll-sitemap
