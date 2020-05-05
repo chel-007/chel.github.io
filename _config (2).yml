@@ -47,7 +47,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cheloverboard.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
-
+repository: Chel-Ash/chel.github.io
 # Build settings
 theme: minima
 plugins:
