@@ -48,6 +48,7 @@ baseurl: "/example" # the subpath of your site, e.g. /blog/
 url: "http://chel.github.io" # the base hostname & protocol for your site
 twitter_username: Chel_
 github_username:  Chel-Ash
+repository: Chel-Ash/chel.github.io
 # Build settings
 #theme: hack
 plugins:
