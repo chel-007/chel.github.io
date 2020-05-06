@@ -26,14 +26,14 @@
 <h5 class="addinfo">Additional Information</h5>
  <div class="addcont">
    <ul>
-      <li><img src="../../pictures/ZGirls.png" class="responsive" width="150" height="150"/></li></ul>
+      <li><img src="../../pictures/{{ page.gamemodpng }}" class="responsive" width="150" height="150"/></li></ul>
       <ul class="unordered2">
       <li>APK Name: {{ page.modname }}</li>
       <li>Developer: {{ page.developername }}</li>
       <li>Current Version: {{ page.version }}</li>
       <li>Requires Android: {{ page.androidversion }}</li>
       <li>{{ page.installs }} installs</li>
-      <li><a href="https://play.google.com/store/apps/details?id=com.xingjoys.zgirls.gp">Google Play Link</a></li>
+      <li><a href="{{ page.playstorelink }}">Google Play Link</a></li>
     </ul>
  </div> 
  </div>
