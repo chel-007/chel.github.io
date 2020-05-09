@@ -415,6 +415,9 @@ padding-top: 100px;
 }
 
 /*Anime Comicz Page Css */
+my-carousel {
+  margin: 0px;
+}
 .Anime-comic-header {
   text-align: center;
   color: #FF282C;
