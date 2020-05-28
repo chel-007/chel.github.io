@@ -24,7 +24,7 @@
 
 /* End of Navigation Bar CSS */
 /* Body's CSS */
-body { font-family: cursive; font-size: 17px; }
+body { font-family: 'Balsamiq Sans', Rubik; font-size: 17px; }
 
 /* End of Body's CSS */
 /* ChelOverboard Homepage's CSS */
@@ -77,7 +77,7 @@ ul { display: inline-block; vertical-align: top; list-style-type: none; margin: 
 
 /* End of Individual MOD Page's CSS */
 /* Final Download's Page CSS */
-.freedownloadlinks { text-align: center; color: rgba(65, 65, 200, 0.9); font-family: cursive; font-weight: 500; }
+.freedownloadlinks { text-align: center; color: rgba(65, 65, 200, 0.9); font-family: Rubik; font-weight: 500; }
 
 .ExplainAds { font-size: 18px; font-style: italic; font-weight: 600; }
 
@@ -2184,7 +2184,7 @@ a.text-dark:hover, a.text-dark:focus { color: #1d2124 !important; }
 
 /* End of Navigation Bar CSS */
 /* Body's CSS */
-body { font-family: cursive; font-size: 17px; }
+body { font-family: 'Balsamiq Sans', Rubik; font-size: 17px; }
 
 /* End of Body's CSS */
 /* ChelOverboard Homepage's CSS */
@@ -2237,7 +2237,7 @@ ul { display: inline-block; vertical-align: top; list-style-type: none; margin: 
 
 /* End of Individual MOD Page's CSS */
 /* Final Download's Page CSS */
-.freedownloadlinks { text-align: center; color: rgba(65, 65, 200, 0.9); font-family: cursive; font-weight: 500; }
+.freedownloadlinks { text-align: center; color: rgba(65, 65, 200, 0.9); font-family: Rubik; font-weight: 500; }
 
 .ExplainAds { font-size: 18px; font-style: italic; font-weight: 600; }
 
