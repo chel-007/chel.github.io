@@ -1,0 +1,30 @@
+---
+layout: default
+---
+   <!--Main container-->
+<div class="container-fluid gamecont">
+
+    <!--Grid row-->
+    <div class="row">
+
+        <!--Grid column-->
+    <div class="col-lg-9 col-md-12">
+    <h1 class="ChelOverboard"><font color=#3FD10E>Chel</font> <font color=#24BCF9>Overboard</font> <font color=rgba(0,0,0,1)>MODs</font></h1>
+  <p style="clear: both;"></p><br>
+<h1 class="post-header">{{ page.title }}</h1>
+<p>
+  {% assign author = site.authors | where: 'short_name', page.author | first %}
+  {% if author %}
+  <hr>
+    - By <a href="{{ author.url }}">{{ author.name }}</a> on {{ page.date | date_to_string }}
+  {% endif %}<p style="clear: left;"></p>
+  {% include game-body.html %}
+</p>
+
+</div>
+<!-- End of column -->
+
+</div>
+<!-- End of Row -->
+</div>
+<!-- End of Main Container -->

@@ -1,0 +1,10 @@
+- name: HOME
+  link: /
+- name: MODs
+  link: /mods-blog/
+- name: ANIME COMICS
+  link: /animecomics/
+- name: REQUEST MODs
+  link: /connect/
+- name: ABOUT
+  link: /about/

@@ -1,0 +1,235 @@
+/* Navigation Bar CSS */
+.navbar-custom {
+  background-color: #24BCF9;
+  width: 100%;
+  min-height: 8vh;
+  margin: 0 auto;
+  box-shadow: inset 0px 0px 40px 0px rgba(0,0,0,0.4),
+    -5px 3px 20px 3px rgba(0, 0, 0, 0.7);
+}
+.navbar-custom div ul a {
+    color: black;
+    font-weight: 600;
+    font-size: 17px;
+    font-family: Montserrat, sans-serif;
+}
+@media (max-width: 990px) {
+  .navbar-custom {
+    min-height: 46px;
+    box-shadow: inset 0px 0px 15px 0px rgba(0,0,0,0.4),
+    -5px 0px 10px 3px rgba(0, 0, 0, 0.6);
+  } 
+}
+.navbar-custom div ul a {
+  margin-left: 40px;
+}
+.dropdown-menu a {
+  margin-left: 0px !important;
+  padding: 13px;
+}
+.navbar-custom ul:hover > a{
+  opacity: 1;
+}
+@media (min-width: 979px) {
+  ul li.dropdown:hover >    div.dropdown-menu {
+    display: block;
+}}
+.navbar .dropdown-menu {
+ margin-top: 0px;
+ border-radius: 0px;
+}
+.dropdown-toggle-angle::after {
+  display: inline-block;
+  padding: 0.5rem;
+  font: normal normal normal 19px/0 FontAwesome;
+  content: "\f107";
+}
+.dropdown-toggle-align::after {
+  display: inline-block;
+  padding: 0.5rem;
+  font: normal normal normal 23px/1 FontAwesome;
+  content: "\f036";
+}
+@media (max-width: 950px) {
+  .navbar-custom ul li div:hover > a {
+  border-bottom: 1px solid rgba(0,0,0,0.1)
+}}
+/* End of Navigation Bar CSS */
+
+
+/* Body's CSS */
+body {
+font-family: cursive;
+font-size: 17px;
+}
+/* End of Body's CSS */
+
+
+/* ChelOverboard Homepage's CSS */
+.homepage {
+  padding-top: 7%;
+  text-align: center;
+  font-size: 19px;
+}
+.intro-home {
+  text-align: center;
+  color: #24BCF9;
+}
+/* * {
+  border: 1px solid #f00 !important;
+} */
+.social-icons {
+  display: inline-block;
+  padding: 1rem;
+  font: normal normal normal normal 55px/1 FontAwesome;
+}
+.learn-create-consult {
+  list-style-type: none;
+  padding: 0px;
+}
+/* End of Homepage's CSS */
+
+
+
+/* Blog's MODs Page CSS */
+.blog-container {
+  padding-top: 6%;
+}
+.borderaround {
+  border: 1px solid rgba(0,0,0,0.5);
+  box-shadow: inset 0px 3px 10px 0px rgba(65,150,150,0.7),
+                0px 0px 3px 2px rgba(0, 0, 0, 0.4);
+}
+.card-around-game {
+  text-align: center;
+  color: rgba(0,0,0,1);
+  border: 1.5px rgba(0,0,0,0.2) solid;
+}
+.blog-post-header {
+  font-weight: 600;
+  color: black;
+  font-family: Rubik;
+}
+@media (max-width: 750px) {
+  .blog-post-header {
+    font-size: 24px;
+  } 
+}
+h4:hover > .blog-post-header {
+  color: black;
+  text-decoration: none;
+}
+.ChelOverboard {
+  text-align: center;
+  font-weight: 700;
+}
+/* End of MODs Page CSS */
+
+
+
+/* Individual MOD Page's CSS */
+.gamecont {
+  padding-top: 6%;
+}
+
+@media screen and (max-width: 660px) {
+  .threerowimg {
+   display: block;
+   max-width: 100%;
+ }}
+.howtodownload {
+  font-size: 23px;
+  font-weight: 600;
+}
+.mydownloadbox {
+ border : 1px solid black;
+ box-shadow: inset 0px 0px 10px 0px rgba(1,1,100,0.8),
+                0px 1px 3px 0px rgba(0, 0, 0, 1);
+ padding: 15px;
+ margin: 0px 5px 20px;
+}
+.downloadlinks button {
+  background-color: rgba(0,245,0,0.9);
+}
+.premiumlinks {
+  font-size: 20px;
+  font-family: Lora, sans-serif;
+}
+.addinfo {
+  font-size: 20px;
+}
+.addcont {
+  padding-top: 6px;
+} 
+ul{
+ display: inline-block;
+ vertical-align: top;
+ list-style-type: none;
+ margin: 0px;
+ padding: 0px;
+}
+.unordered2 {
+  padding-left: 25px;
+}
+/* End of Individual MOD Page's CSS */
+
+
+/* Final Download's Page CSS */
+.freedownloadlinks {
+  text-align: center;
+  color: rgba(65,65,200,0.9);
+  font-family: cursive;
+  font-weight: 500;
+}
+.ExplainAds {
+  font-size: 18px;
+  font-style: italic;
+  font-weight: 600;
+}
+.stepstoload {
+  font-weight: 500;
+  font-size: 18px;
+}
+.finaldownload {
+  text-align: center;
+}
+.finaldownload button {
+  color: white;
+  background-color: rgba(220,0,0,0.9);
+  border: 0px;
+  font-size: 17px;
+  padding: 3px 6px;
+}
+.finaldownload:hover > button {
+  border: 2px solid black;
+  border-radius: 7px;
+}
+/* End of Final Download's Page CSS */
+
+
+
+
+/* Footer's CSS */
+.footer-style {
+  background-color: #222F34;
+  padding: 17px;
+}
+.copyright {
+  background-color: #23271F;
+  color: #5C6365;
+}
+.site-n-privacy {
+  color: white;
+}
+div:hover > .site-n-privacy {
+  color: white;
+  text-decoration: none;
+}
+.signup-footer {
+  color: white;
+  background-color: #23271F;
+  border: 2px white solid;
+  margin: 5px;
+  font-size: 12px;
+}
+/* End of Footer's CSS */
