@@ -23,48 +23,19 @@
 .navbar-custom div ul a {
   margin-left: 40px;
 }
-.dropdown-menu a {
-  margin-left: 0px !important;
-  padding: 13px;
-}
-.navbar-custom ul:hover > a{
-  opacity: 1;
-}
-@media (min-width: 979px) {
-  ul li.dropdown:hover >    div.dropdown-menu {
-    display: block;
-}}
-.navbar .dropdown-menu {
- margin-top: 0px;
- border-radius: 0px;
-}
-.dropdown-toggle-angle::after {
-  display: inline-block;
-  padding: 0.5rem;
-  font: normal normal normal 19px/0 FontAwesome;
-  content: "\f107";
-}
 .dropdown-toggle-align::after {
   display: inline-block;
   padding: 0.5rem;
   font: normal normal normal 23px/1 FontAwesome;
   content: "\f036";
 }
-@media (max-width: 950px) {
-  .navbar-custom ul li div:hover > a {
-  border-bottom: 1px solid rgba(0,0,0,0.1)
-}}
 /* End of Navigation Bar CSS */
-
-
 /* Body's CSS */
 body {
 font-family: 'Balsamiq Sans', Rubik;
 font-size: 17px;
 }
 /* End of Body's CSS */
-
-
 /* ChelOverboard Homepage's CSS */
 .homepage {
   padding-top: 7%;
@@ -88,9 +59,6 @@ font-size: 17px;
   padding: 0px;
 }
 /* End of Homepage's CSS */
-
-
-
 /* Blog's MODs Page CSS */
 .blog-container {
   padding-top: 6%;
@@ -124,14 +92,10 @@ h4:hover > .blog-post-header {
   font-weight: 700;
 }
 /* End of MODs Page CSS */
-
-
-
 /* Individual MOD Page's CSS */
 .gamecont {
   padding-top: 6%;
 }
-
 @media screen and (max-width: 660px) {
   .threerowimg {
    display: block;
@@ -172,23 +136,18 @@ ul{
   padding-left: 25px;
 }
 /* End of Individual MOD Page's CSS */
-
-
 /* Final Download's Page CSS */
 .freedownloadlinks {
   text-align: center;
   color: rgba(65,65,200,0.9);
-  font-family: Rubik;
   font-weight: 500;
 }
 .ExplainAds {
-  font-size: 18px;
   font-style: italic;
   font-weight: 600;
 }
 .stepstoload {
   font-weight: 500;
-  font-size: 18px;
 }
 .finaldownload {
   text-align: center;
@@ -197,7 +156,6 @@ ul{
   color: white;
   background-color: rgba(220,0,0,0.9);
   border: 0px;
-  font-size: 17px;
   padding: 3px 6px;
 }
 .finaldownload:hover > button {
@@ -205,10 +163,6 @@ ul{
   border-radius: 7px;
 }
 /* End of Final Download's Page CSS */
-
-
-
-
 /* Footer's CSS */
 .footer-style {
   background-color: #222F34;
