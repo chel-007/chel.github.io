@@ -11,7 +11,7 @@ image1: she'smyvamp-img1.png
 image2: she'smyvamp-img2.png
 image3: she'smyvamp-img3.png
 addinfo: shemyvamp.png.png
-downloadId: she's-my-vampire
+downloadId: she-my-vampire
 modname: She's My Vampire
 developername: Genius Inc Studios
 version: 2.01
