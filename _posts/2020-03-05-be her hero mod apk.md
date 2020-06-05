@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 author: chel
 img-src: ../assets\images\MODs\beherhero.png
 img-alt: Be Her Hero Mod Apk

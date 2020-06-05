@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 author: chel
 img-src: ../assets\images\MODs\dangerousfellows.png
 img-alt: Dangerous Fellows Mod Apk

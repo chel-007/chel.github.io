@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 author: chel
 img-src: ../assets\images\MODs\idlespacefarmers.png
 img-alt: Idle Space Farmers Mod Apk

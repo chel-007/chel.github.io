@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 author: chel
 img-src: ../assets\images\MODs\protectmylove.png
 img-alt: Protect My Love Mod Apk

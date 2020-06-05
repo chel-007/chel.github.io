@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 author: chel
 img-src: ../assets\images\MODs\mydoggirlfriend.png
 img-alt: My Dog Girlfriend Mod Apk

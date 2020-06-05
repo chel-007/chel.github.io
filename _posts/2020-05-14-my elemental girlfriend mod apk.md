@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 author: chel
 img-src: ../assets\images\MODs\myelementalgirlfriend.png
 img-alt: My Elemental Girlfriend Mod Apk

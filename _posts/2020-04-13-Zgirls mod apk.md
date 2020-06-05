@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 author: chel
 img-src: ../assets\images\MODs\Zgirls.png
 img-alt: Zgirls Mod Apk

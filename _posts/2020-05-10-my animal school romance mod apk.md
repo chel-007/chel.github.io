@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 author: chel
 img-src: ../assets\images\MODs\animalschoolromance.png
 img-alt: My Animal School Romance Mod Apk

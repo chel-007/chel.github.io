@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 author: chel
 img-src: ../assets\images\MODs\myrentalgirlfriend.png
 img-alt: My Rental Girlfriend Mod Apk

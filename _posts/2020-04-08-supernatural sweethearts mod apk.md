@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 author: chel
 img-src: ../assets\images\MODs\supernaturalschoolgirls.png
 img-alt: Supernatural Sweethearts Mod Apk

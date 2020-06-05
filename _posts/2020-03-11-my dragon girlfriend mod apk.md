@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 author: chel
 img-src: ../assets\images\MODs\dragon.png
 img-alt: My Dragon Girlfriend Mod Apk

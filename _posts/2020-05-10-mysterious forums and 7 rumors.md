@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 author: chel
 img-src: ../assets\images\MODs\mysteriousforum.png
 img-alt: Mysterious Forums and 7 Rumors

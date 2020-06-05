@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 author: chel
 img-src: ../assets\images\MODs\myanimalgirlfriend.png
 img-alt: My Animal Girlfriend Mod Apk

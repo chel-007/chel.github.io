@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 author: chel
 feed_meta:
 seo: She-My-Vampire Mod Genius Inc Free Premium Choices 

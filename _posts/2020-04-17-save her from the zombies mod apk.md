@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 author: chel
 img-src: ../assets\images\MODs\saveherfromzombies.png
 img-alt: Save her from the Zombies! Mod Apk

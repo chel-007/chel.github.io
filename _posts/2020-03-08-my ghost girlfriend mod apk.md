@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 author: chel
 img-src: ../assets\images\MODs\myghostgirlfriend.png
 img-alt: My Ghost Girlfriend Mod Apk

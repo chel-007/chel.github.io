@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 author: chel
 img-src: ../assets\images\MODs\10billionwives.png
 img-alt: 10 Billion Wives Mod Apk

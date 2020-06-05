@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 author: chel
 img-src: ../assets\images\MODs\loveisourspecialty.png
 img-alt: Love is our Specialty  Mod Apk

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 author: chel
 img-src: ../assets\images\MODs\myzombiegirlfriend.png
 img-alt: My Zombie Girlfriend Mod Apk

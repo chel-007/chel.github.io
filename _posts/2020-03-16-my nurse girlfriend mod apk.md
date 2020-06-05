@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 author: chel
 img-src: ../assets\images\MODs\mynursegirlfriend.png
 img-alt: My Nurse Girlfriend Mod Apk
