@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 author: chel
 img-src: ../assets\images\MODs\mywolfgirlfriend.png
 img-alt: My Wolf Girlfriend Mod Apk
