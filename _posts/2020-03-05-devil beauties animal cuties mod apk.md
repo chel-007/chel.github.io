@@ -2,7 +2,7 @@
 layout: post
 comments: true
 author: chel
-img-src: ../assets\images\MODs\devilbeauties.png
+img-src: ../../assets\images\MODs\devilbeauties.png
 img-alt: Devil Beauties and Animal Cuties Mod Apk
 title:  Devil Beauties and Animal Cuties Mod Apk
 image1: devilbeauties-img1.png

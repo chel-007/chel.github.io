@@ -2,7 +2,7 @@
 layout: post
 comments: true
 author: chel
-img-src: ../assets\images\MODs\myvideogame.png
+img-src: ../../assets\images\MODs\myvideogame.png
 img-alt: My VideoGame Girlfriend Mod Apk
 title: My VideoGame Girlfriend Mod Apk
 image1: videogame-img1.webp

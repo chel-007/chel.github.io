@@ -2,7 +2,7 @@
 layout: post
 comments: true
 author: chel
-img-src: ../assets\images\MODs\deathschool.png
+img-src: ../../assets\images\MODs\deathschool.png
 img-alt: Death School Mod Apk
 title: Death School Mod Apk Unlimited Choices
 image1: deathschool-img1.png

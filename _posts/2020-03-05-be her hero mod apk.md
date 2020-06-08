@@ -2,7 +2,7 @@
 layout: post
 comments: true
 author: chel
-img-src: ../assets\images\MODs\beherhero.png
+img-src: ../../assets\images\MODs\beherhero.png
 img-alt: Be Her Hero Mod Apk
 title: Be Her Hero Mod Apk Unlimited Choices
 image1: beherhero-img1.png
