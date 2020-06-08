@@ -205,3 +205,25 @@ div:hover > .site-n-privacy {
   font-size: 12px;
 }
 /* End of Footer's CSS */
+
+ul.pager {
+  list-style: none;
+  margin-right: 30%;
+
+  li {
+    display: inline;
+    padding: 7px 7px 7px 10px;
+    border-color: #BABDB6;
+    border-style: solid;
+    border-radius: 3px;
+    border-width: 1px;
+
+  }
+
+  li.selected {
+    background-color: #EEEEFF;
+  }
+}
+ul:hover > li {
+  text-decoration: none;
+}

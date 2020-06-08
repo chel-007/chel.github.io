@@ -1,17 +1,13 @@
----
-layout: default
-title: Chel Ovebroard - Privacy-policy
----
-# About ChelOverboard
+I"7<h1 id="about-cheloverboard">About ChelOverboard</h1>
 
 <section style="padding:70px;
   font-family: Lato;
   color: rgb(50,50,50);
   font-size: 19px;
   line-height: 1.8;">
-<hr>
+<hr />
   <h2>PRIVACY NOTICE</h2>
-<hr>
+<hr />
   <h4>INTRODUCTION</h4>
   <p>Welcome to Chel Overboard privacy policy for <a href="/" style="color:#F67E7E;">www.cheloverboard.netlify.com/</a>.</p>
  <p>Chel Overboard respects your privacy and is committed to protecting your personal data. This privacy policy will give you a breakdown of how your personal data is processed when you visit our site (Regardless of where you're visiting from).
@@ -24,7 +20,7 @@ title: Chel Ovebroard - Privacy-policy
    <li>LAGAL RIGHTS</li>
  </ol>
   <h4><li>INFORMATION ABOUT US</li></h4>
-    <p>This privacy notice hopes to give you the Users of our site an Overview of who we are and what we hope to achieve on this Site, How we collect your personal data and what we do with them.<br>
+    <p>This privacy notice hopes to give you the Users of our site an Overview of who we are and what we hope to achieve on this Site, How we collect your personal data and what we do with them.<br />
       ChelOverboard referred to as ("we","our" or "us") at any time is the controller and receiver of all personal data received on our site.
     <h3>What we do?</h3>
     <p>We at ChelOverboard hope to be a fully Educational Site that gives or releases Articles on Technological Studies Mainly having to do with AI, Deeplearning, VirtualReality/Augmented-Reality and currently we have pages that Users can access Several Categories of Android Games solely for Entertainment. </p>
@@ -39,7 +35,7 @@ title: Chel Ovebroard - Privacy-policy
       <li><em>Financial Data</em> Includes bank account and payment card details.</li>
       <li><em>Transaction Data</em> Includes details about payments and other services you have purchased from us.</li>
       <li><em>Technical Data</em> Includes internet protocol (IP) address, browser type and version, location, operating system and platform and other technology on the devices you use to access this website.
-    </ul>
+    &lt;/ul&gt;
     <h4><li>HOW YOUR PERSONAL DATA IS COLLECTED</li></h4>
     <p>We may collect your personal data through different methods which include:
       <ul style="list-style-type:disc">
@@ -58,6 +54,8 @@ title: Chel Ovebroard - Privacy-policy
     <h4>Right to Rectification</h4>
     <em>You have the right to have personal data about you rectified if it's inaccurate or incomplete.</em>
     <h4>Right to Access</h4>
-      <em>You have the right to access your personal data and methods we use in acquiring it. For more information about this, simply email us at cheloverboard@gmail.com.<br>Proof mof identification is required to access any information a User is demanding in order to protect your information Effectively</em>
-       <br>                                                                                     
- </section>
+      <em>You have the right to access your personal data and methods we use in acquiring it. For more information about this, simply email us at cheloverboard@gmail.com.<br />Proof mof identification is required to access any information a User is demanding in order to protect your information Effectively</em>
+       <br />                                                                                     
+ &lt;/section&gt;
+</p></li></ul></p></p></section>
+:ET

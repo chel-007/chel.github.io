@@ -24,12 +24,17 @@ sass:
 
 url: "https://cheloverboard.netlify.app"
 
+gems: [jekyll-paginate-v2]
 pagination:
-  enabled: false
+  enabled: true
+  collections: "posts"
   debug: false
-  collection: 'posts'
-  paginate: 2
-  paginate_path: "/blog/page:num"
+  per_page: 9
+  trail:
+    before: 2
+    after: 2
+  sort_reverse: true
+  paginate_path: "/mods-blog/page:num"
 
 plugins: 
   - jekyll-feed

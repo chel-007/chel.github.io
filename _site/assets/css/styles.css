@@ -1,18 +1,26 @@
 /*! Bootstrap v4.0.0 (https://getbootstrap.com) Copyright 2011-2018 The Bootstrap Authors Copyright 2011-2018 Twitter, Inc. Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE) */
-/* Navigation Bar CSS */
 .navbar-custom { background-color: #24BCF9; width: 100%; min-height: 8vh; margin: 0 auto; box-shadow: inset 0px 0px 40px 0px rgba(0, 0, 0, 0.4), -5px 3px 20px 3px rgba(0, 0, 0, 0.7); }
 
-.navbar-custom div ul a { color: black; font-weight: 600; font-size: 17px; font-family: Montserrat, sans-serif; }
+.navbar-custom div ul a { color: black; font-weight: 600; font-size: 16px; font-family: Montserrat, sans-serif; }
 
 @media (max-width: 990px) { .navbar-custom { min-height: 46px; box-shadow: inset 0px 0px 15px 0px rgba(0, 0, 0, 0.4), -5px 0px 10px 3px rgba(0, 0, 0, 0.6); } }
 
 .navbar-custom div ul a { margin-left: 40px; }
 
+.navbar-custom ul li:hover > a { opacity: 1; }
+
+@media (min-width: 979px) { ul li.dropdown:hover > div.dropdown-menu { display: block; } }
+
+.navbar .dropdown-menu { margin-top: 0px; }
+
+.dropdown-toggle-angle::after { display: inline-block; padding: 0.5rem; font: normal normal normal 19px/0 FontAwesome; content: "\f107"; }
+
 .dropdown-toggle-align::after { display: inline-block; padding: 0.5rem; font: normal normal normal 23px/1 FontAwesome; content: "\f036"; }
 
-/* End of Navigation Bar CSS */
+@media (max-width: 950px) { .navbar-custom ul li div:hover > a { border-bottom: 1px solid rgba(0, 0, 0, 0.1); } }
+
 /* Body's CSS */
-body { font-family: 'Balsamiq Sans', Rubik; font-size: 17px; }
+body { font-family: Rubik; font-size: 17px; }
 
 /* End of Body's CSS */
 /* ChelOverboard Homepage's CSS */
@@ -25,7 +33,6 @@ body { font-family: 'Balsamiq Sans', Rubik; font-size: 17px; }
 
 .learn-create-consult { list-style-type: none; padding: 0px; }
 
-/* End of Homepage's CSS */
 /* Blog's MODs Page CSS */
 .blog-container { padding-top: 6%; }
 
@@ -90,6 +97,14 @@ div:hover > .site-n-privacy { color: white; text-decoration: none; }
 .signup-footer { color: white; background-color: #23271F; border: 2px white solid; margin: 5px; font-size: 12px; }
 
 /* End of Footer's CSS */
+ul.pager { list-style: none; margin-right: 30%; }
+
+ul.pager li { display: inline; padding: 7px 7px 7px 10px; border-color: #BABDB6; border-style: solid; border-radius: 3px; border-width: 1px; }
+
+ul.pager li.selected { background-color: #EEEEFF; }
+
+ul:hover > li { text-decoration: none; }
+
 :root { --blue: #007bff; --indigo: #6610f2; --purple: #6f42c1; --pink: #e83e8c; --red: #dc3545; --orange: #fd7e14; --yellow: #ffc107; --green: #28a745; --teal: #20c997; --cyan: #17a2b8; --white: #fff; --gray: #6c757d; --gray-dark: #343a40; --primary: #007bff; --secondary: #6c757d; --success: #28a745; --info: #17a2b8; --warning: #ffc107; --danger: #dc3545; --light: #f8f9fa; --dark: #343a40; --breakpoint-xs: 0; --breakpoint-sm: 576px; --breakpoint-md: 768px; --breakpoint-lg: 992px; --breakpoint-xl: 1200px; --font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }
 
 *, *::before, *::after { box-sizing: border-box; }
@@ -2147,20 +2162,28 @@ a.text-dark:hover, a.text-dark:focus { color: #1d2124 !important; }
 
 @media print { *, *::before, *::after { text-shadow: none !important; box-shadow: none !important; } a:not(.btn) { text-decoration: underline; } abbr[title]::after { content: " (" attr(title) ")"; } pre { white-space: pre-wrap !important; } pre, blockquote { border: 1px solid #999; page-break-inside: avoid; } thead { display: table-header-group; } tr, img { page-break-inside: avoid; } p, h2, h3 { orphans: 3; widows: 3; } h2, h3 { page-break-after: avoid; } @page { size: a3; } body { min-width: 992px !important; } .container { min-width: 992px !important; } .navbar { display: none; } .badge { border: 1px solid #000; } .table { border-collapse: collapse !important; } .table td, .table th { background-color: #fff !important; } .table-bordered th, .table-bordered td { border: 1px solid #ddd !important; } }
 
-/* Navigation Bar CSS */
 .navbar-custom { background-color: #24BCF9; width: 100%; min-height: 8vh; margin: 0 auto; box-shadow: inset 0px 0px 40px 0px rgba(0, 0, 0, 0.4), -5px 3px 20px 3px rgba(0, 0, 0, 0.7); }
 
-.navbar-custom div ul a { color: black; font-weight: 600; font-size: 17px; font-family: Montserrat, sans-serif; }
+.navbar-custom div ul a { color: black; font-weight: 600; font-size: 16px; font-family: Montserrat, sans-serif; }
 
 @media (max-width: 990px) { .navbar-custom { min-height: 46px; box-shadow: inset 0px 0px 15px 0px rgba(0, 0, 0, 0.4), -5px 0px 10px 3px rgba(0, 0, 0, 0.6); } }
 
 .navbar-custom div ul a { margin-left: 40px; }
 
+.navbar-custom ul li:hover > a { opacity: 1; }
+
+@media (min-width: 979px) { ul li.dropdown:hover > div.dropdown-menu { display: block; } }
+
+.navbar .dropdown-menu { margin-top: 0px; }
+
+.dropdown-toggle-angle::after { display: inline-block; padding: 0.5rem; font: normal normal normal 19px/0 FontAwesome; content: "\f107"; }
+
 .dropdown-toggle-align::after { display: inline-block; padding: 0.5rem; font: normal normal normal 23px/1 FontAwesome; content: "\f036"; }
 
-/* End of Navigation Bar CSS */
+@media (max-width: 950px) { .navbar-custom ul li div:hover > a { border-bottom: 1px solid rgba(0, 0, 0, 0.1); } }
+
 /* Body's CSS */
-body { font-family: 'Balsamiq Sans', Rubik; font-size: 17px; }
+body { font-family: Rubik; font-size: 17px; }
 
 /* End of Body's CSS */
 /* ChelOverboard Homepage's CSS */
@@ -2173,7 +2196,6 @@ body { font-family: 'Balsamiq Sans', Rubik; font-size: 17px; }
 
 .learn-create-consult { list-style-type: none; padding: 0px; }
 
-/* End of Homepage's CSS */
 /* Blog's MODs Page CSS */
 .blog-container { padding-top: 6%; }
 
@@ -2238,5 +2260,12 @@ div:hover > .site-n-privacy { color: white; text-decoration: none; }
 .signup-footer { color: white; background-color: #23271F; border: 2px white solid; margin: 5px; font-size: 12px; }
 
 /* End of Footer's CSS */
+ul.pager { list-style: none; margin-right: 30%; }
+
+ul.pager li { display: inline; padding: 7px 7px 7px 10px; border-color: #BABDB6; border-style: solid; border-radius: 3px; border-width: 1px; }
+
+ul.pager li.selected { background-color: #EEEEFF; }
+
+ul:hover > li { text-decoration: none; }
 
 /*# sourceMappingURL=styles.css.map */
