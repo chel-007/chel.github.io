@@ -20,7 +20,7 @@ pagination:
    <div class="card card-around-game" style="width: 19rem;">
     <!-- Elements to loop for all posts -->
     <a href="{{ post.url }}">
-    <img class="responsive p-2 bd-highlight borderaround" src="{{ post.img-src | absolute_url }}" alt="{{ post.img-alt }}" width="300" height="150"></a>
+    <img class="responsive p-2 bd-highlight borderaround" src="{{ post.img-src }}" alt="{{ post.img-alt }}" width="300" height="150"></a>
     <div class="card-block" style="padding: 0px">
     <h4><a href="{{ post.url }}"  class="blog-post-header">{{ post.title }}</a><hr></h4>{{ post.date | date: "%b %-d, %Y" }}<p style="clear: both"></p>
     {{ post.excerpt }}
