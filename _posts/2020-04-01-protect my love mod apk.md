@@ -2,7 +2,7 @@
 layout: post
 comments: true
 author: chel
-img-src: ../assets\images\MODs\protectmylove.png
+img-src: ../../assets\images\MODs\protectmylove.png
 img-alt: Protect My Love Mod Apk
 title: Protect My Love Mod Apk Unlimited Choices
 image1: protectlove-img1.png

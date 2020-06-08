@@ -2,7 +2,7 @@
 layout: post
 comments: true
 author: chel
-img-src: ../assets\images\MODs\spellboundgirlfriends.png
+img-src: ../../assets\images\MODs\spellboundgirlfriends.png
 img-alt: SpellBound Schoolgirls Mod Apk
 title: SpellBound Schoolgirls Mod Apk
 image1: spellbound-img1.png

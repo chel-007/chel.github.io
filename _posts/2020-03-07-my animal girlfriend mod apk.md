@@ -2,7 +2,7 @@
 layout: post
 comments: true
 author: chel
-img-src: ../assets\images\MODs\myanimalgirlfriend.png
+img-src: ../../assets\images\MODs\myanimalgirlfriend.png
 img-alt: My Animal Girlfriend Mod Apk
 title: My Animal Girlfriend Mod Apk Unlimited Choices
 image1: animalgirl-img1.png

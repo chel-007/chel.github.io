@@ -2,7 +2,7 @@
 layout: post
 comments: true
 author: chel
-img-src: ../assets\images\MODs\mydoggirlfriend.png
+img-src: ../../assets\images\MODs\mydoggirlfriend.png
 img-alt: My Dog Girlfriend Mod Apk
 title: My Dog Girlfriend Mod Apk Unlimited Choices
 image1: doggirl-img1.png

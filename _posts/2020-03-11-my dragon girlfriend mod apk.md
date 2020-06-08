@@ -2,7 +2,7 @@
 layout: post
 comments: true
 author: chel
-img-src: ../assets\images\MODs\dragon.png
+img-src: ../../assets\images\MODs\dragon.png
 img-alt: My Dragon Girlfriend Mod Apk
 title: My Dragon Girlfriend Mod Apk Unlimited Choices
 image1: dragongirl-img1.png

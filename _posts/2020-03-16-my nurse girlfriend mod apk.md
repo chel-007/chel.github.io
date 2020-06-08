@@ -2,7 +2,7 @@
 layout: post
 comments: true
 author: chel
-img-src: ../assets\images\MODs\mynursegirlfriend.png
+img-src: ../../assets\images\MODs\mynursegirlfriend.png
 img-alt: My Nurse Girlfriend Mod Apk
 title: My Nurse Girlfriend Mod Apk Unlimited Choices
 image1: nursegirl-img1.png

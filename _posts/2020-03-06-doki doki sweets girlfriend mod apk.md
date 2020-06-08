@@ -2,7 +2,7 @@
 layout: post
 comments: true
 author: chel
-img-src: ../assets\images\MODs\Doki1.png
+img-src: ../../assets\images\MODs\Doki1.png
 img-alt: Doki Doki Sweets Girlfriend Mod Apk
 title: Doki Doki Sweets Girlfriend Mod Apk
 image1: dokidokiimg.webp

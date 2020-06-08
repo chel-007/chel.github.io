@@ -2,7 +2,7 @@
 layout: post
 comments: true
 author: chel
-img-src: ../assets\images\MODs\myzombiegirlfriend.png
+img-src: ../../assets\images\MODs\myzombiegirlfriend.png
 img-alt: My Zombie Girlfriend Mod Apk
 title: My Zombie Girlfriend Mod Apk Unlimited Choices
 image1: zombiegirl-img1.png

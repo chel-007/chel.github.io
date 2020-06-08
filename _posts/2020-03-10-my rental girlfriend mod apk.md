@@ -2,7 +2,7 @@
 layout: post
 comments: true
 author: chel
-img-src: ../assets\images\MODs\myrentalgirlfriend.png
+img-src: ../../assets\images\MODs\myrentalgirlfriend.png
 img-alt: My Rental Girlfriend Mod Apk
 title: My Rental Girlfriend Mod Apk Unlimited Choices
 image1: rentalgirl-img1.png
