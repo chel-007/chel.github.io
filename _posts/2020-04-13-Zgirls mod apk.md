@@ -2,7 +2,7 @@
 layout: post
 comments: true
 author: chel
-img-src: ../assets\images\MODs\Zgirls.png
+img-src: ../../assets\images\MODs\Zgirls.png
 img-alt: Zgirls Mod Apk
 title: Zgirls Mod Apk Unlimited In-game Resources
 image1: Zgirls-img1.png
