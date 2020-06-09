@@ -2,6 +2,8 @@
 layout: post
 comments: true
 author: chel
+seo: My dog girlfriend Mod apk Genius Inc Free Premium Choices 
+description: Name> My dog girlfriend! Version> 2.0.5 Root> No Mod features> Free Premium Choices Preview Tutorial Install> Install Steps> Download
 img-src: ../../assets\images\MODs\mydoggirlfriend.png
 img-alt: My Dog Girlfriend Mod Apk
 title: My Dog Girlfriend Mod Apk Unlimited Choices

@@ -2,6 +2,8 @@
 layout: post
 comments: true
 author: chel
+seo: Doki Doki sweets girlfriend Mod apk Genius Inc Free Premium Choices 
+description: Name> Doki doki sweets girlfriend! Version> 2.0.6 Root> No Mod features> Free Premium Choices Preview Tutorial Install> Install Steps> Download
 img-src: ../../assets\images\MODs\Doki1.png
 img-alt: Doki Doki Sweets Girlfriend Mod Apk
 title: Doki Doki Sweets Girlfriend Mod Apk

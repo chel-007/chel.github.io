@@ -2,6 +2,8 @@
 layout: post
 comments: true
 author: chel
+seo: Be her hero Mod apk Genius Inc Free Premium Choices 
+description: Name> Be her hero! Version> 2.0.7 Root> No Mod features> Free Premium Choices Preview Tutorial Install> Install Steps> Download
 img-src: ../../assets\images\MODs\beherhero.png
 img-alt: Be Her Hero Mod Apk
 title: Be Her Hero Mod Apk Unlimited Choices

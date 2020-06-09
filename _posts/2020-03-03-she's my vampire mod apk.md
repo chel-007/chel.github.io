@@ -3,8 +3,8 @@ layout: post
 comments: true
 author: chel
 feed_meta:
-seo: She-My-Vampire Mod Genius Inc Free Premium Choices 
-description: Want to play for free and make as many unlimited Premium Choices in She's My Vampire Simulation Game Download Mod Latest for Free
+seo: She's my Vampire Mod apk Genius Inc Free Premium Choices 
+description: Name> She's My Vampire! Version> 2.0.5 Root> No Mod features> Free Premium Choices Preview Tutorial Install> Install Steps> Download
 img-src: ../../assets\images\MODs\shemyvamp.png.png
 img-alt: She's My Vampire Mod Apk
 title: She's My Vampire Mod Apk Unlimited Choices

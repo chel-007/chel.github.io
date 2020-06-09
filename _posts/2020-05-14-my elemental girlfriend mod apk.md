@@ -2,6 +2,8 @@
 layout: post
 comments: true
 author: chel
+seo: My elemental girlfriend Mod apk Genius Inc Free Premium Choices 
+description: Name> My elemental girlfriend! Version> 1.0.3 Root> No Mod features> Free Premium Choices Preview Tutorial Install> Install Steps> Download
 img-src: ../assets\images\MODs\myelementalgirlfriend.png
 img-alt: My Elemental Girlfriend Mod Apk
 title: My Elemental Girlfriend Mod Apk
@@ -12,7 +14,7 @@ addinfo: myelementalgirlfriend.png
 downloadId: my-elemental-girlfriend
 modname: My Elemental Girlfriend
 developername: Genius Inc Studios
-version: 1.0.0
+version: 1.0.3
 androidversion: 5.0 and up
 installs: 5000+
 playstorelink: https://play.google.com/store/apps/details?id=studio.genius.seireigirl

@@ -2,6 +2,8 @@
 layout: post
 comments: true
 author: chel
+seo: My dragon girlfriend Mod apk Genius Inc Free Premium Choices 
+description: Name> My dragon girlfriend! Version> 2.0.6 Root> No Mod features> Free Premium Choices Preview Tutorial Install> Install Steps> Download
 img-src: ../../assets\images\MODs\dragon.png
 img-alt: My Dragon Girlfriend Mod Apk
 title: My Dragon Girlfriend Mod Apk Unlimited Choices

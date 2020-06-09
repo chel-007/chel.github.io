@@ -2,6 +2,8 @@
 layout: post
 comments: true
 author: chel
+seo: Love is our specialty Mod apk Genius Inc Free Premium Choices 
+description: Name> Love is our specialty! Version> 1.0.5 Root> No Mod features> Free Premium Choices Preview Tutorial Install> Install Steps> Download
 img-src: ../assets\images\MODs\loveisourspecialty.png
 img-alt: Love is our Specialty  Mod Apk
 title: Love is our Specialty Mod Apk Unlimited Choices

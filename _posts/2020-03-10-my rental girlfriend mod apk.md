@@ -2,6 +2,8 @@
 layout: post
 comments: true
 author: chel
+seo: My rental girlfriend Mod apk Genius Inc Free Premium Choices 
+description: Name> My rental girlfriend! Version> 2.0.8 Root> No Mod features> Free Premium Choices Preview Tutorial Install> Install Steps> Download
 img-src: ../../assets\images\MODs\myrentalgirlfriend.png
 img-alt: My Rental Girlfriend Mod Apk
 title: My Rental Girlfriend Mod Apk Unlimited Choices

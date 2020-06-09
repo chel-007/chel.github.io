@@ -2,6 +2,8 @@
 layout: post
 comments: true
 author: chel
+seo: My ghost girlfriend Mod apk Genius Inc Free Premium Choices 
+description: Name> My ghost girlfriend! Version> 2.0.9 Root> No Mod features> Free Premium Choices Preview Tutorial Install> Install Steps> Download
 img-src: ../../assets\images\MODs\myghostgirlfriend.png
 img-alt: My Ghost Girlfriend Mod Apk
 title: My Ghost Girlfriend Mod Apk Unlimited Choices

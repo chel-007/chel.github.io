@@ -2,6 +2,8 @@
 layout: post
 comments: true
 author: chel
+seo: Protect My Love Mod apk Genius Inc Free Premium Choices 
+description: Name> Protect my love! Version> 2.0.8 Root> No Mod features> Free Premium Choices Preview Tutorial Install> Install Steps> Download
 img-src: ../../assets\images\MODs\protectmylove.png
 img-alt: Protect My Love Mod Apk
 title: Protect My Love Mod Apk Unlimited Choices

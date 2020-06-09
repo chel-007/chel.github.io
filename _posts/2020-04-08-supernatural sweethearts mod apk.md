@@ -2,6 +2,8 @@
 layout: post
 comments: true
 author: chel
+seo: Supernatural sweethearts Mod apk Genius Inc Free Premium Choices 
+description: Name> Supernatural sweethearts! Version> 1.0.8 Root> No Mod features> Free Premium Choices Preview Tutorial Install> Install Steps> Download
 img-src: ../../assets\images\MODs\supernaturalschoolgirls.png
 img-alt: Supernatural Sweethearts Mod Apk
 title: Supernatural Sweethearts Mod Apk
