@@ -30,11 +30,11 @@ Will you be able to solve all of the mysteries? Find out in My High School Detec
 
 ☆Characters☆<br><br>
 
-◇Maya◇<br><br>
+◇Maya◇<br>
 Maya just transferred to your school this semester and used to run a detective club at her old school. Her intellect is unmatched, but she can be a little “off” every once in a while and is quickly brought to tears.<br><br>
 
-◇Izumi◇<br><br>
+◇Izumi◇<br>
 This detective girl claims to be Maya’s rival and can be a little prickly at times. She’s not quite as sharp as Maya, but she makes up for it with her energetic and proactive personality.<br><br>
 
-◇Olivia◇<br><br>
+◇Olivia◇<br>
 Timid would be how a lot of people describe Olivia. But once you get to know her, you realize she’s a little…. eccentric. Like, dresses up as a phantom thief to try to befriend people eccentric…</p>
