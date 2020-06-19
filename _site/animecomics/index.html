@@ -11,18 +11,18 @@
   <link rel="apple-touch-icon" sizes="152x152" href="/assets/images/iconified/apple-touch-icon-152x152.png" />
 <meta itemprop="description" name="description" content="Download Free Anime Comics With Premium Unlocked Versions from ChelOverboard" />
 <meta content="width=device-width, initial-scale=1" name="viewport">
- <link type="application/atom+xml" rel="alternate" href="https://cheloverboard.netlify.app/feed.xml" />
+ <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" />
  <!-- Begin Jekyll SEO tag v2.6.1 -->
 <title>Anime Comic Download Unlocked(Premium)</title>
-<meta name="generator" content="Jekyll v4.0.1" />
+<meta name="generator" content="Jekyll v4.1.0" />
 <meta property="og:title" content="Anime Comic Download Unlocked(Premium)" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Download Free Anime Comics With Premium Unlocked Versions from ChelOverboard" />
 <meta property="og:description" content="Download Free Anime Comics With Premium Unlocked Versions from ChelOverboard" />
-<link rel="canonical" href="https://cheloverboard.netlify.app/animecomics/" />
-<meta property="og:url" content="https://cheloverboard.netlify.app/animecomics/" />
+<link rel="canonical" href="http://localhost:4000/animecomics/" />
+<meta property="og:url" content="http://localhost:4000/animecomics/" />
 <script type="application/ld+json">
-{"@type":"WebPage","headline":"Anime Comic Download Unlocked(Premium)","url":"https://cheloverboard.netlify.app/animecomics/","description":"Download Free Anime Comics With Premium Unlocked Versions from ChelOverboard","@context":"https://schema.org"}</script>
+{"@type":"WebPage","url":"http://localhost:4000/animecomics/","headline":"Anime Comic Download Unlocked(Premium)","description":"Download Free Anime Comics With Premium Unlocked Versions from ChelOverboard","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
  <meta charset="utf-8">
@@ -89,8 +89,105 @@
       <div class="md-form my-0">
         <input class="form-control mr-sm-2" type="text" placeholder="Search MODs" aria-label="Search">
       </div>
+      <img src="\assets\images\Home\algolia-blue-mark.png">
     </form>
 </nav>
+    <script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.6.0/dist/instantsearch.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.20.1/moment.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.6.0/dist/instantsearch.min.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.6.0/dist/instantsearch-theme-algolia.min.css">
+
+<script>
+const search = instantsearch({
+  appId: 'NJ1AOFDULQ',
+  apiKey: '25f23a0f16d7c153ee5eec8eef9d1ae4',
+  indexName: 'first_MODs'
+});
+
+const hitTemplate = function(hit) {
+  let date = '';
+  if (hit.date) {
+    date = moment.unix(hit.date).format('MMM D, YYYY');
+  }
+
+  let url = `${hit.url}#${hit.anchor}`;
+
+  const title = hit._highlightResult.title.value;
+
+  let breadcrumbs = '';
+  if (hit._highlightResult.headings) {
+    breadcrumbs = hit._highlightResult.headings.map(match => {
+      return `<span class="post-breadcrumb">${match.value}</span>`
+    }).join(' > ')
+  }
+
+  const content = hit._highlightResult.html.value;
+
+  return `
+    <div class="post-item">
+      <span class="post-meta">${date}</span>
+      <h2><a class="post-link" href="${url}">${title}</a></h2>
+      <a href="${url}" class="post-breadcrumbs">${breadcrumbs}</a>
+      <div class="post-snippet">${content}</div>
+    </div>
+  `;
+}
+
+
+search.addWidget(
+  instantsearch.widgets.searchBox({
+    container: '#search-searchbar',
+    placeholder: 'Search into posts...',
+    poweredBy: true // This is required if you're on the free Community plan
+  })
+);
+
+search.addWidget(
+  instantsearch.widgets.hits({
+    container: '#search-hits',
+    templates: {
+      item: hitTemplate
+    }
+  })
+);
+
+search.start();
+</script>
+
+<style>
+.ais-search-box {
+  max-width: 100%;
+  margin-bottom: 15px;
+}
+.post-item {
+  margin-bottom: 30px;
+}
+.post-link .ais-Highlight {
+  color: #111;
+  font-style: normal;
+  text-decoration: underline;
+}
+.post-breadcrumbs {
+  color: #424242;
+  display: block;
+}
+.post-breadcrumb {
+  font-size: 18px;
+  color: #424242;
+}
+.post-breadcrumb .ais-Highlight {
+  font-weight: bold;
+  font-style: normal;
+}
+.post-snippet .ais-Highlight {
+  color: #2a7ae2;
+  font-style: normal;
+  font-weight: bold;
+}
+.post-snippet img {
+  display: none;
+}
+</style>
     <!--Main container-->
 <div id="carouselExampleFade" class="carousel slide carousel-fade my-carousel" data-ride="carousel">
   <div class="carousel-inner">
