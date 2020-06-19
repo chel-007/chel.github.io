@@ -54,7 +54,7 @@
   <script data-ad-client="ca-pub-3206299196679214" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
   <!-- End of Google Adsense --> 
   <!-- InstantSearch.js for Algolia -->
-  <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.10.4/dist/instantsearch-theme-algolia.min.css">
+  
  </head>
   <body>
     <nav class="navbar navbar-expand-lg navbar-custom">
@@ -92,32 +92,6 @@
       <img src="\assets\images\Home\algolia-blue-mark.png">
     </form>
 </nav>
-    <script>
-const search = instantsearch({
-  appId: 'NJ1AOFDULQ',
-  apiKey: '25f23a0f16d7c153ee5eec8eef9d1ae4',
-  indexName: 'first_MODs',
-  routing: true
-});
-
-search.start();
-
-<div id="hits">
-  // Hits widget will appear here
-</div>
-
-<script>
-  const search = instantsearch(options);
-
-  search.addWidget(
-    instantsearch.widgets.hits({
-      container: '#hits'
-    })
-  );
-
-  search.start();
-</script>
-
     <!-- Default form contact -->
    <div class="kwes-form reach-us"> 
    <form class="text-center p-2 form-field" method="POST" action="https://kwes.io/api/foreign/forms/jJ3mmlVpwAJsXBt84P3v">
@@ -161,6 +135,70 @@ search.start();
 </div>
 <!-- Default form contact -->
 <script src="https://kwes.io/js/kwes.js"></script> 
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.10.4/dist/instantsearch.min.css">
+<script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.10.4"></script>
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.10.4/dist/instantsearch-theme-algolia.min.css">
+
+<script>
+const search = instantsearch({
+  appId: 'NJ1AOFDULQ',
+  apiKey: '25f23a0f16d7c153ee5eec8eef9d1ae4',
+  indexName: 'first_MODs',
+  routing: true
+});
+
+<div id="current-refined-values">
+  <!-- CurrentRefinedValues widget will appear here -->
+</div>
+
+<div id="clear-all">
+  <!-- ClearAll widget will appear here -->
+</div>
+
+[ ... ]
+
+<div id="pagination">
+  <!-- Pagination widget will appear here -->
+</div>
+
+<script>
+  const search = instantsearch(options);
+
+  // initialize currentRefinedValues
+  search.addWidget(
+    instantsearch.widgets.currentRefinedValues({
+      container: '#current-refined-values',
+      // This widget can also contain a clear all link to remove all filters,
+      // we disable it in this example since we use `clearAll` widget on its own.
+      clearAll: false
+    })
+  );
+
+  // initialize clearAll
+  search.addWidget(
+    instantsearch.widgets.clearAll({
+      container: '#clear-all',
+      templates: {
+        link: 'Reset everything'
+      },
+      autoHideContainer: false
+    })
+  );
+
+  // initialize pagination
+  search.addWidget(
+    instantsearch.widgets.pagination({
+      container: '#pagination',
+      maxPages: 20,
+      // default is to scroll to 'body', here we disable this behavior
+      scrollTo: false
+    })
+  );
+
+  [...]
+
+  search.start();
+</script>
     <!-- Footer -->
 <footer class="page-footer font-small">
 
