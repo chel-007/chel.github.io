@@ -43,7 +43,6 @@
   gtag('config', 'UA-158076637-1');
 </script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lozad/dist/lozad.min.js"></script>
-<script type="text/javascript" src="/assets/js/first.js"></script>
 <!-- Hotjar Tracking Code for https://cheloverboard.netlify.com/ -->
 <script>
     (function(h,o,t,j,a,r){
@@ -59,7 +58,10 @@
   <script data-ad-client="ca-pub-3206299196679214" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
   <!-- End of Google Adsense --> 
   <!-- InstantSearch.js for Algolia -->
-  
+<script src="https://cdn.jsdelivr.net/npm/algoliasearch@4.0.0/dist/algoliasearch-lite.umd.js" integrity="sha256-MfeKq2Aw9VAkaE9Caes2NOxQf6vUa8Av0JqcUXUGkd0=" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/instantsearch.js@4.0.0/dist/instantsearch.production.min.js" integrity="sha256-6S7q0JJs/Kx4kb/fv0oMjS855QTz5Rc2hh9AkIUjUsk=" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.css@7.3.1/themes/algolia-min.css" integrity="sha256-HB49n/BZjuqiCtQQf49OdZn63XuKFaxcIHWf0HNKte8=" crossorigin="anonymous">
+<script type="text/javascript" src="/assets/js/first.js"></script>
  </head>
   <body>
     <nav class="navbar navbar-expand-lg navbar-custom">
@@ -90,12 +92,21 @@
       
     </ul>
     </div>
-    <form class="form-inline">
+    <div id="searchbox">
+  <!-- SearchBox widget will appear here -->
+     <form class="form-inline">
       <div class="md-form my-0">
-        <input class="form-control mr-sm-2" type="text" placeholder="Search MODs" aria-label="Search">
       </div>
-      <img src="\assets\images\Home\algolia-blue-mark.png">
     </form>
+    </div>
+    <div id="powered-by">
+    <div class="ais-PoweredBy">
+   <span class="ais-PoweredBy-text">Search by</span>
+   <a href="..." class="ais-PoweredBy-link" aria-label="Algolia">
+      <!-- <svg> ... </svg> -->
+   </a>
+  </div>
+  </div>
 </nav>
        <!--Main container-->
 <div class="container-fluid gamecont">
@@ -196,70 +207,6 @@ s.setAttribute('data-timestamp', +new Date());
 <!-- End of Main Container -->
 
 
-    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.10.4/dist/instantsearch.min.css">
-<script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.10.4"></script>
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.10.4/dist/instantsearch-theme-algolia.min.css">
-
-<script>
-const search = instantsearch({
-  appId: 'NJ1AOFDULQ',
-  apiKey: '25f23a0f16d7c153ee5eec8eef9d1ae4',
-  indexName: 'first_MODs',
-  routing: true
-});
-
-<div id="current-refined-values">
-  <!-- CurrentRefinedValues widget will appear here -->
-</div>
-
-<div id="clear-all">
-  <!-- ClearAll widget will appear here -->
-</div>
-
-[ ... ]
-
-<div id="pagination">
-  <!-- Pagination widget will appear here -->
-</div>
-
-<script>
-  const search = instantsearch(options);
-
-  // initialize currentRefinedValues
-  search.addWidget(
-    instantsearch.widgets.currentRefinedValues({
-      container: '#current-refined-values',
-      // This widget can also contain a clear all link to remove all filters,
-      // we disable it in this example since we use `clearAll` widget on its own.
-      clearAll: false
-    })
-  );
-
-  // initialize clearAll
-  search.addWidget(
-    instantsearch.widgets.clearAll({
-      container: '#clear-all',
-      templates: {
-        link: 'Reset everything'
-      },
-      autoHideContainer: false
-    })
-  );
-
-  // initialize pagination
-  search.addWidget(
-    instantsearch.widgets.pagination({
-      container: '#pagination',
-      maxPages: 20,
-      // default is to scroll to 'body', here we disable this behavior
-      scrollTo: false
-    })
-  );
-
-  [...]
-
-  search.start();
-</script>
     <!-- Footer -->
 <footer class="page-footer font-small">
 

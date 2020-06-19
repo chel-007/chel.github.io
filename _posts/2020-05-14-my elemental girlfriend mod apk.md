@@ -4,7 +4,7 @@ comments: true
 author: chel
 seo: My elemental girlfriend Mod apk Genius Inc Free Premium Choices 
 description: Name> My elemental girlfriend! Version> 1.0.3 Root> No Mod features> Free Premium Choices Preview Tutorial Install> Install Steps> Download
-img-src: ../assets\images\MODs\myelementalgirlfriend.png
+img-src: ../../assets\images\MODs\myelementalgirlfriend.png
 img-alt: My Elemental Girlfriend Mod Apk
 title: My Elemental Girlfriend Mod Apk
 image1: myelemgirlfriend-img1.png
