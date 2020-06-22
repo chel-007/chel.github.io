@@ -5,4 +5,4 @@
       # exclude = ['about.md'] # don't index this file
       # indexName = searchIndex
 [[plugins]]
-	package = "netlify-plugin-image-optim"
+  package = 'netlify-plugin-image-optim'
