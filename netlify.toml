@@ -2,5 +2,5 @@
   package = 'netlify-plugin-algolia-index'
     # all inputs is optional, we just show you the defaults below
     # [plugins.inputs]
-      # exclude = ['/404.html','downloads','mods-blog','privacy','staff'] # don't index this file
+      # exclude = ['about'] # don't index this file
       # indexName = searchIndex
