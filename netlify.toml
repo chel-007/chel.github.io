@@ -2,7 +2,11 @@
   package = 'netlify-plugin-algolia-index'
     # all inputs is optional, we just show you the defaults below
     # [plugins.inputs]
-      # exclude = ['about.md'] # don't index this file
+    # exclude = ['about.md'] # don't index this file
       # indexName = searchIndex
+      
 [[plugins]]
   package = 'netlify-plugin-image-optim'
+  # all inputs is optional, we just show you the defaults below
+  [plugins.inputs]
+  inputs = []
