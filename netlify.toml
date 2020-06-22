@@ -4,3 +4,6 @@
     # [plugins.inputs]
       # exclude = ['about.md'] # don't index this file
       # indexName = searchIndex
+
+[[plugins]]
+package = "netlify-plugin-image-optim"
