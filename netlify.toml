@@ -2,5 +2,5 @@
   package = 'netlify-plugin-algolia-index'
     # all inputs is optional, we just show you the defaults below
     [plugins.inputs]
-    exclude = ['''^\/about.*''', '''^\/mods-blog.*''', '''^\/connect.*''', '''^\/be-her-hero-mod-apk.*''', '''^\/animecomics.*''', '/404.html'] # don't #index this file
+    exclude = ['''^\/about.*''', '''^\/mods-blog.*''', '''^\/connect.*''', '''^\/privacy.*''', '''^\/animecomics.*''', '''^\/staff.*''', '''^\/downloads.*''', '/404.html'] # don't #index this file
     # indexName = searchIndex
