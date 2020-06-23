@@ -48,6 +48,8 @@ h4:hover > .blog-post-header { color: black; text-decoration: none; }
 
 .ChelOverboard { text-align: center; font-weight: 700; }
 
+.user-log { background-color: #363636; border-radius: 30px; display: inline; }
+
 /* End of MODs Page CSS */
 /* Individual MOD Page's CSS */
 .gamecont { padding-top: 6%; }
@@ -97,7 +99,7 @@ div:hover > .site-n-privacy { color: white; text-decoration: none; }
 .signup-footer { color: white; background-color: #23271F; border: 2px white solid; margin: 5px; font-size: 12px; }
 
 /* End of Footer's CSS */
-ul.pager { list-style: none; margin-left: 10%; width: 80%; }
+ul.pager { list-style: none; margin-left: 3%; width: 80%; }
 
 ul.pager li { display: inline; padding: 7px 7px 7px 10px; border-color: #BABDB6; border-style: solid; border-radius: 3px; border-width: 1px; }
 
@@ -2213,6 +2215,8 @@ h4:hover > .blog-post-header { color: black; text-decoration: none; }
 
 .ChelOverboard { text-align: center; font-weight: 700; }
 
+.user-log { background-color: #363636; border-radius: 30px; display: inline; }
+
 /* End of MODs Page CSS */
 /* Individual MOD Page's CSS */
 .gamecont { padding-top: 6%; }
@@ -2262,7 +2266,7 @@ div:hover > .site-n-privacy { color: white; text-decoration: none; }
 .signup-footer { color: white; background-color: #23271F; border: 2px white solid; margin: 5px; font-size: 12px; }
 
 /* End of Footer's CSS */
-ul.pager { list-style: none; margin-left: 10%; width: 80%; }
+ul.pager { list-style: none; margin-left: 3%; width: 80%; }
 
 ul.pager li { display: inline; padding: 7px 7px 7px 10px; border-color: #BABDB6; border-style: solid; border-radius: 3px; border-width: 1px; }
 

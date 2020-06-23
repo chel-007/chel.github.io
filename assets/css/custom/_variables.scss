@@ -109,6 +109,11 @@ h4:hover > .blog-post-header {
   text-align: center;
   font-weight: 700;
 }
+.user-log {
+  background-color: #363636;
+  border-radius: 30px;
+  display: inline;
+}
 /* End of MODs Page CSS */
 /* Individual MOD Page's CSS */
 .gamecont {
@@ -208,7 +213,7 @@ div:hover > .site-n-privacy {
 
 ul.pager {
   list-style: none;
-  margin-left: 10%;
+  margin-left: 3%;
   width: 80%;
 
   li {
