@@ -28,6 +28,7 @@
  <meta charset="utf-8">
  <title>Staff</title>
  <link rel="stylesheet" href="/assets/css/styles.css">
+ <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
  <meta name="google-site-verification" content="TuE8sPnbueCfOczBxPrBYyQ5cUEY2he1KVRg94yiS1E" />
  <link href="https://fonts.googleapis.com/css?family=Rubik|Roboto+Mono|Balsamiq+Sans&display=swap" rel="stylesheet">
  <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -82,7 +83,7 @@
       
       <a class="nav-item nav-link" href="/mods-blog/">MODs</a>
       
-      <a class="nav-item nav-link" href="/animecomics/">ANIME COMICS</a>
+      <a class="nav-item nav-link" href="/animecomics/">COMICS(text)</a>
       
       <a class="nav-item nav-link" href="/connect/">REQUEST MODs</a>
       
@@ -90,8 +91,9 @@
       
     </ul>
     </div>
-    <div id="searchbox">
-  <!-- SearchBox widget will appear here -->
+   </a>
+</nav>
+<!-- <div id="searchbox">
      <form class="form-inline">
       <div class="md-form my-0">
       </div>
@@ -100,12 +102,10 @@
     <div id="powered-by">
     <div class="ais-PoweredBy">
    <span class="ais-PoweredBy-text">Search by</span>
-   <a href="..." class="ais-PoweredBy-link" aria-label="Algolia">
+   <a href="..." class="ais-PoweredBy-link" aria-label="Algolia"> -->
       <!-- <svg> ... </svg> -->
-   </a>
-  </div>
-  </div>
-</nav>
+   <!-- </div>
+  </div> -->
     <h1>Staff</h1>
 
 <ul>
@@ -183,5 +183,74 @@
   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
  <!-- <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script> -->
  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+  <!-- Start of Site Search 360 script (put right before the closing </body> tag) -->
+<script type="text/javascript">
+window.ss360Config = {
+    style: {
+        themeColor: "#24BCF9",
+        suggestions: {
+            text: {
+                color: "#333333"
+            },
+            background: {
+                color: "#ffffff"
+            },
+            padding: "10px",
+            distanceFromTop: "7px",
+            border: {
+                color: "#dddddd",
+                radius: "7px"
+            }
+        },
+        searchBox: {
+            text: {
+                color: "#333333",
+                size: "14px"
+            },
+            background: {
+                color: "#ffffff"
+            },
+            border: {
+                color: "#dddddd",
+                radius: "7px"
+            },
+            padding: "10px",
+            icon: {
+                image: "magnifier",
+                color: "#666666"
+            },
+            button: {
+                text: "Search",
+                color: "#666666"
+            }
+        },
+        animationSpeed: 500
+    },
+    searchBox: {
+        searchButton: "#searchButton"
+    },
+    tracking: {
+        providers: [
+            "GA"
+        ]
+    },
+    layout: {
+        mobile: {
+            showUrl: true
+        },
+        desktop: {
+            showUrl: true
+        }
+    },
+    siteId: "cheloverboard.netlify.app",
+    showErrors: false
+};
+
+var e=document.createElement("script");
+e.async=!0;
+e.src="https://cdn.sitesearch360.com/v13/sitesearch360-v13.min.js";
+document.getElementsByTagName("body")[0].appendChild(e);
+</script>
+<!-- End of Site Search 360 script -->
   </body>
 </html>

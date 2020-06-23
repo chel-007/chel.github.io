@@ -2,7 +2,7 @@
 layout: post
 comments: true
 author: chel
-img-src: ../assets\images\MODs\idlespacefarmers.png
+img-src: ../../assets\images\MODs\idlespacefarmers.png
 img-alt: Idle Space Farmers Mod Apk
 title: Idle Space Farmers Mod Apk Unlimited Resources
 image1: idlespace-img1.png

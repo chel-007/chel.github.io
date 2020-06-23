@@ -97,7 +97,7 @@ div:hover > .site-n-privacy { color: white; text-decoration: none; }
 .signup-footer { color: white; background-color: #23271F; border: 2px white solid; margin: 5px; font-size: 12px; }
 
 /* End of Footer's CSS */
-ul.pager { list-style: none; margin-left: 10%; width: 100%; }
+ul.pager { list-style: none; margin-left: 10%; width: 80%; }
 
 ul.pager li { display: inline; padding: 7px 7px 7px 10px; border-color: #BABDB6; border-style: solid; border-radius: 3px; border-width: 1px; }
 
@@ -2262,7 +2262,7 @@ div:hover > .site-n-privacy { color: white; text-decoration: none; }
 .signup-footer { color: white; background-color: #23271F; border: 2px white solid; margin: 5px; font-size: 12px; }
 
 /* End of Footer's CSS */
-ul.pager { list-style: none; margin-left: 10%; width: 100%; }
+ul.pager { list-style: none; margin-left: 10%; width: 80%; }
 
 ul.pager li { display: inline; padding: 7px 7px 7px 10px; border-color: #BABDB6; border-style: solid; border-radius: 3px; border-width: 1px; }
 
