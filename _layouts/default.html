@@ -5,17 +5,74 @@
     {% include navigation.html %}
     {{ content }}
     {% include footer.html %}
-  <!-- Start of Site Search 360 Scripts -->
+  <!-- Start of Site Search 360 script (put right before the closing </body> tag) -->
 <script type="text/javascript">
-   /* Create a configuration object */
-   var ss360Config = {
-      /* Your site id */
-      siteId: 'cheloverboard.netlify.app',
-      /* A CSS selector that points to your search  box */
-      searchBox: {selector: '#searchBox'}
-   };
+window.ss360Config = {
+    style: {
+        themeColor: "#24BCF9",
+        suggestions: {
+            text: {
+                color: "#333333"
+            },
+            background: {
+                color: "#ffffff"
+            },
+            padding: "10px",
+            distanceFromTop: "7px",
+            border: {
+                color: "#dddddd",
+                radius: "7px"
+            }
+        },
+        searchBox: {
+            text: {
+                color: "#333333",
+                size: "14px"
+            },
+            background: {
+                color: "#ffffff"
+            },
+            border: {
+                color: "#dddddd",
+                radius: "7px"
+            },
+            padding: "10px",
+            icon: {
+                image: "magnifier",
+                color: "#666666"
+            },
+            button: {
+                text: "Search",
+                color: "#666666"
+            }
+        },
+        animationSpeed: 500
+    },
+    searchBox: {
+        searchButton: "#searchButton"
+    },
+    tracking: {
+        providers: [
+            "GA"
+        ]
+    },
+    layout: {
+        mobile: {
+            showUrl: true
+        },
+        desktop: {
+            showUrl: true
+        }
+    },
+    siteId: "cheloverboard.netlify.app",
+    showErrors: false
+};
+
+var e=document.createElement("script");
+e.async=!0;
+e.src="https://cdn.sitesearch360.com/v13/sitesearch360-v13.min.js";
+document.getElementsByTagName("body")[0].appendChild(e);
 </script>
-<script src="https://cdn.sitesearch360.com/v13/sitesearch360-v13.min.js" async></script>
-<!-- End of Site Search 360 Scripts -->
+<!-- End of Site Search 360 script -->
   </body>
 </html>
