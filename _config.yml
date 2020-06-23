@@ -64,6 +64,4 @@ algolia:
   search_only_api_key: '25f23a0f16d7c153ee5eec8eef9d1ae4'
   #files_to_exclude: ['/*downloads','/mods-blog.html/']
   nodes_to_index: 'posts'
-  excluded_files:
-    - mods-blog.html
-    - downloads/be-her-hero.html
+  
