@@ -1,15 +1,25 @@
 ---
 layout: default
 ---
-<h1>{{ page.name }}</h1>
-<h2>{{ page.position }}</h2>
-
+<div class="container-fluid" style="padding-top: 5%;">
+<h3 class="author-name">{{ page.name }}</h3>
+<h3 class="author-name">{{ page.position }}</h3>
+<div class="row" style="padding: 0px;">
+<div class="col-lg-8 col-sm-12">
 {{ content }}
-
+</div>
+<!-- End of Contents Column -->
+<div class="col-lg-4 col-sm-12">
 <h2>Posts</h2>
 <ul>
   {% assign filtered_posts = site.posts | where: 'author', page.short_name %}
   {% for post in filtered_posts %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    <li><a href="{{ post.url }}" class="blog-post-header">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
+</div>
+<!-- End of Posts Column -->
+</div>
+<!-- End of Overall Row -->
+</div>
+<!-- End of Main Container -->

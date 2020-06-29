@@ -3,7 +3,7 @@ layout: post
 comments: true
 author: chel
 feed_meta:
-seo: She's my Vampire Mod apk Genius Inc Free Premium Choices 
+seo: She's my Vampire MOD APK Latest (Free Premium Choices)
 description: Name> She's My Vampire! Version> 2.0.5 Root> No Mod features> Free Premium Choices Preview Tutorial Install> Install Steps> Download
 img-src: ../../assets\images\MODs\shemyvamp.png.png
 img-alt: She's My Vampire Mod Apk
@@ -16,8 +16,10 @@ downloadId: she-my-vampire
 modname: She's My Vampire
 developername: Genius Inc Studios
 version: 2.01
-androidversion: 4.1 and up
+os: 4.1 and up
 installs: 100000+
+size: 32M
+features: Free Premium Choices
 playstorelink: https://play.google.com/store/apps/details?id=studio.genius.bishoujovampire
 ---
 <p>You were enjoying a nice hiking trip up in the mountains until you got lost in the woods after a mishap at the peak[..]

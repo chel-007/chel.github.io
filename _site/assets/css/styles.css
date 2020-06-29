@@ -33,6 +33,7 @@ body { font-family: Rubik; font-size: 17px; }
 
 .learn-create-consult { list-style-type: none; padding: 0px; }
 
+/* End of ChelOverboard HomePage CSS */
 /* Blog's MODs Page CSS */
 .blog-container { padding-top: 6%; }
 
@@ -87,6 +88,9 @@ ul { display: inline-block; vertical-align: top; list-style-type: none; margin: 
 .finaldownload:hover > button { border: 2px solid black; border-radius: 7px; }
 
 /* End of Final Download's Page CSS */
+/* Authors Page CSS */
+.author-name { font-style: 'Lato'; color: #24BCF9; }
+
 /* Footer's CSS */
 .footer-style { background-color: #222F34; padding: 17px; }
 
@@ -99,7 +103,7 @@ div:hover > .site-n-privacy { color: white; text-decoration: none; }
 .signup-footer { color: white; background-color: #23271F; border: 2px white solid; margin: 5px; font-size: 12px; }
 
 /* End of Footer's CSS */
-ul.pager { list-style: none; margin-left: 3%; width: 80%; }
+ul.pager { list-style: none; width: 100%; }
 
 ul.pager li { display: inline; padding: 7px 7px 7px 10px; border-color: #BABDB6; border-style: solid; border-radius: 3px; border-width: 1px; }
 
@@ -2200,6 +2204,7 @@ body { font-family: Rubik; font-size: 17px; }
 
 .learn-create-consult { list-style-type: none; padding: 0px; }
 
+/* End of ChelOverboard HomePage CSS */
 /* Blog's MODs Page CSS */
 .blog-container { padding-top: 6%; }
 
@@ -2254,6 +2259,9 @@ ul { display: inline-block; vertical-align: top; list-style-type: none; margin: 
 .finaldownload:hover > button { border: 2px solid black; border-radius: 7px; }
 
 /* End of Final Download's Page CSS */
+/* Authors Page CSS */
+.author-name { font-style: 'Lato'; color: #24BCF9; }
+
 /* Footer's CSS */
 .footer-style { background-color: #222F34; padding: 17px; }
 
@@ -2266,7 +2274,7 @@ div:hover > .site-n-privacy { color: white; text-decoration: none; }
 .signup-footer { color: white; background-color: #23271F; border: 2px white solid; margin: 5px; font-size: 12px; }
 
 /* End of Footer's CSS */
-ul.pager { list-style: none; margin-left: 3%; width: 80%; }
+ul.pager { list-style: none; width: 100%; }
 
 ul.pager li { display: inline; padding: 7px 7px 7px 10px; border-color: #BABDB6; border-style: solid; border-radius: 3px; border-width: 1px; }
 

@@ -7,11 +7,11 @@ title: Anime Comic Download Unlocked(Premium)
 <div id="carouselExampleFade" class="carousel slide carousel-fade my-carousel" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100 card-img-top" src="Anime-comic-imgs/Anime-wallpaper-1.jpg"
+      <img class="d-block w-100 card-img-top" src="../assets\images\MODs\shemyvamp.png.png"
         alt="First slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100 card-img-top" src="Anime-comic-imgs/Anime-wallpaper-2.jpg"
+      <img class="d-block w-100 card-img-top" src="../assets\images\MODs\beherhero.png"
         alt="Second slide">
     </div>
     <div class="carousel-item">
@@ -152,3 +152,22 @@ Find romance or let it find you, tainted and twisted as it may be!<br>
 </div>
 <!--Main container-->
 <p style="padding-bottom: 70px;"></p>
+
+
+<div class="col-lg-4 col-sm-4">
+  <h3>Other Popular MODs to try</h3>
+  {% for post in site.posts %} 
+  <div class="card card-around-game" style="width: 19rem;">
+    <!-- Elements to loop for all posts -->
+    <a href="{{ post.url }}">
+    <img class="responsive p-2 bd-highlight borderaround" src="{{ post.img-src }}" alt="{{ post.img-alt }}" width="200" height="150"></a>
+    <div class="card-block" style="padding: 0px">
+    <h4><a href="{{ post.url }}"  class="blog-post-header">{{ post.title }}</a><hr></h4>{{ post.date | date: "%b %-d, %Y" }}<p style="clear: both"></p>
+  <!-- End of Elements to loop for all posts -->
+    </div>
+    <!-- End of Card Block 2 -->
+  </div>
+  <!-- End of Game MOD Enclosing Card -->
+  {% endfor %}
+</div>
+<!-- End of Other Post Column -->

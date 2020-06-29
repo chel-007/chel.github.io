@@ -1,5 +1,7 @@
 ---
 layout: default
+pagination: 
+  enabled: true
 ---
    <!--Main container-->
 <div class="container-fluid gamecont">
@@ -18,8 +20,111 @@ layout: default
   <hr>
     - By <a href="{{ author.url }}">{{ author.name }}</a> on {{ page.date | date_to_string }}
   {% endif %}<p style="clear: left;"></p>
-  {% include game-body.html %}
 </p>
+{% include game-body.html %}
+</div>
+<!-- End of First Column -->
+<h2 class="ChelOverboard"><font color=#3FD10E>Other</font> <font color=rgba(0,0,0,1)>MODs</font> <font color=#24BCF9>to Try</font></h2>
+<div class="col-lg-5 col-sm-12">
+<div id="carouselExampleFade" class="carousel slide carousel-fade my-carousel" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <div class="card card-around-game" style="width: 19rem;">
+    <!-- Elements to loop for all posts -->
+    <a href="{{ item.url }}">
+    <img class="responsive p-2 bd-highlight borderaround" src="../assets\images\MODs\beherhero.png" alt="{{ item.alt }}" width="300" height="150"></a>
+    <div class="card-block" style="padding: 0px">
+    <h4><a href="{{ item.url }}"  class="blog-post-header">{{ item.title }}</a><hr></h4>{{ post.date | date: "%b %-d, %Y" }}<p style="clear: both"></p>
+    <!-- End of Elements to loop for all posts -->
+    </div>
+    <!-- End of Card Block 2 -->
+  </div>
+  <!-- End of Game MOD Enclosing Card -->
+  </div>
+  <!-- End of Carousel Item -->
+    {% for item in site.data.carousel %}
+    <div class="carousel-item">
+    <div class="card card-around-game" style="width: 19rem;">
+    <!-- Elements to loop for all posts -->
+    <a href="{{ item.url }}">
+    <img class="responsive p-2 bd-highlight borderaround" src="{{ item.image }}" alt="{{ item.alt }}" width="300" height="150"></a>
+    <div class="card-block" style="padding: 0px">
+    <h4><a href="{{ item.url }}"  class="blog-post-header">{{ item.title }}</a><hr></h4>{{ post.date | date: "%b %-d, %Y" }}<p style="clear: both"></p>
+    <!-- End of Elements to loop for all posts -->
+    </div>
+    <!-- End of Card Block 2 -->
+  </div>
+  <!-- End of Game MOD Enclosing Card -->
+  </div>
+  <!-- End of Carousel Item -->
+     {% endfor %}
+</div>
+<!-- End of Carousel Inner -->
+ <a class="carousel-control-prev" href="#carouselExampleFade" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleFade" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+<!-- End of Carousel Data ride -->
+</div>
+<!-- End of First Carousel Column -->
+
+<!-- Start of Second Carousel Column -->
+<div class="col-lg-5 col-sm-12">
+<div id="carouselExampleFade" class="carousel slide carousel-fade my-carousel" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <div class="card card-around-game" style="width: 19rem;">
+    <!-- Elements to loop for all posts -->
+    <a href="{{ item.url }}">
+    <img class="responsive p-2 bd-highlight borderaround" src="../assets\images\MODs\beherhero.png" alt="{{ item.alt }}" width="300" height="150"></a>
+    <div class="card-block" style="padding: 0px">
+    <h4><a href="{{ item.url }}"  class="blog-post-header">{{ item.title }}</a><hr></h4>{{ post.date | date: "%b %-d, %Y" }}<p style="clear: both"></p>
+    <!-- End of Elements to loop for all posts -->
+    </div>
+    <!-- End of Card Block 2 -->
+  </div>
+  <!-- End of Game MOD Enclosing Card -->
+  </div>
+  <!-- End of Carousel Item -->
+    {% for item in site.data.carousel %}
+    <div class="carousel-item">
+    <div class="card card-around-game" style="width: 19rem;">
+    <!-- Elements to loop for all posts -->
+    <a href="{{ item.url }}">
+    <img class="responsive p-2 bd-highlight borderaround" src="{{ item.image }}" alt="{{ item.alt }}" width="300" height="150"></a>
+    <div class="card-block" style="padding: 0px">
+    <h4><a href="{{ item.url }}"  class="blog-post-header">{{ item.title }}</a><hr></h4>{{ post.date | date: "%b %-d, %Y" }}<p style="clear: both"></p>
+    <!-- End of Elements to loop for all posts -->
+    </div>
+    <!-- End of Card Block 2 -->
+  </div>
+  <!-- End of Game MOD Enclosing Card -->
+  </div>
+  <!-- End of Carousel Item -->
+    {% endfor %}
+</div>
+<!-- End of Carousel Inner -->
+ <a class="carousel-control-prev" href="#carouselExampleFade" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleFade" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+<!-- End of Carousel Data ride -->
+</div>
+<!-- End of Second Carousel Column -->
+
+
+
+
 <div class="paypal-donate">
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick" />
@@ -50,10 +155,11 @@ s.setAttribute('data-timestamp', +new Date());
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
 {% endif %} 
-</div>
-<!-- End of column -->
+
 </div>
 <!-- End of Row -->
 </div>
 <!-- End of Main Container -->
+
+https://www.file4.net/f-1lgI
 
