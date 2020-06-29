@@ -2,7 +2,7 @@
 layout: post
 comments: true
 author: chel
-seo: My videogame girlfriend mod apk Genius Inc Free Premium Choices 
+seo: My Videogame Girlfriend MOD APK Latest (Free Premium Choices) 
 description: Name> My videogame girlfriend! Version> 2.0.7 Root> No Mod features> Free Premium Choices Preview Tutorial Install> Install Steps> Download
 img-src: ../../assets\images\MODs\myvideogame.png
 img-alt: My VideoGame Girlfriend Mod Apk
@@ -15,8 +15,10 @@ downloadId: my-videogame-girlfriend
 modname: My VideoGame Girlfriend
 developername: Genius Inc Studios Japan
 version: 2.07
-androidversion: 5.0 and up
+os: 5.0 and up
 installs: 100000+
+size: 32M
+features: Free Premium Choices
 playstorelink: https://play.google.com/store/apps/details?id=studio.genius.bishoujogame
 ---
 <p>Social interactions have never been your favorite part of life, but you’ve always found joy in playing through dating sims. One day, you receive[..]

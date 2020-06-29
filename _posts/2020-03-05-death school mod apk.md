@@ -2,7 +2,7 @@
 layout: post
 comments: true
 author: chel
-seo: Death school Mod apk Genius Inc Free Premium Choices 
+seo: Death school MOD APK Latest (Free Premium Choices) 
 description: Name> Death school! Version> 2.0.6 Root> No Mod features> Free Premium Choices Preview Tutorial Install> Install Steps> Download
 img-src: ../../assets\images\MODs\deathschool.png
 img-alt: Death School Mod Apk
@@ -15,7 +15,9 @@ downloadId: death-school
 modname: Death School
 developername: Genius Studio Japan Inc
 version: 2.06
-androidversion: 5.0 and up
+os: 5.0 and up
+size: 34M
+features: Free Premium Choices
 installs: 10000+
 playstorelink: https://play.google.com/store/apps/details?id=studio.genius.heisagakuen
 ---

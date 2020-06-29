@@ -5,8 +5,8 @@ author: chel
 seo: Save her from the zombies Mod apk Genius Inc Free Premium Choices 
 description: Name> Save her from the zombies! Version> 1.0.7 Root> No Mod features> Free Premium Choices Preview Tutorial Install> Install Steps> Download
 img-src: ../../assets\images\MODs\saveherfromzombies.png
-img-alt: Save her from the Zombies! Mod Apk
-title: Save her from the Zombies! Mod Apk
+img-alt: Save her from the Zombies! 
+title: Save her from the Zombies! MOD APK Latest (Free Premium Choices)
 image1: savefromzomb-img1.png
 image2: savefromzomb-img2.png
 image3: savefromzomb-img3.png
@@ -15,8 +15,10 @@ downloadId: save-her-from-the-zombies
 modname: Save her from the Zombies!
 developername: Genius Inc Studios
 version: 1.0.0
-androidversion: 5.0 and up
+os: 5.0 and up
 installs: 10000+
+size: 32M
+features: Free Premium Choices
 playstorelink: https://play.google.com/store/apps/details?id=studio.genius.yashikizombie
 ---
 <p>You’re a high school student living with your younger sister Aiko. Both your parents were killed in a accident[..]

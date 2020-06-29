@@ -4,7 +4,7 @@ comments: true
 author: chel
 img-src: ../../assets\images\MODs\10billionwives.png
 img-alt: 10 Billion Wives Mod Apk
-title: 10 Billion Wives Mod Apk Unlimited Choices
+title: 10 Billion Wives Mod Apk Unlimited In-game Resources
 image1: 10billion-img1.png
 image2: 10billion-img2.png
 image3: 10billion-img3.png
@@ -15,6 +15,8 @@ developername: Masukachi Inc
 version: 2.07
 androidversion: 4.03 and up
 installs: 10000+
+size: 42M
+features: Unlimited In-game Resources
 playstorelink: https://play.google.com/store/apps/details?id=com.masukachi.wife2
 ---
 <p>Marry 10 billion wives!After the app is closed, wives will continue to increase for an hour[...]<br><br>

@@ -2,6 +2,8 @@
 layout: post
 comments: true
 author: chel
+seo:  Zgirls MOD APK Latest (Free Premium Choices)
+description: Name> Zgirls! Version> 2.0.5 Root> No Mod features> Unlimited In-game Resources Preview Tutorial Install> Install Steps> Download
 img-src: /assets\images\MODs\Zgirls.png
 img-alt: Zgirls Mod Apk
 title: Zgirls Mod Apk Unlimited In-game Resources
@@ -13,8 +15,10 @@ downloadId: Zgirls
 modname: Zgirls
 developername: Blue Ultra Game Limited
 version: 1.2.1
-androidversion: 4.0.3 and up
+os: 4.0.3 and up
 installs: 5,000,000+
+size: 32M
+features: Unlimited In-game Resources
 playstorelink: tps://play.google.com/store/apps/details?id=com.xingjoys.zgirls.gp
 ---
 <p>When the zombies approach, you have to defend yourself! Don't want to blindly await death? Call up your school girls![..]

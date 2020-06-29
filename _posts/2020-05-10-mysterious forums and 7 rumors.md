@@ -13,8 +13,10 @@ downloadId: mysterious-forums-and-7-rumors
 modname: Mysterious Forums and 7 Rumors
 developername: Entabridge Co, Ltd.
 version: 2.0.3
-androidversion: 4.3 and up
+os: 4.3 and up
 installs: 100000+
+size: 32M
+features: Unlimited Choices Remake
 playstorelink: https://play.google.com/store/apps/details?id=com.entabridge.chatnovel3en
 ---
 <p>Life’s not easy being the city’s only superhero and it’s even harder when you’ve gotta balance it with high school life! 

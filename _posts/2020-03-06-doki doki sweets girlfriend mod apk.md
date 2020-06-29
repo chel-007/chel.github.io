@@ -2,7 +2,7 @@
 layout: post
 comments: true
 author: chel
-seo: Doki Doki sweets girlfriend Mod apk Genius Inc Free Premium Choices 
+seo: Doki Doki sweets girlfriend MOD APK Latest (Free Premium Choices) 
 description: Name> Doki doki sweets girlfriend! Version> 2.0.6 Root> No Mod features> Free Premium Choices Preview Tutorial Install> Install Steps> Download
 img-src: ../../assets\images\MODs\Doki1.png
 img-alt: Doki Doki Sweets Girlfriend Mod Apk
@@ -15,8 +15,10 @@ downloadId: doki-doki-sweets-girlfriend
 modname: Doki Doki Sweets Girlfriend
 developername: Genius Inc Studios
 version: 2.06
-androidversion: 5.0 and up
-installs: 10000+
+os: 5.0 and up
+size: 32M
+features: Free Premium Choices
+installs: 100000+
 playstorelink: https://play.google.com/store/apps/details?id=studio.genius.zunko
 ---
 <p>You’re a high school student that’s inherited a Japanese sweets shop. Business is slow, but one day a cute girl shows up[..]

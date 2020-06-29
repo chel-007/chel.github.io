@@ -13,8 +13,10 @@ downloadId: dangerous-fellows
 modname: Dangerous fellows
 developername: StoryTaco.Inc
 version: 1.54
-androidversion: 4.4 and up
+os: 4.4 and up
 installs: 500000+
+size: 76M
+features: Free Assests (Diamonds & Cash)
 playstorelink: https://play.google.com/store/apps/details?id=com.lucydream.dangerousfellows
 ---
 <p>Dangerous Fellows is a visual-novel based dating simulator game featuring attractive characters and captivating sound effects.! 

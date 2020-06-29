@@ -2,7 +2,7 @@
 layout: post
 comments: true
 author: chel
-seo: My zombie girlfriend Mod apk Genius Inc Free Premium Choices 
+seo: My zombie girlfriend MOD APK Latest (Free Premium Choices) 
 description: Name> My zombie girlfriend! Version> 2.0.7 Root> No Mod features> Free Premium Choices Preview Tutorial Install> Install Steps> Download
 img-src: ../../assets\images\MODs\myzombiegirlfriend.png
 img-alt: My Zombie Girlfriend Mod Apk
@@ -15,8 +15,10 @@ downloadId: my-zombie-girlfriend
 modname: My Zombie Girlfriend
 developername: Genius Inc Studios
 version: 2.06
-androidversion: 5.0 and up
+os: 5.0 and up
 installs: 50000+
+size: 34M
+features: Free Premium Choices
 playstorelink: https://play.google.com/store/apps/details?id=studio.genius.zombiebishoujyo
 ---
 <p>After the death of your childhood friend, you've been searching for a way to bring her back... Finally, you're able to summon[..]

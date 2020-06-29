@@ -2,7 +2,7 @@
 layout: post
 comments: true
 author: chel
-seo: My nurse girlfriend Mod apk Genius Inc Free Premium Choices 
+seo: My nurse girlfriend MOD APK Latest (Free Premium Choices) 
 description: Name> My nurse girlfriend! Version> 2.0.5 Root> No Mod features> Free Premium Choices Preview Tutorial Install> Install Steps> Download
 img-src: ../../assets\images\MODs\mynursegirlfriend.png
 img-alt: My Nurse Girlfriend Mod Apk
@@ -15,8 +15,10 @@ downloadId: my-nurse-girlfriend
 modname: My Nurse Girlfriend
 developername: Genius Inc Studios
 version: 2.05
-androidversion: 4.1 and up
+os: 4.1 and up
 installs: 100000+
+size: 32M
+features: Free Premium Choices
 playstorelink: https://play.google.com/store/apps/details?id=studio.genius.nurse
 ---
 <p>You’re the star player on your school’s soccer team, but an accident during a practice match sends you to the hospital with a broken leg[..]

@@ -2,7 +2,7 @@
 layout: post
 comments: true
 author: chel
-seo: Spellbound Schoolgirls Mod apk Genius Inc Free Premium Choices 
+seo: Spellbound Schoolgirls MOD APK Latest (Free Premium Choices)
 description: Name> Spellbound Schoolgirls! Version> 2.0.3 Root> No Mod features> Free Premium Choices Preview Tutorial Install> Install Steps> Download
 img-src: ../../assets\images\MODs\spellboundgirlfriends.png
 img-alt: SpellBound Schoolgirls Mod Apk
@@ -15,8 +15,10 @@ downloadId: spellbound-schoolgirls
 modname: SpellBound Schoolgirls
 developername: Genius Inc Studios
 version: 1.02
-androidversion: 5.0 and up
+os: 5.0 and up
 installs: 10000+
+size: 32M
+features: Free Premium Choices
 playstorelink: https://play.google.com/store/apps/details?id=studio.genius.mazyogakuen
 ---
 <p>It’s your first day at school and you’re one of the first male students at a former girls-only school! You’re a little[..]

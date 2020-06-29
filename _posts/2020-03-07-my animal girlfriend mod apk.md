@@ -2,7 +2,7 @@
 layout: post
 comments: true
 author: chel
-seo: My animal girlfriend Mod apk Genius Inc Free Premium Choices 
+seo: My animal girlfriend MOD APK Latest (Free Premium Choices) 
 description: Name> My animal girlfriend! Version> 2.0.7 Root> No Mod features> Free Premium Choices Preview Tutorial Install> Install Steps> Download
 img-src: ../../assets\images\MODs\myanimalgirlfriend.png
 img-alt: My Animal Girlfriend Mod Apk
@@ -15,8 +15,10 @@ downloadId: my-animal-girlfriend
 modname: My Animal Girlfriend
 developername: Genius Inc Studios Japan
 version: 2.07
-androidversion: 5.0 and up
+os: 5.0 and up
 installs: 50000+
+size: 33M
+features: Free Premium Choices
 playstorelink: https://play.google.com/store/apps/details?id=studio.genius.bishoujohero
 ---
 <p>Your first job out of college is going well, but you just don't seem to be having much luck finding love in your life[..]

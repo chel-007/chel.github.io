@@ -2,6 +2,7 @@
 layout: post
 comments: true
 author: chel
+description: Name> Idle Space Farmers Version> 1.4.3 Root> No Mod features> Unlimited In-game Resources  Preview Tutorial Install> Install Steps> Download
 img-src: ../../assets\images\MODs\idlespacefarmers.png
 img-alt: Idle Space Farmers Mod Apk
 title: Idle Space Farmers Mod Apk Unlimited Resources
@@ -13,7 +14,7 @@ downloadId: idle-spcae-farmers
 modname: Idle Space Farmers
 developername: Anxious Otter Games
 version: 1.35
-androidversion: 5.0 and up
+os: 5.0 and up
 installs: 10000+
 playstorelink: https://play.google.com/store/apps/details?id=com.anxiousottergames.spacefarmer
 ---

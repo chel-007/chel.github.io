@@ -2,7 +2,7 @@
 layout: post
 comments: true
 author: chel
-seo: Devil beauties and animal cuties Mod apk Genius Inc Free Premium Choices 
+seo: Devil beauties and animal cuties MOD APK Latest (Free Premium Choices) 
 description: Name> Devil beauties and animal cuties! Version> 2.0.6 Root> No Mod features> Free Premium Choices Preview Tutorial Install> Install Steps> Download
 img-src: ../../assets\images\MODs\devilbeauties.png
 img-alt: Devil Beauties and Animal Cuties Mod Apk
@@ -15,7 +15,9 @@ downloadId: devil-beauties-and-animal-cuties
 modname: Devil Beauties and Animal Cuties
 developername: Genius Inc Studios
 version: 2.06
-androidversion: 5.0 and up
+os: 5.0 and up
+size: 32M
+features: Free Premium Choices
 installs: 10000+
 playstorelink: https://play.google.com/store/apps/details?id=studio.genius.gijinakuma
 ---

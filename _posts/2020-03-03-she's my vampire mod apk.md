@@ -7,7 +7,7 @@ seo: She's my Vampire MOD APK Latest (Free Premium Choices)
 description: Name> She's My Vampire! Version> 2.0.5 Root> No Mod features> Free Premium Choices Preview Tutorial Install> Install Steps> Download
 img-src: ../../assets\images\MODs\shemyvamp.png.png
 img-alt: She's My Vampire Mod Apk
-title: She's My Vampire Mod Apk Unlimited Choices
+title: She's My Vampire MOD APK Latest (Free Premium Choices)
 image1: she'smyvamp-img1.png
 image2: she'smyvamp-img2.png
 image3: she'smyvamp-img3.png

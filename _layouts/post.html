@@ -24,8 +24,9 @@ pagination:
 {% include game-body.html %}
 </div>
 <!-- End of First Column -->
-<h2 class="ChelOverboard"><font color=#3FD10E>Other</font> <font color=rgba(0,0,0,1)>MODs</font> <font color=#24BCF9>to Try</font></h2>
 <div class="col-lg-5 col-sm-12">
+<h2 class="ChelOverboard"><font color=#3FD10E>Other</font> <font color=rgba(0,0,0,1)>MODs</font> <font color=#24BCF9>to Try</font></h2>
+<p style="padding-top: 2%"></p>
 <div id="carouselExampleFade" class="carousel slide carousel-fade my-carousel" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
@@ -42,14 +43,14 @@ pagination:
   <!-- End of Game MOD Enclosing Card -->
   </div>
   <!-- End of Carousel Item -->
-    {% for item in site.data.carousel %}
+    {% for post in site.posts %}
     <div class="carousel-item">
     <div class="card card-around-game" style="width: 19rem;">
     <!-- Elements to loop for all posts -->
-    <a href="{{ item.url }}">
-    <img class="responsive p-2 bd-highlight borderaround" src="{{ item.image }}" alt="{{ item.alt }}" width="300" height="150"></a>
+    <a href="{{ post.url }}">
+    <img class="responsive p-2 bd-highlight borderaround" src="{{ post.img-src }}" alt="{{ post.img-alt }}" width="300" height="150"></a>
     <div class="card-block" style="padding: 0px">
-    <h4><a href="{{ item.url }}"  class="blog-post-header">{{ item.title }}</a><hr></h4>{{ post.date | date: "%b %-d, %Y" }}<p style="clear: both"></p>
+    <h4><a href="{{ post.url }}"  class="blog-post-header">{{ post.title }}</a><hr></h4>{{ post.date | date: "%b %-d, %Y" }}<p style="clear: both"></p>
     <!-- End of Elements to loop for all posts -->
     </div>
     <!-- End of Card Block 2 -->
@@ -75,13 +76,15 @@ pagination:
 
 <!-- Start of Second Carousel Column -->
 <div class="col-lg-5 col-sm-12">
+<h2>...</h2>
+<p style="padding-top: 2%"></p>
 <div id="carouselExampleFade" class="carousel slide carousel-fade my-carousel" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
       <div class="card card-around-game" style="width: 19rem;">
     <!-- Elements to loop for all posts -->
     <a href="{{ item.url }}">
-    <img class="responsive p-2 bd-highlight borderaround" src="../assets\images\MODs\beherhero.png" alt="{{ item.alt }}" width="300" height="150"></a>
+    <img class="responsive p-2 bd-highlight borderaround" src="../assets\images\MODs\otakulikeme.png" alt="{{ item.alt }}" width="300" height="150"></a>
     <div class="card-block" style="padding: 0px">
     <h4><a href="{{ item.url }}"  class="blog-post-header">{{ item.title }}</a><hr></h4>{{ post.date | date: "%b %-d, %Y" }}<p style="clear: both"></p>
     <!-- End of Elements to loop for all posts -->
@@ -91,14 +94,14 @@ pagination:
   <!-- End of Game MOD Enclosing Card -->
   </div>
   <!-- End of Carousel Item -->
-    {% for item in site.data.carousel %}
+    {% for post in site.posts reversed %}
     <div class="carousel-item">
     <div class="card card-around-game" style="width: 19rem;">
     <!-- Elements to loop for all posts -->
-    <a href="{{ item.url }}">
-    <img class="responsive p-2 bd-highlight borderaround" src="{{ item.image }}" alt="{{ item.alt }}" width="300" height="150"></a>
+    <a href="{{ post.url }}">
+    <img class="responsive p-2 bd-highlight borderaround" src="{{ post.img-src }}" alt="{{ post.img-alt }}" width="300" height="150"></a>
     <div class="card-block" style="padding: 0px">
-    <h4><a href="{{ item.url }}"  class="blog-post-header">{{ item.title }}</a><hr></h4>{{ post.date | date: "%b %-d, %Y" }}<p style="clear: both"></p>
+    <h4><a href="{{ post.url }}"  class="blog-post-header">{{ post.title }}</a><hr></h4>{{ post.date | date: "%b %-d, %Y" }}<p style="clear: both"></p>
     <!-- End of Elements to loop for all posts -->
     </div>
     <!-- End of Card Block 2 -->
@@ -123,7 +126,9 @@ pagination:
 <!-- End of Second Carousel Column -->
 
 
+</div>
 
+<p style="padding-top: 5%;"></p>
 
 <div class="paypal-donate">
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -161,5 +166,4 @@ s.setAttribute('data-timestamp', +new Date());
 </div>
 <!-- End of Main Container -->
 
-https://www.file4.net/f-1lgI
 

@@ -2,7 +2,7 @@
 layout: post
 comments: true
 author: chel
-seo: Protect My Love Mod apk Genius Inc Free Premium Choices 
+seo: Protect My Love MOD APK Latest (Free Premium Choices)
 description: Name> Protect my love! Version> 2.0.8 Root> No Mod features> Free Premium Choices Preview Tutorial Install> Install Steps> Download
 img-src: ../../assets\images\MODs\protectmylove.png
 img-alt: Protect My Love Mod Apk
@@ -15,8 +15,10 @@ downloadId: protect-my-love
 modname: Protect My Love
 developername: Genius Inc Studios
 version: 2.07
-androidversion: 5.0 and up
+os: 5.0 and up
 installs: 100000+
+size: 35M
+features: Free Premium Choices
 playstorelink: https://play.google.com/store/apps/details?id=studio.genius.bodyguard
 ---
 <p>You’ve made your living as an assassin and are well-known throughout the underground for your skill.
