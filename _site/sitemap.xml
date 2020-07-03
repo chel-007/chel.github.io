@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/authors/chel/</loc>
-<lastmod>2020-06-29T16:40:19+01:00</lastmod>
+<lastmod>2020-07-02T21:31:18+01:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/she's-my-vampire-mod-apk/</loc>
@@ -11,10 +11,6 @@
 <url>
 <loc>http://localhost:4000/my-videogame-girlfriend-mod-apk/</loc>
 <lastmod>2020-03-04T00:00:00+01:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/be-her-hero-mod-apk/</loc>
-<lastmod>2020-03-05T00:00:00+01:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/death-school-mod-apk/</loc>
@@ -27,6 +23,10 @@
 <url>
 <loc>http://localhost:4000/doki-doki-sweets-girlfriend-mod-apk/</loc>
 <lastmod>2020-03-06T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/be-her-hero-mod-apk/</loc>
+<lastmod>2020-03-07T00:00:00+01:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/my-animal-girlfriend-mod-apk/</loc>
