@@ -4,7 +4,7 @@
     [plugins.inputs]
     exclude = ['''^\/about.*''', '''^\/mods-blog.*''', '''^\/connect.*''', '''^\/privacy.*''', '''^\/animecomics.*''', '''^\/staff.*''', '''^\/downloads.*''', '/404.html'] # don't #index this file
     # indexName = searchIndex
-    
+
 [[headers]]
   for = "/img/*"
   [headers.values]
@@ -15,5 +15,13 @@
     Cache-Control = "public, max-age=604800"
 [[headers]]
   for = "/*.css" # css files too
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
+[[headers]]
+  for = "/*.png" # css files too
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
+[[headers]]
+  for = "/*.jpg" # css files too
   [headers.values]
     Cache-Control = "public, max-age=604800"
