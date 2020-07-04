@@ -2,7 +2,7 @@
 layout: post
 comments: true
 author: chel
-img-src: ../../assets\images\MODs\obeymeshallwedate.png
+img-src: ../../assets\images\MODs\obeymeshallwedate.jpg
 img-alt: Obey Me! Shall We Date Mod Apk
 title: Obey Me! Shall We Date Mod Apk Unlimited Resources
 image1: obeyme-img1.png

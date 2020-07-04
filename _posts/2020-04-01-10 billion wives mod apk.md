@@ -2,7 +2,7 @@
 layout: post
 comments: true
 author: chel
-img-src: ../../assets\images\MODs\10billionwives.png
+img-src: ../../assets\images\MODs\10billionwives.jpg
 img-alt: 10 Billion Wives Mod Apk
 title: 10 Billion Wives Mod Apk Unlimited In-game Resources
 image1: 10billion-img1.png

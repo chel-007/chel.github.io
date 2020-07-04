@@ -2,7 +2,7 @@
 layout: post
 comments: true
 author: chel
-img-src: ../../assets\images\MODs\dangerousfellows.png
+img-src: ../../assets\images\MODs\dangerousfellows.jpg
 img-alt: Dangerous Fellows Mod Apk
 title: Dangerous Fellows Romantic Thriller Mod Apk
 image1: dangerousfellows-img1.png

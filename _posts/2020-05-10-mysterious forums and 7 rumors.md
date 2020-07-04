@@ -2,7 +2,7 @@
 layout: post
 comments: true
 author: chel
-img-src: ../../assets\images\MODs\mysteriousforum.png
+img-src: ../../assets\images\MODs\mysteriousforum.jpg
 img-alt: Mysterious Forums and 7 Rumors
 title: Mysterious Forums and 7 Rumors Mod Apk 
 image1: mysteriousforum-img1.png
