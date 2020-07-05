@@ -10,6 +10,7 @@ group :jekyll_plugins do
   gem 'jekyll-paginate-v2'
   gem 'jekyll-algolia'
   gem 'jekyll-gzip'
+  gem 'jekyll-press'
 end
 
 # gem "rails"
