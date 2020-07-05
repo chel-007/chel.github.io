@@ -30,10 +30,6 @@
   [headers.values]
     Cache-Control = "public, max-age=604800"
 [[headers]]
-  for = "/*.yml" # css files too
-  [headers.values]
-    Cache-Control = "public, max-age=604800"
-[[headers]]
   for = "/*.html" # css files too
   [headers.values]
     Cache-Control = "public, max-age=604800"
