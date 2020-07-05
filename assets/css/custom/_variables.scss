@@ -38,11 +38,9 @@
   font: normal normal normal 19px/0 FontAwesome;
   content: "\f107";
 }
-.dropdown-toggle-align::after {
-  display: inline-block;
-  padding: 0.5rem;
-  font: normal normal normal 23px/1 FontAwesome;
-  content: "\f036";
+.dropdown-toggle-align .toggle {
+  margin-left: 4px;
+  margin-top: 1px;
 }
 @media (max-width: 950px) {
   .navbar-custom ul li div:hover > a {
@@ -51,7 +49,7 @@
  }}
 /* Body's CSS */
 body {
-font-family: Rubik;
+font-family: Montserrat, sans-serif;
 font-size: 17px;
 }
 /* End of Body's CSS */
@@ -95,7 +93,7 @@ font-size: 17px;
 .blog-post-header {
   font-weight: 600;
   color: black;
-  font-family: Rubik;
+  font-family: Montserrat, sans-serif;
 }
 @media (max-width: 750px) {
   .blog-post-header {

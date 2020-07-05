@@ -15,12 +15,12 @@
 
 .dropdown-toggle-angle::after { display: inline-block; padding: 0.5rem; font: normal normal normal 19px/0 FontAwesome; content: "\f107"; }
 
-.dropdown-toggle-align::after { display: inline-block; padding: 0.5rem; font: normal normal normal 23px/1 FontAwesome; content: "\f036"; }
+.dropdown-toggle-align .toggle { margin-left: 4px; margin-top: 1px; }
 
 @media (max-width: 950px) { .navbar-custom ul li div:hover > a { border-bottom: 1px solid rgba(0, 0, 0, 0.1); } }
 
 /* Body's CSS */
-body { font-family: Rubik; font-size: 17px; }
+body { font-family: Montserrat, sans-serif; font-size: 17px; }
 
 /* End of Body's CSS */
 /* ChelOverboard Homepage's CSS */
@@ -41,7 +41,7 @@ body { font-family: Rubik; font-size: 17px; }
 
 .card-around-game { text-align: center; color: black; border: 1.5px rgba(0, 0, 0, 0.2) solid; }
 
-.blog-post-header { font-weight: 600; color: black; font-family: Rubik; }
+.blog-post-header { font-weight: 600; color: black; font-family: Montserrat, sans-serif; }
 
 @media (max-width: 750px) { .blog-post-header { font-size: 24px; } }
 
@@ -2186,12 +2186,12 @@ a.text-dark:hover, a.text-dark:focus { color: #1d2124 !important; }
 
 .dropdown-toggle-angle::after { display: inline-block; padding: 0.5rem; font: normal normal normal 19px/0 FontAwesome; content: "\f107"; }
 
-.dropdown-toggle-align::after { display: inline-block; padding: 0.5rem; font: normal normal normal 23px/1 FontAwesome; content: "\f036"; }
+.dropdown-toggle-align .toggle { margin-left: 4px; margin-top: 1px; }
 
 @media (max-width: 950px) { .navbar-custom ul li div:hover > a { border-bottom: 1px solid rgba(0, 0, 0, 0.1); } }
 
 /* Body's CSS */
-body { font-family: Rubik; font-size: 17px; }
+body { font-family: Montserrat, sans-serif; font-size: 17px; }
 
 /* End of Body's CSS */
 /* ChelOverboard Homepage's CSS */
@@ -2212,7 +2212,7 @@ body { font-family: Rubik; font-size: 17px; }
 
 .card-around-game { text-align: center; color: black; border: 1.5px rgba(0, 0, 0, 0.2) solid; }
 
-.blog-post-header { font-weight: 600; color: black; font-family: Rubik; }
+.blog-post-header { font-weight: 600; color: black; font-family: Montserrat, sans-serif; }
 
 @media (max-width: 750px) { .blog-post-header { font-size: 24px; } }
 
