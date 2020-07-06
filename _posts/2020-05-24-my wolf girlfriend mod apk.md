@@ -4,13 +4,13 @@ comments: true
 author: chel
 seo: My wolf girlfriend Mod apk Genius Inc Free Premium Choices 
 description: Name> My wolf girlfriend! Version> 1.0.2 Root > No Mod features> Free Premium Choices Preview Tutorial Install> Install Steps> Download
-img-src: ../../assets\images\MODs\mywolfgirlfriend.jpg
+img-src: ../../assets\images\MODs\mywolfgirlfriend
 img-alt: My Wolf Girlfriend Mod Apk
 title: My Wolf Girlfriend MOD APK Latest (Free Premium Choices)
-image1: wolfgirl-img1.png
-image2: wolfgirl-img2.png 
-image3: wolfgirl-img3.png
-addinfo: mywolfgirlfriend.png
+image1: wolfgirl-img1
+image2: wolfgirl-img2
+image3: wolfgirl-img3
+addinfo: mywolfgirlfriend
 downloadId: my-wolf-girlfriend
 modname: My Wolf Girlfriend
 developername: Genius Inc Studios

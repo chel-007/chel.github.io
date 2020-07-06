@@ -2,13 +2,13 @@
 layout: post
 comments: true
 author: chel
-img-src: ../../assets\images\MODs\dangerousfellows.jpg
+img-src: ../../assets\images\MODs\dangerousfellows
 img-alt: Dangerous Fellows Mod Apk
 title: Dangerous Fellows Romantic Thriller Mod Apk
-image1: dangerousfellows-img1.png
-image2: dangerousfellows-img2.png 
-image3: dangerousfellows-img3.png
-addinfo: dangerousfellows.png
+image1: dangerousfellows-img1
+image2: dangerousfellows-img2 
+image3: dangerousfellows-img3
+addinfo: dangerousfellows
 downloadId: dangerous-fellows
 modname: Dangerous fellows
 developername: StoryTaco.Inc

@@ -5,13 +5,13 @@ author: chel
 feed_meta:
 seo: An Otaku like me has two Fiancees MOD APK Latest (Free Premium Choices)
 description: Name> Otaku Like me has 2 Fiancces Version> 1.0.0 Root> No Mod features> Free Premium Choices Preview Tutorial Install> Install Steps> Download
-img-src: ../../assets\images\MODs\otakulikeme.png
+img-src: ../../assets\images\MODs\otakulikeme
 img-alt: Otaku Like me has 2 Fiancees Mod Apk
 title: Otaku Like me has 2 Fiancees MOD APK 1.0.0 (Free Premium Choices)
-image1: otakulikeme-img1.png
-image2: otakulikeme-img2.png
-image3: otakulikeme-img3.png
-addinfo: otakulikeme.png
+image1: otakulikeme-img1
+image2: otakulikeme-img2
+image3: otakulikeme-img3
+addinfo: otakulikeme
 downloadId: otaku-like-me-has-2-fiancees
 modname: An Otaku like me has 2 Fiancees
 developername: Genius Studio Japan Inc.

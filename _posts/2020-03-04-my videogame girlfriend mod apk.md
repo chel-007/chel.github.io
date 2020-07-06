@@ -4,13 +4,13 @@ comments: true
 author: chel
 seo: My Videogame Girlfriend MOD APK Latest (Free Premium Choices) 
 description: Name> My videogame girlfriend! Version> 2.0.7 Root> No Mod features> Free Premium Choices Preview Tutorial Install> Install Steps> Download
-img-src: ../../assets\images\MODs\myvideogame.png
+img-src: ../../assets\images\MODs\myvideogame
 img-alt: My VideoGame Girlfriend Mod Apk
 title: My VideoGame Girlfriend Mod Apk
-image1: videogame-img1.webp
-image2: videogame-img2.webp
-image3: videogame-img3.png
-addinfo: yvideogame.png
+image1: videogame-img1
+image2: videogame-img2
+image3: videogame-img3
+addinfo: yvideogame
 downloadId: my-videogame-girlfriend
 modname: My VideoGame Girlfriend
 developername: Genius Inc Studios Japan

@@ -4,13 +4,13 @@ comments: true
 author: chel
 seo: Devil beauties and animal cuties MOD APK Latest (Free Premium Choices) 
 description: Name> Devil beauties and animal cuties! Version> 2.0.6 Root> No Mod features> Free Premium Choices Preview Tutorial Install> Install Steps> Download
-img-src: ../../assets\images\MODs\devilbeauties.jpg
+img-src: ../../assets\images\MODs\devilbeauties
 img-alt: Devil Beauties and Animal Cuties Mod Apk
 title:  Devil Beauties and Animal Cuties Mod Apk
-image1: devilbeauties-img1.png
-image2: devilbeauties-img2.png
-image3: devilbeauties-img3.png
-addinfo: devilbeauties.png
+image1: devilbeauties-img1
+image2: devilbeauties-img2
+image3: devilbeauties-img3
+addinfo: devilbeauties
 downloadId: devil-beauties-and-animal-cuties
 modname: Devil Beauties and Animal Cuties
 developername: Genius Inc Studios

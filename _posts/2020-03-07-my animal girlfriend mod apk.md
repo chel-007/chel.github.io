@@ -4,13 +4,13 @@ comments: true
 author: chel
 seo: My animal girlfriend MOD APK Latest (Free Premium Choices) 
 description: Name> My animal girlfriend! Version> 2.0.7 Root> No Mod features> Free Premium Choices Preview Tutorial Install> Install Steps> Download
-img-src: ../../assets\images\MODs\myanimalgirlfriend.jpg
+img-src: ../../assets\images\MODs\myanimalgirlfriend
 img-alt: My Animal Girlfriend Mod Apk
 title: My Animal Girlfriend Mod Apk Unlimited Choices
-image1: animalgirl-img1.png
-image2: animalgirl-img2.png
-image3: animalgirl-img3.png
-addinfo: myanimalgirlfriend.png
+image1: animalgirl-img1
+image2: animalgirl-img2
+image3: animalgirl-img3
+addinfo: myanimalgirlfriend
 downloadId: my-animal-girlfriend
 modname: My Animal Girlfriend
 developername: Genius Inc Studios Japan

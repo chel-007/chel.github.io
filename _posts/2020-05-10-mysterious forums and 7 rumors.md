@@ -2,13 +2,13 @@
 layout: post
 comments: true
 author: chel
-img-src: ../../assets\images\MODs\mysteriousforum.jpg
+img-src: ../../assets\images\MODs\mysteriousforum
 img-alt: Mysterious Forums and 7 Rumors
 title: Mysterious Forums and 7 Rumors Mod Apk 
-image1: mysteriousforum-img1.png
-image2: mysteriousforum-img2.png 
-image3: mysteriousforum-img3.png
-addinfo: mysteriousforum.png
+image1: mysteriousforum-img1
+image2: mysteriousforum-img2 
+image3: mysteriousforum-img3
+addinfo: mysteriousforum
 downloadId: mysterious-forums-and-7-rumors
 modname: Mysterious Forums and 7 Rumors
 developername: Entabridge Co, Ltd.

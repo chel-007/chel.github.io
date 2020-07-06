@@ -4,13 +4,13 @@ comments: true
 author: chel
 seo: My zombie girlfriend MOD APK Latest (Free Premium Choices) 
 description: Name> My zombie girlfriend! Version> 2.0.7 Root> No Mod features> Free Premium Choices Preview Tutorial Install> Install Steps> Download
-img-src: ../../assets\images\MODs\myzombiegirlfriend.jpg
+img-src: ../../assets\images\MODs\myzombiegirlfriend
 img-alt: My Zombie Girlfriend Mod Apk
 title: My Zombie Girlfriend Mod Apk Unlimited Choices
-image1: zombiegirl-img1.png
-image2: zombiegirl-img2.png
-image3: zombiegirl-img3.png
-addinfo: myzombiegirlfriend.png
+image1: zombiegirl-img1
+image2: zombiegirl-img2
+image3: zombiegirl-img3
+addinfo: myzombiegirlfriend
 downloadId: my-zombie-girlfriend
 modname: My Zombie Girlfriend
 developername: Genius Inc Studios

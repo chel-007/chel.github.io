@@ -55,6 +55,7 @@ gzip:
     - '.xml'
     - '.md'
     - '.scss'
+    - '.webp'
 
 
 algolia:

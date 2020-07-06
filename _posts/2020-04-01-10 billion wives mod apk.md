@@ -2,13 +2,13 @@
 layout: post
 comments: true
 author: chel
-img-src: ../../assets\images\MODs\10billionwives.jpg
+img-src: ../../assets\images\MODs\10billionwives
 img-alt: 10 Billion Wives Mod Apk
 title: 10 Billion Wives Mod Apk Unlimited In-game Resources
-image1: 10billion-img1.png
-image2: 10billion-img2.png
-image3: 10billion-img3.png
-addinfo: 10billionwives.png
+image1: 10billion-img1
+image2: 10billion-img2
+image3: 10billion-img3
+addinfo: 10billionwives
 downloadId: 10-billion-wives
 modname: 10 Billion Wives
 developername: Masukachi Inc

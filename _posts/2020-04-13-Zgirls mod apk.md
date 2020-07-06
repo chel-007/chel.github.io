@@ -4,13 +4,13 @@ comments: true
 author: chel
 seo:  Zgirls MOD APK Latest (Free Premium Choices)
 description: Name> Zgirls! Version> 2.0.5 Root> No Mod features> Unlimited In-game Resources Preview Tutorial Install> Install Steps> Download
-img-src: /assets\images\MODs\Zgirls.png
+img-src: /assets\images\MODs\Zgirls
 img-alt: Zgirls Mod Apk
 title: Zgirls Mod Apk Unlimited In-game Resources
-image1: Zgirls-img1.png
-image2: Zgirls-img2.png 
-image3: Zgirls-img3.png
-addinfo: Zgirls.png
+image1: Zgirls-img1
+image2: Zgirls-img2 
+image3: Zgirls-img3
+addinfo: Zgirls
 downloadId: Zgirls
 modname: Zgirls
 developername: Blue Ultra Game Limited

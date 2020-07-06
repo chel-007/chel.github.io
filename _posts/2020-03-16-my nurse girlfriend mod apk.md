@@ -4,13 +4,13 @@ comments: true
 author: chel
 seo: My nurse girlfriend MOD APK Latest (Free Premium Choices) 
 description: Name> My nurse girlfriend! Version> 2.0.5 Root> No Mod features> Free Premium Choices Preview Tutorial Install> Install Steps> Download
-img-src: ../../assets\images\MODs\mynursegirlfriend.png
+img-src: ../../assets\images\MODs\mynursegirlfriend
 img-alt: My Nurse Girlfriend Mod Apk
 title: My Nurse Girlfriend Mod Apk Unlimited Choices
-image1: nursegirl-img1.png
-image2: nursegirl-img2.png
-image3: nursegirl-img3.png
-addinfo: mynursegirlfriend.png
+image1: nursegirl-img1
+image2: nursegirl-img2
+image3: nursegirl-img3
+addinfo: mynursegirlfriend
 downloadId: my-nurse-girlfriend
 modname: My Nurse Girlfriend
 developername: Genius Inc Studios

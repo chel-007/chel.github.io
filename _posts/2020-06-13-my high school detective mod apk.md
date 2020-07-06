@@ -5,13 +5,13 @@ author: chel
 feed_meta:
 seo: My High School Detective MOD APK Latest (Free Premium Choices)
 description: Name> My High School Detective! Version> 2.0.5 Root> No Mod features> Free Premium Choices Preview Tutorial Install> Install Steps> Download
-img-src: ../../assets\images\MODs\myhighschdetective.jpg
+img-src: ../../assets\images\MODs\myhighschdetective
 img-alt: My High School Detective Mod Apk
 title: My High School Detective MOD APK Latest (Free Premium Choices)
-image1: highschdetect-img1.png
-image2: highschdetect-img2.png
-image3: highschdetect-img3.png
-addinfo: myhighschdetective.png
+image1: highschdetect-img1
+image2: highschdetect-img2
+image3: highschdetect-img3
+addinfo: myhighschdetective
 downloadId: my-high-school-detective
 modname: My High School Detective
 developername: Genius Inc Japan

@@ -4,13 +4,13 @@ comments: true
 author: chel
 seo: Spellbound Schoolgirls MOD APK Latest (Free Premium Choices)
 description: Name> Spellbound Schoolgirls! Version> 2.0.3 Root> No Mod features> Free Premium Choices Preview Tutorial Install> Install Steps> Download
-img-src: ../../assets\images\MODs\spellboundgirlfriends.jpg
+img-src: ../../assets\images\MODs\spellboundgirlfriends
 img-alt: SpellBound Schoolgirls Mod Apk
 title: SpellBound Schoolgirls Mod Apk
-image1: spellbound-img1.png
-image2: spellbound-img2.png
-image3: spellbound-img3.png
-addinfo: spellboundgirlfriends.png
+image1: spellbound-img1
+image2: spellbound-img2
+image3: spellbound-img3
+addinfo: spellboundgirlfriends
 downloadId: spellbound-schoolgirls
 modname: SpellBound Schoolgirls
 developername: Genius Inc Studios

@@ -2,13 +2,13 @@
 layout: post
 comments: true
 author: chel
-img-src: ../../assets\images\MODs\obeymeshallwedate.jpg
+img-src: ../../assets\images\MODs\obeymeshallwedate
 img-alt: Obey Me! Shall We Date Mod Apk
 title: Obey Me! Shall We Date Mod Apk Unlimited Resources
-image1: obeyme-img1.png
-image2: obeyme-img2.png 
-image3: obeyme-img3.png
-addinfo: obeymeshallwedate.png
+image1: obeyme-img1
+image2: obeyme-img2 
+image3: obeyme-img3
+addinfo: obeymeshallwedate
 downloadId: obey-me-shall-we-date
 modname: Obey Me! Shall We Date
 developername: NTT Solmare Corp

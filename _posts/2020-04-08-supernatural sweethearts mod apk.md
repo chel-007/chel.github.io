@@ -4,13 +4,13 @@ comments: true
 author: chel
 seo: Supernatural sweethearts MOD APK Latest (Free Premium Choices)
 description: Name> Supernatural sweethearts! Version> 1.0.8 Root> No Mod features> Free Premium Choices Preview Tutorial Install> Install Steps> Download
-img-src: ../../assets\images\MODs\supernaturalschoolgirls.png
+img-src: ../../assets\images\MODs\supernaturalschoolgirls
 img-alt: Supernatural Sweethearts Mod Apk
 title: Supernatural Sweethearts Mod Apk
-image1: superschgirls-img1.png
-image2: superschgirls-img2.png
-image3: superschgirls-img3.png
-addinfo: supernaturalschoolgirls.png
+image1: superschgirls-img1
+image2: superschgirls-img2
+image3: superschgirls-img3
+addinfo: supernaturalschoolgirls
 downloadId: supernatural-sweethearts
 modname: Supernatural Sweethearts
 developername: Genius Inc Studios
