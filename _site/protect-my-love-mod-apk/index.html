@@ -1252,10 +1252,14 @@ s.setAttribute('data-timestamp', +new Date());
  <!-- <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script> -->
  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
   <!-- Start of Site Search 360 script (put right before the closing </body> tag) -->
-<script type="text/javascript">
+<script async type="text/javascript">
 window.ss360Config = {
+    tracking: {
+        providers: []
+    },
+    siteId: "cheloverboard.netlify.app",
+    allowCookies: false,
     style: {
-        themeColor: "#24BCF9",
         suggestions: {
             text: {
                 color: "#333333"
@@ -1263,11 +1267,11 @@ window.ss360Config = {
             background: {
                 color: "#ffffff"
             },
-            padding: "10px",
-            distanceFromTop: "7px",
+            padding: "5px",
+            distanceFromTop: "0px",
             border: {
                 color: "#dddddd",
-                radius: "7px"
+                radius: "0px"
             }
         },
         searchBox: {
@@ -1280,37 +1284,15 @@ window.ss360Config = {
             },
             border: {
                 color: "#dddddd",
-                radius: "7px"
+                radius: "0px"
             },
-            padding: "10px",
+            padding: "8px",
             icon: {
                 image: "magnifier",
                 color: "#666666"
-            },
-            button: {
-                text: "Search",
-                color: "#666666"
             }
-        },
-        animationSpeed: 500
-    },
-    searchBox: {
-        searchButton: "#searchButton"
-    },
-    tracking: {
-        providers: [
-            "GA"
-        ]
-    },
-    layout: {
-        mobile: {
-            showUrl: true
-        },
-        desktop: {
-            showUrl: true
         }
     },
-    siteId: "cheloverboard.netlify.app",
     showErrors: false
 };
 
