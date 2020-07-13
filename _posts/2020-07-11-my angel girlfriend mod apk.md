@@ -11,7 +11,7 @@ image1: angelgirl-img1
 image2: angelgirl-img2
 image3: angelgirl-img3
 addinfo: myangelgirl
-downloadId: my-angel-girl
+downloadId: my-angel-girlfriend
 modname: My Angel Girlfriend
 developername: Genius Inc Studios
 version: 2.07
