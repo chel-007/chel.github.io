@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/authors/chel/</loc>
-<lastmod>2020-07-18T14:18:09+01:00</lastmod>
+<lastmod>2020-07-18T14:47:12+01:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/she's-my-vampire-mod-apk/</loc>
@@ -125,6 +125,10 @@
 <lastmod>2020-07-11T00:00:00+01:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/phantom-hearts-mod-apk/</loc>
+<lastmod>2020-07-18T00:00:00+01:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/downloads/10-billion-wives/</loc>
 </url>
 <url>
@@ -210,6 +214,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/downloads/otaku-like-me-has-2-fiancees/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/downloads/phantom-hearts/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/privacy/</loc>
