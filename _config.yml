@@ -1,11 +1,19 @@
-require rubygems:
-require algoliasearch:
-
+title: ChelOverboard
+email: cheloverboard@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://cheloverboard.netlify.app" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jekyllrb
+github_username:  Chel-Ash
 
 collections:
   authors:
     output: true
 
+    
 permalink: /:categories/:title/
 
 defaults:
@@ -23,10 +31,9 @@ defaults:
       path: ""
     values:
       layout: "default"
+
 sass:
   sass_dir: assets/css
-
-url: "https://cheloverboard.netlify.app"
 
 gems: [jekyll-paginate-v2]
 pagination:
@@ -40,42 +47,21 @@ pagination:
   sort_reverse: true
   paginate_path: "/mods-blog/page:num"
 
-plugins: 
+# Build settings
+theme: minima
+plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-  - jekyll-algolia
+  - jekyll-paginate-v2
   - jekyll-gzip
 
 gzip:
-  extensions:
-    - '.html'
-    - '.css'
-    - '.js'
-    - '.xml'
-    - '.md'
-    - '.scss'
-    - '.webp'
-
-
-algolia:
-  settings:
-    searchableAttributes:
-      - url
-      - unordered(modname)
-      - content
-      - collection,categories,tags
-      - unordered(title)
-    customRanking:
-      - desc(date)
-      - desc(custom_ranking.heading)
-      - asc(custom_ranking.position)
-      - desc(image1)
-  application_id: 'NJ1AOFDULQ'
-  index_name:     'first_MODs'
-  search_only_api_key: '25f23a0f16d7c153ee5eec8eef9d1ae4'
-  #files_to_exclude: ['/*downloads','/mods-blog.html/']
-  nodes_to_index: 'posts'
-
-
-  
+ extensions:
+   - '.html'
+   - '.css'
+   - '.js'
+   - '.xml'
+   - '.md'
+   - '.scss'
+   - '.webp'
