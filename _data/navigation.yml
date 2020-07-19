@@ -1,7 +1,9 @@
 - name: HOME
   link: /
 - name: MODs
-  link: /mods-blog/
+  link: /mods/
+- name: BLOG
+  link: /blog/
 - name: WEB VR
   link: /web-vr/
 - name: COMICS(text)

@@ -1,0 +1,32 @@
+---
+layout: default
+title: Blog - Learn a Few Concepts through Simple Tutorials - ChelOverboard
+description: Welcome to ChelOverboard. In this Blog I write on different internet issues I have faced while developing projects or learning a concept. I do hope that others with similar issues whenever can spend less time searching for answers.
+---
+
+<ul style="list-style-type: none; padding-left: 0;">
+  {% for post in site.posts %}
+    {% if post.path contains 'general' %}
+    <li>
+      <!--  Main Container    -->
+    <div class="container blog-container">
+      
+<!--   Beginning of Row   -->
+     <div class="row">
+<!--      Column   -->
+       <div class="col-lg-8 col-sm-12">
+       <a href="{{ post.url }}">
+       <img src="{{ post.img-src }}.webp" class="img-fluid" alt="{{ post.img-alt }}"></a>
+      <h3><a href="{{ post.url }}"  class="blog-post-header">{{ post.title }}</a></h3>{{ post.date | date: "%b %-d, %Y" }}<p style="clear: both"></p>
+      {{ post.excerpt }}
+       </div>
+       <!-- End of column -->
+
+     </div>
+     <!-- End od Row -->
+    </div>
+    <!-- End of Main container -->
+    </li>
+    {% endif %}
+  {% endfor %}
+</ul>
