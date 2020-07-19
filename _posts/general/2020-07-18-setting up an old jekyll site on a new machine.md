@@ -23,16 +23,16 @@ I had this issue, I got a new PC and wanted to <em>git clone</em> my <em><b>old<
 
 Now it did take some time, tweaking some values to see if I could get it to work but finally this is what worked for me. If you have the same issue the steps below are simple and straight-forward to implement. It shhould take nothing more than 30 minutes. 
 
-<h1>Setting up Old Jekyll site for Local Development</h1>
+<h2>Setting up Old Jekyll site for Local Development</h2>
 <p style="clear: both;"></p>
 
-<h2>Step 1: Create a new Folder to Store Local Files</h2>
+<h3>Step 1: Create a new Folder to Store Local Files</h3>
 
 The first thing you have to do is create a new directory where you want to host your files :
 <pre><code class="css" style="padding: 0;">
 mkdir SITE-FOLDER-NAME
 </code></pre>
-<h2>Step 2: Install Jekyll Using Bundler</h2>
+<h3>Step 2: Install Jekyll Using Bundler</h3>
 <b>Note</b>: Here it is assumed that you already have <a href="">Bundler</a> and <a href="">Ruby + DevKit</a>. If you don't, refer to this article to set it up on your machine.
 
 Next you can use the <em><b>jekyll new SITE-FOLDER-NAME</b></em> command to build a fresh jekyll site with all the necessary gems and dependencies installed then change directory to that folder:
@@ -41,7 +41,7 @@ new jekyll SITE-FOLDER-NAME
 cd SITE-FOLDER-NAME
 </code></pre>
 
-<h2>Step 3: Create a local repository for your Jekyll site</h2>
+<h3>Step 3: Create a local repository for your Jekyll site</h3>
 <b>Note:</b> Here you must have <b>Git for Windows</b> installed and added to PATH Variables to use the "git" command. You can install Git in the official website for Windows <a href="https://git-scm.com/download/win">Here</a>
 
 Now that you have a simple jekyll site generated, you can use jekyll serve command to load it at a localhost and all that. The next thing to do is to initialize an empty repository in that folder which we would be pushing to later, you can do it with this simple command:
@@ -49,14 +49,14 @@ Now that you have a simple jekyll site generated, you can use jekyll serve comma
 git init
 </code></pre>
 
-<h2>Step 4: Download Repository as a Zip file and Extract</h2>
+<h3>Step 4: Download Repository as a Zip file and Extract</h3>
 
 Now, about your site's files, what I tried that worked well is to download it directly instead of cloning. You can download all your files as a zip from ur repo's page. <br>
 <img src="../../assets\images\Blog\download-repo-as-zip.png">
 
 After this, go ahead and extract it directly into the folder where jekyll has been installed. Now you likely have some specific files which would be duplicated going into the folder like "Gemfile" "Gemfile.lock" "config.yml" etc, in this case you should replace the new files for the exsiting ones. Now run "bundle exec jekyll serve" command and you should see your site built like before. 
 
-<h2>Step 5: Stage, Commit and Push</h2>
+<h3>Step 5: Stage, Commit and Push</h3>
 The next thing to do is to run this commands:
 <pre><code class="css" style="padding: 0;">
 	git add .
@@ -65,7 +65,7 @@ The next thing to do is to run this commands:
 </code></pre>
 You might face a prompt asking you for some credentials for identity like username and email. Simply type them in. You would also need to log into your repo afresh, this way the empty repo initialized in that folder knows where the commit should be pushed to.
 
-<h2>Alternate Way</h2>
+<h3>Alternate Way</h3>
 Aside from downloading your repo as a zip and extracting it into jekyll site's folder you can run this command to connect your remote repository on Github:
 <pre><code class="css">
 	git remote add origin https://github.com/username-or-organization-name/your-remote-repository-name
