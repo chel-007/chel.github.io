@@ -3,7 +3,7 @@ layout: post
 comments: true
 author: chel
 seo: Save her from the zombies Mod apk Genius Inc Free Premium Choices 
-description: Name> Save her from the zombies! Version> 1.0.7 Root> No Mod features> Free Premium Choices Preview Tutorial Install> Install Steps> Download
+description: Name~ Save her from the Zombies! Mod features~ Free Premium Choices Version~ Latest Root~ No Install Steps~ Follow the steps below to Download games from ChelOverboard
 img-src: ../../assets\images\MODs\saveherfromzombies
 img-alt: Save her from the Zombies! 
 title: Save her from the Zombies! MOD APK Latest (Free Premium Choices)

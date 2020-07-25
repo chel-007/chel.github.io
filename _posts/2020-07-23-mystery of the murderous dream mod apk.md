@@ -3,10 +3,10 @@ layout: post
 comments: true
 author: chel
 seo: Mystery of the Murderous Dream MOD APK Latest (Free Premium Choices) vip mods
-description: Name> Mystery of the Murderous Dream! Version> 2.0.7 Root> No Mod features> Free Premium Choices Preview Tutorial Install> Install Steps> Download
+description: Name~ Mystery of the Murderous Dream Mod features~ Free Premium Choices Version~ 2.0.7 Root~ No Install Steps~ Follow the steps below to Download games from ChelOverboard
 img-src: ../../assets\images\MODs\mysterydream
 img-alt: Mystery of the Murderous Dream Mod Apk
-title: Mystery of the Murderous Dream MOD APK 1.0.0 (Free Premium Choices)
+title: Mystery of the Murderous Dream MOD APK 2.0.5 (Free Premium Choices)
 image1: mysterydream-img1
 image2: mysterydream-img2
 image3: mysterydream-img3

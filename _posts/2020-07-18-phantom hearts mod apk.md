@@ -3,7 +3,7 @@ layout: post
 comments: true
 author: chel
 seo: Phantom Hearts MOD APK Latest (Free Premium Choices)
-description: Name> Phantom Hearts! Version> 2.0.7 Root> No Mod features> Free Premium Choices Preview Tutorial Install> Install Steps> Download
+description: Name~ Phantom Hearts Mod features~ Free Premium Choices Version~ 2.0.7 Root~ No Install Steps~ Follow the steps below to Download games from ChelOverboard
 img-src: ../../assets\images\MODs\phantomhearts
 img-alt: Phantom Hearts Mod Apk
 title: Phantom Hearts MOD APK 1.0.0 (Free Premium Choices)

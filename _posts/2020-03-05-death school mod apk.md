@@ -3,7 +3,7 @@ layout: post
 comments: true
 author: chel
 seo: Death school MOD APK Latest (Free Premium Choices) 
-description: Name> Death school! Version> 2.0.6 Root> No Mod features> Free Premium Choices Preview Tutorial Install> Install Steps> Download
+description: Name~ Death School Mod features~ Free Premium Choices Version~ Latest Root~ No Install Steps~ Follow the steps below to Download games from ChelOverboard
 img-src: ../../assets\images\MODs\deathschool
 img-alt: Death School Mod Apk
 title: Death School Mod Apk Unlimited Choices

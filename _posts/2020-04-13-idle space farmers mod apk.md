@@ -2,7 +2,7 @@
 layout: post
 comments: true
 author: chel
-description: Name> Idle Space Farmers Version> 1.4.3 Root> No Mod features> Unlimited In-game Resources  Preview Tutorial Install> Install Steps> Download
+description: Name~ Idle Space Farmers Mod features~ Free Premium Choices Version~ Latest Root~ No Install Steps~ Follow the steps below to Download games from ChelOverboard
 img-src: ../../assets\images\MODs\idlespacefarmers
 img-alt: Idle Space Farmers Mod Apk
 title: Idle Space Farmers Mod Apk Unlimited Resources

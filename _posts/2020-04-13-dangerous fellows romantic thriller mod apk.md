@@ -2,6 +2,7 @@
 layout: post
 comments: true
 author: chel
+description: Name~ Dangerous Fellows Mod features~ Free Premium Choices Version~ Latest Root~ No Install Steps~ Follow the steps below to Download games from ChelOverboard
 img-src: ../../assets\images\MODs\dangerousfellows
 img-alt: Dangerous Fellows Mod Apk
 title: Dangerous Fellows Romantic Thriller Mod Apk

@@ -2,6 +2,7 @@
 layout: post
 comments: true
 author: chel
+description: Name~ 10 Billion Wives Mod features~ Free Premium Choices Version~ Latest Root~ No Install Steps~ Follow the steps below to Download games from ChelOverboard
 img-src: ../../assets\images\MODs\10billionwives
 img-alt: 10 Billion Wives Mod Apk
 title: 10 Billion Wives Mod Apk Unlimited In-game Resources

@@ -2,6 +2,7 @@
 layout: post
 comments: true
 author: chel
+description: Name~ Obey me shall we Date! Mod features~ Free Premium Choices Version~ Latest Root~ No Install Steps~ Follow the steps below to Download games from ChelOverboard
 img-src: ../../assets\images\MODs\obeymeshallwedate
 img-alt: Obey Me! Shall We Date Mod Apk
 title: Obey Me! Shall We Date Mod Apk Unlimited Resources

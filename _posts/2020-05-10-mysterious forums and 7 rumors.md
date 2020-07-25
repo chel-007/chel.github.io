@@ -2,6 +2,7 @@
 layout: post
 comments: true
 author: chel
+description: Name~ Mysterious Forums and 7 Rumors Mod features~ Free Premium Choices Version~ Latest Root~ No Install Steps~ Follow the steps below to Download games from ChelOverboard
 img-src: ../../assets\images\MODs\mysteriousforum
 img-alt: Mysterious Forums and 7 Rumors
 title: Mysterious Forums and 7 Rumors Mod Apk 

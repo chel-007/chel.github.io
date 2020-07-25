@@ -3,7 +3,7 @@ layout: post
 comments: true
 author: chel
 seo: Be her hero MOD APK Latest (Free Premium Choices)
-description: Name> Be her hero! Version> 2.0.7 Root> No Mod features> Free Premium Choices Preview Tutorial Install> Install Steps> Download
+description: Name~ Be Her Hero Mod features~ Free Premium Choices Version~ 2.0.7 Root~ No Install Steps~ Follow the steps below to Download games from ChelOverboard
 img-src: ../../assets\images\MODs\beherhero
 img-alt: Be Her Hero Mod Apk
 title: Be Her Hero Mod Apk Unlimited Choices

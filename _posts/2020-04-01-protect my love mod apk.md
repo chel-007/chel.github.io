@@ -3,7 +3,7 @@ layout: post
 comments: true
 author: chel
 seo: Protect My Love MOD APK Latest (Free Premium Choices)
-description: Name> Protect my love! Version> 2.0.8 Root> No Mod features> Free Premium Choices Preview Tutorial Install> Install Steps> Download
+description: Name~ Protect My Love Mod features~ Free Premium Choices Version~ Latest Root~ No Install Steps~ Follow the steps below to Download games from ChelOverboard
 img-src: ../../assets\images\MODs\protectmylove
 img-alt: Protect My Love Mod Apk
 title: Protect My Love Mod Apk Unlimited Choices

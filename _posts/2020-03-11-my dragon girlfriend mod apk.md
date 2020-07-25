@@ -3,7 +3,7 @@ layout: post
 comments: true
 author: chel
 seo: My dragon girlfriend MOD APK Latest (Free Premium Choices)
-description: Name> My dragon girlfriend! Version> 2.0.6 Root> No Mod features> Free Premium Choices Preview Tutorial Install> Install Steps> Download
+description: Name~ My Dragon Girlfriend Mod features~ Free Premium Choices Version~ Latest Root~ No Install Steps~ Follow the steps below to Download games from ChelOverboard
 img-src: ../../assets\images\MODs\dragon
 img-alt: My Dragon Girlfriend Mod Apk
 title: My Dragon Girlfriend Mod Apk Unlimited Choices
