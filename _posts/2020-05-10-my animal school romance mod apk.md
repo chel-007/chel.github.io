@@ -4,7 +4,7 @@ comments: true
 author: chel
 seo:  My Animal School Romance MOD APK Latest (Free Premium Choices)
 description: Name~ My Animal School Romance Mod features~ Free Premium Choices Version~ Latest Root~ No Install Steps~ Follow the steps below to Download games from ChelOverboard
-img-src: ../assets\images\MODs\animalschoolromance
+img-src: ../../assets\images\MODs\animalschoolromance
 img-alt: My Animal School Romance Mod Apk
 title: My Animal School Romance MOD APK Latest (Free Premium Choices)
 image1: myanimschrom-img1
