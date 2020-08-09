@@ -4,7 +4,7 @@ author: Chel
 title: How to Initialize an Old Jekyll Site on a new Machine for Local Development
 seo: Jekyll Blog New jekyll site github pages netlify
 description: If you are someone who has previously created a jekyll site with githubpages or netlify and wants to set it up on a new machine, this blog post is for you. Majority of tutorials on jekyll available on the internet are for those that wants to create a new jekyll site but what if you already got one u managed locally and want to set it up on a new machine. How do you go about that? Read on!
-img-src: ../assets\images\Blog\vectorization-with-matlab
+img-src: 
 ---
 I currently use jekyll for two of my websites becasue it has a simple to learn interface and you can write less code using templates. I assume you have a blog built with jekyll that's why you are probably reading this content now. Accoding to the title of this post, you would learn by the end how to set up your jekyll site on a new machine. 
 
