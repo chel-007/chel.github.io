@@ -1,7 +1,7 @@
 ---
 layout: default
 title: MODs Page - ChelOverboard.com
-description: ChelOveboard MODs Page. Get latest uploads on Simulation MODs for Free. Follow Our Social Media to keep up to date
+description: 
 pagination: 
   enabled: true
 ---
@@ -28,7 +28,7 @@ pagination:
   <div class="row">
   <div class="col-lg-8 col-sm-8">
     <h4><a href="{{ post.url }}" class="game-title">{{ post.title }}</a></h4>
-    <p>{{ post.description | strip_html | strip_newlines | truncate: 208 }}</p>
+    <p>{{ post.excerpt | strip_html | strip_newlines | truncate: 208 }}</p>
     <p style="clear: both">{{ post.date | date: "%b %-d, %Y" }}</p>
   </div>
 
