@@ -1,14 +1,10 @@
-- name: HOME
+- name: Home
   link: /
-- name: MODs
+- name: Games
+  link: /games/
+- name: Mods
   link: /mods/
-- name: BLOG
-  link: /blog/
-- name: WEB VR
-  link: /web-vr/
-- name: COMICS(text)
-  link: /animecomics/
-- name: REQUEST MODs
-  link: /connect/
-- name: ABOUT
-  link: /about/
+- name: How-To
+  link: /how-to/
+- name: NewsLetter
+  link: /newsletter/
