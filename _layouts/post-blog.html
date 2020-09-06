@@ -1,13 +1,14 @@
 ---
 layout: default
 ---
+<p style="padding-bottom: 20px;"></p>
 <!--  Main Container    -->
    <div class="container blog-container">
       
 <!--   Beginning of Row   -->
      <div class="row">
 <!--      Column   -->
-      <div class="col-md-10 col-sm-12">
+      <div class="col-md-12 col-sm-12">
        <h1 class="post-header">{{ page.title | camellize }}</h1>
 
     <p>
@@ -15,7 +16,7 @@ layout: default
         {% assign author = site.authors | where: 'short_name', page.author | first %}
         {% if author %}
         - <a href="{{ author.url }}">{{ author.name }}</a>{% endif %}<p style="clear: left;">
-        <img src="{{ page.img-src }}.webp" class="img-fluid" alt="{{ page.img-alt }}"/>
+        <img src="{{ page.img-src }}.webp" class="img-fluid" alt="Responsive image" width="1000" />
       </p>
       <br>
 
@@ -26,5 +27,3 @@ layout: default
      <!-- End of Row -->
  </div>
  <!-- End of Main Container -->
-
-
