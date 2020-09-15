@@ -39,7 +39,7 @@ Playing as Alyx Vance, you are humanity’s only chance for survival. The Combin
 
 
 <h5 style="font-weight: 600;">BONEWORKS</h5>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w8a1BAolFIk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="img-fluid" width="560" height="315" src="https://www.youtube.com/embed/w8a1BAolFIk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 BONEWORKS Is a narrative VR action adventure using advanced experimental physics mechanics. Dynamically navigate through environments, engage in physics heavy combat, and creatively approach puzzles with physics.
 
@@ -54,7 +54,7 @@ Weapons, lots of weapons: Boneworks provides players with a plethora of physics 
 
 
 <h5 style="font-weight: 600;">STRIDE</h5>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e9ToUaop_GM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="img-fluid" width="560" height="315" src="https://www.youtube.com/embed/e9ToUaop_GM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 STRIDE is a parkour action game in virtual reality. Experience the feeling of vertigo as you stream between rooftops and flow across balconies.
 
@@ -63,7 +63,7 @@ STRIDE is a parkour action game in virtual reality. Experience the feeling of ve
 
 
 <h5 style="font-weight: 600;">Into the Radius VR</h5>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hrgVXegmRPQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="img-fluid" width="560" height="315" src="https://www.youtube.com/embed/hrgVXegmRPQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Into the Radius is a single-player survival shooter developed exclusively for premium Virtual Reality headsets.
 
 Players are sent stalking through the surreal post-apocalyptic Pechorsk Radius Zone where physics-based interaction, realistic weapon handling, and moody atmosphere will get your adrenaline pumping as you struggle to survive in an unforgiving dystopian environment. <br>
@@ -84,7 +84,7 @@ Open-world exploration, climbing, stealth and a dynamic day/night cycle. This cr
 
 
 <h5 style="font-weight: 600;">BattleGroupVR</h5>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RcOiSp1RZ_s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="img-fluid" width="560" height="315" src="https://www.youtube.com/embed/RcOiSp1RZ_s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 BattleGroupVR is a first-person real-time space strategy where you lead a fleet into battle from the bridge of your own flagship. As the battle group commander, you lead the charge as you are part of the action, not some armchair general who orders little units from above. You are part of the battle fighting alongside your chosen captains and warships. <br>
 
@@ -97,7 +97,7 @@ BattleGroupVR is a first-person real-time space strategy where you lead a fleet 
 
 
 <h5 style="font-weight: 600;">Karnage Chronicles</h5>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X8tZlbuzd70" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="img-fluid" width="560" height="315" src="https://www.youtube.com/embed/X8tZlbuzd70" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Every five thousand years the planets align and create a rift in the fabric of cosmos. It’s prior to such an event that this story unfolds. Play as a Murkwraith, an undying knight barred from Death’s domain, and cursed to eternal servitude for sins committed eons ago. Experience a rich story that takes you on a perilous journey through dark dungeons filled with monsters, traps, puzzles, treasure and more. <br>
 
@@ -115,7 +115,7 @@ Play alone or together with friends. Karnage Chronicles supports 1-4 players, wi
 
 
 <h5 style="font-weight: 600;">Vertigo Remastered</h5>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FgZhkS5sCA0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="img-fluid" width="560" height="315" src="https://www.youtube.com/embed/FgZhkS5sCA0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Vertigo Remastered is a complete overhaul and occasional reimagining of the 2016 original, bringing modern VR gameplay, new content, and countless fixes/improvements to the table. Some of the best features and upgrades since Vertigo include:
 
@@ -135,7 +135,7 @@ Vertigo Remastered is a complete overhaul and occasional reimagining of the 2016
 
 
 <h5 style="font-weight: 600;">Swords of Gurrah</h5>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nyUNYVRTiQE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="img-fluid" width="560" height="315" src="https://www.youtube.com/embed/nyUNYVRTiQE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Fight in front of a blood thirsty crowd as a Sci-Fi Gladiator in Swords of Gurrah. Swords of Gurrah is a virtual reality game focused around hand-to-hand combat weapons. Fighters come from all over of their own free will to risk their lives against man or beast!!!! Fight to the death all to experience the thrill of victory - and if defeated to die for glory! <br>
 
@@ -152,7 +152,7 @@ The arena presents many threats to keep gladiators on their toes. Fully armored 
 
 
 <h5 style="font-weight: 600;">A-Tech Cybernetic VR</h5>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5yJ7aHoiy4I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="img-fluid" width="560" height="315" src="https://www.youtube.com/embed/5yJ7aHoiy4I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 A-Tech Cybernetic is a first-person shooter built from the ground up for VR. It features two separate game modes: a classic swarm mode to put your shooting and survival skills to the test and a story mode that takes you to a futuristic biomedical company overrun by mutants. Control everything with real-life movements, interact with your surroundings as if they were actually there, experience a new kind of gameplay that’s more immersive than ever before, thanks to VR. Be the badass guy you always wanted to be.
 
@@ -161,7 +161,7 @@ A-Tech Cybernetic is a first-person shooter built from the ground up for VR. It 
 
 
 <h5 style="font-weight: 600;">Tales Of Glory</h5>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/D6jRgABS_is" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="img-fluid" width="560" height="315" src="https://www.youtube.com/embed/D6jRgABS_is" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Don your VR helm, choose your weapons, and command your troops to victory while you immerse yourself in the fury and excitement of this medieval battle simulator.
 
@@ -183,7 +183,7 @@ Recruit your army, gain skills, manage your realm, manipulate lords & kings thro
 
 
 <h5 style="font-weight: 600;">WAR DUST - 32 vs 32 Battles</h5>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0z-JVVHKAgk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="img-fluid" width="560" height="315" src="https://www.youtube.com/embed/0z-JVVHKAgk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <b>Large-scale tactical warfare in Virtual Reality</b>
 With War Dust, we want to push the boundaries of Virtual Reality and create epic battles on a scale that has never been reached before.A total immersion experience that throws you into a breathtaking action film, full of explosions and dynamic tactics. The opportunity to live an incredible situation where armies clash.
