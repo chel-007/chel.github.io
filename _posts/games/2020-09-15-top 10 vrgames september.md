@@ -82,9 +82,25 @@ YUR provides calorie estimates for all VR games by using patent-pending technolo
     <li>Fitness Metrics (Squats, more coming soon)</li>
     <li>Dashboard with fitness tracking and historical achievements</li>
     <li>Leaderboard and Gameplay across VR games and much more</li>
-</ul>
-<br></p>
+</ul></p>
 <p><strong>Links:</strong> <a href="https://store.steampowered.com/app/1188920/YUR/">Steam</a> (Oculus Rift)</p>
+<hr />
+
+<h5 style="font-weight: 600;">Snapshot VR<h5 style="font-weight: 600;">
+<!-- <iframe class="img-fluid" width="560" height="315" src="https://www.youtube.com/embed/TX58AbJq-xo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> -->
+
+<p>
+<b>Snapshot</b> is a VR arena shooter built for e-sports with competitive solo and team play. Inspired by the real-life sport, Snapshot feels like playing paintball in the future. One shot, one kill. In competitive teams of up to 5, communication and coordination are the keys to victory.
+  <b>Features:</b>
+ <ul>
+    <li>Room Browsing / Basic Matchmaking</li>
+    <li>Cross-platform profiles with tracked stats and leaderboards</li>
+    <li>Avatar Customization w/ Cosmetics</li>
+   <li>Third-party Map Editor w/ 50+ community maps playable</li>
+    <li>Training maps with stationary and moving targets</li>
+    <li>Multiple Locomotion Modes to accommodate any type of VR player</li>
+</ul></p>
+<p><strong>Links:</strong> <a href="https://store.steampowered.com/app/1133580/Snapshot_VR/">Steam</a> (Oculus Rift)</p>
 <hr />
 
 
