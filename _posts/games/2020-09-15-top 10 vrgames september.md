@@ -22,7 +22,7 @@ We are writing this post currently in nthe mid of septemer, so take note that a 
 <p>
 <b>Background Story</b>
 A girl who fell from the skies and lost her past; Deemo who plays the piano all alone in the world of the treehouse; an accidental encounter between the two. <br>
-<b>Features:</b>
+<b>Features:</b> <br>
   A Classic Reborn: Centered around an ancient castle and a mysterious tree that grows when melody is in the air, control the little girl who has fallen from the sky and help her find her way home. <br>
   Investigation Reborn: Unravel riddles and mysteries hidden in the castle. Find sheet music that falls from the heavens, unlock new places, and discover the truth. <br>
   Rhythm Reborn: Play your heart out on the piano and make the mysterious tree grow. Unveil new parts of the story and look forward to the day that the girl can return to her heart-warming home.
@@ -74,15 +74,15 @@ Playing God is an interactive VR thought experiment that lets you imagine you ar
 <p>
 YUR provides calorie estimates for all VR games by using patent-pending technology to estimate calories burned across any VR game or experience.
   <b>YUR FEATURES:</b>
-  <ul>
-    * Realtime activity overlay over any game
-    * Estimated Heart Rate (Using Machine Learning)
-    * Leveling and XP system where 1 kCal = 1 XP
-    * Support for dedicated Bluetooth Heart Rate monitors (optional)
-    * Fitness Metrics (Squats, more coming soon)
-    * Dashboard with fitness tracking and historical achievements
-    * Leaderboard and Gameplay across VR games and much more.
-  </ul>
+ <ul>
+    <li>Realtime activity overlay over any game</li>
+    <li>Estimated Heart Rate (Using Machine Learning)</li>
+    <li>Leveling and XP system where 1 kCal = 1 XP</li>
+    <li>Support for dedicated Bluetooth Heart Rate monitors (optional)
+    <li>Fitness Metrics (Squats, more coming soon)</li>
+    <li>Dashboard with fitness tracking and historical achievements</li>
+    <li>Leaderboard and Gameplay across VR games and much more</li>
+</ul>
 <br></p>
 <p><strong>Links:</strong> <a href="https://store.steampowered.com/app/1188920/YUR/">Steam</a> (Oculus Rift)</p>
 <hr />
