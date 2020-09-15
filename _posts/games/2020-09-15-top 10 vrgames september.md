@@ -16,6 +16,21 @@ We are writing this post currently in nthe mid of septemer, so take note that a 
 
 <h4>10+ Best VR Game Releases in September 2020</h4>
 
+<h5 style="font-weight: 600;">DEEMO -Reborn-</h5>
+<!-- <iframe class="img-fluid" width="560" height="315" src="https://www.youtube.com/embed/TX58AbJq-xo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> -->
+
+<p>
+<b>Background Story</b>
+A girl who fell from the skies and lost her past; Deemo who plays the piano all alone in the world of the treehouse; an accidental encounter between the two.
+<b>Features:</b>
+  A Classic Reborn: Centered around an ancient castle and a mysterious tree that grows when melody is in the air, control the little girl who has fallen from the sky and help her find her way home.
+  Investigation Reborn: Unravel riddles and mysteries hidden in the castle. Find sheet music that falls from the heavens, unlock new places, and discover the truth.
+  Rhythm Reborn: Play your heart out on the piano and make the mysterious tree grow. Unveil new parts of the story and look forward to the day that the girl can return to her heart-warming home.
+<br></p>
+<p><strong>Links:</strong> <a href="https://store.steampowered.com/app/1282210/DEEMO_Reborn/">Steam</a> (Oculus Rift)</p>
+<hr />
+
+
 <h4 style="font-weight: 600;">Starblazer</h4>
 <!-- <iframe class="img-fluid" width="560" height="315" src="https://www.youtube.com/embed/TX58AbJq-xo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> -->
 
@@ -43,6 +58,14 @@ The Arcade Experience finally comes home! Starship Commander: Arcade is a cinema
 
 <p><b>Bullet Roulette VR</b> is a casual game for four players. Each player randomly become one of 6 characters. Before shooting you should draw 2 cards that can completely change the rules of the game. If the player survives, he will get $ 1 for which he can shoot another player on the next turn. If he killed another player, then he takes his money. An unsuccessful attempt to shoot another player takes all the money. Be cold blooded and cunning to win! <br>
 <p><strong>Links:</strong> <a href="https://store.steampowered.com/app/1103880/Bullet_Roulette_VR/">Steam</a> (Valve Index, HTC Vive, Oculus Rift)</p>
+<hr />
+
+<h5 style="font-weight: 600;">Playing God</h5>
+<!-- <iframe class="img-fluid" width="560" height="315" src="https://www.youtube.com/embed/TX58AbJq-xo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> -->
+
+<p>
+Playing God is an interactive VR thought experiment that lets you imagine you are the captain of a space station, suddenly presented with a humanitarian crisis. It challenges its audience with a series of scenarios and questions based upon the narrative allowing the audience to explore how they would deal with a humanitarian crisis themselves.<br></p>
+<p><strong>Links:</strong> <a href="https://store.steampowered.com/app/1358930/Playing_God/">Steam</a> (Valve Index, HTC Vive, Oculus Rift)</p>
 <hr />
 
 
