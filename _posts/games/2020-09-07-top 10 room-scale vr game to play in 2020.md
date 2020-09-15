@@ -28,7 +28,7 @@ Gamers using Headsets like the HTC Vive, Oculus Quest, Oculus Rift S, Valve Inde
 <br>
 
 <h5 style="font-weight: 600;">Half-Life: Alyx</h5>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TX58AbJq-xo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="img-fluid" width="560" height="315" src="https://www.youtube.com/embed/TX58AbJq-xo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Half-Life: Alyx is Valve’s VR return to the Half-Life series. It’s the story of an impossible fight against a vicious alien race known as the Combine, set between the events of Half-Life and Half-Life 2.<br>
 
