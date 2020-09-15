@@ -68,5 +68,23 @@ Playing God is an interactive VR thought experiment that lets you imagine you ar
 <p><strong>Links:</strong> <a href="https://store.steampowered.com/app/1358930/Playing_God/">Steam</a> (Valve Index, HTC Vive, Oculus Rift)</p>
 <hr />
 
+<h5 style="font-weight: 600;">YUR</h5>
+<!-- <iframe class="img-fluid" width="560" height="315" src="https://www.youtube.com/embed/TX58AbJq-xo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> -->
+
+<p>
+YUR provides calorie estimates for all VR games by using patent-pending technology to estimate calories burned across any VR game or experience.
+  <b>YUR FEATURES:</b>
+* Realtime activity overlay over any game
+* Estimated Heart Rate (Using Machine Learning)
+* Leveling and XP system where 1 kCal = 1 XP
+* Support for dedicated Bluetooth Heart Rate monitors (optional)
+Fitness Metrics (Squats, more coming soon)
+* Dashboard with fitness tracking and historical achievements
+* Leaderboard and Gameplay across VR games and much more.
+
+<br></p>
+<p><strong>Links:</strong> <a href="https://store.steampowered.com/app/1188920/YUR/">Steam</a> (Oculus Rift)</p>
+<hr />
+
 
 
