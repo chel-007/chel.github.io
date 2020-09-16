@@ -17,7 +17,7 @@ We are writing this post currently in nthe mid of septemer, so take note that a 
 <h4>10+ Best VR Game Releases in September 2020</h4>
 
 <h5 style="font-weight: 600;">DEEMO -Reborn-</h5>
-<!-- <iframe class="img-fluid" width="560" height="315" src="https://www.youtube.com/embed/TX58AbJq-xo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> -->
+<iframe class="img-fluid" width="560" height="315" src="https://www.youtube.com/embed/_3NO5lwQzpQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p>
 <b>Background Story</b>
@@ -32,7 +32,7 @@ A girl who fell from the skies and lost her past; Deemo who plays the piano all 
 
 
 <h4 style="font-weight: 600;">Starblazer</h4>
-<!-- <iframe class="img-fluid" width="560" height="315" src="https://www.youtube.com/embed/TX58AbJq-xo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> -->
+<iframe class="img-fluid" width="560" height="315" src="https://www.youtube.com/embed/0KTPjG25xvY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p>Experience the thrill, fast pace, and funk of Starblazer®. Clash with friends and join the many curious-minded commanders that have found a VR strategy game that everyone can play. <br>
 
@@ -45,7 +45,7 @@ A girl who fell from the skies and lost her past; Deemo who plays the piano all 
 <hr />
 
 <h5 style="font-weight: 600;">Starship Commander: Arcade</h5>
-<!-- <iframe class="img-fluid" width="560" height="315" src="https://www.youtube.com/embed/TX58AbJq-xo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> -->
+<iframe class="img-fluid" width="560" height="315" src="https://www.youtube.com/embed/Oq3dnkY4XWg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p><b>STARSHIP COMMANDER</b> is a seated experience that lasts 10-20 minutes, has replayability based off what you say, requires you to speak English, and is comfortable for new and experienced VR players alike. Non VR-Players will need a combo headphone/headset microphone and a mouse for an optimal experience. <br>
 
@@ -54,7 +54,7 @@ The Arcade Experience finally comes home! Starship Commander: Arcade is a cinema
 <hr />
 
 <h5 style="font-weight: 600;">Bullet Roulette VR</h5>
-<!-- <iframe class="img-fluid" width="560" height="315" src="https://www.youtube.com/embed/TX58AbJq-xo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> -->
+<iframe class="img-fluid" width="560" height="315" src="https://www.youtube.com/embed/aEucJE18W24" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p><b>Bullet Roulette VR</b> is a casual game for four players. Each player randomly become one of 6 characters. Before shooting you should draw 2 cards that can completely change the rules of the game. If the player survives, he will get $ 1 for which he can shoot another player on the next turn. If he killed another player, then he takes his money. An unsuccessful attempt to shoot another player takes all the money. Be cold blooded and cunning to win! <br>
 <p><strong>Links:</strong> <a href="https://store.steampowered.com/app/1103880/Bullet_Roulette_VR/">Steam</a> (Valve Index, HTC Vive, Oculus Rift)</p>
@@ -69,7 +69,7 @@ Playing God is an interactive VR thought experiment that lets you imagine you ar
 <hr />
 
 <h5 style="font-weight: 600;">YUR</h5>
-<!-- <iframe class="img-fluid" width="560" height="315" src="https://www.youtube.com/embed/TX58AbJq-xo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> -->
+<iframe class="img-fluid" width="560" height="315" src="https://www.youtube.com/embed/0wj2L9Pa7Kg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p>
 YUR provides calorie estimates for all VR games by using patent-pending technology to estimate calories burned across any VR game or experience.
@@ -87,7 +87,7 @@ YUR provides calorie estimates for all VR games by using patent-pending technolo
 <hr />
 
 <h5 style="font-weight: 600;">Snapshot VR<h5 style="font-weight: 600;">
-<!-- <iframe class="img-fluid" width="560" height="315" src="https://www.youtube.com/embed/TX58AbJq-xo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> -->
+<iframe class="img-fluid" width="560" height="315" src="https://www.youtube.com/embed/OPv-jJk9psI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p>
 <b>Snapshot</b> is a VR arena shooter built for e-sports with competitive solo and team play. Inspired by the real-life sport, Snapshot feels like playing paintball in the future. One shot, one kill. In competitive teams of up to 5, communication and coordination are the keys to victory.
