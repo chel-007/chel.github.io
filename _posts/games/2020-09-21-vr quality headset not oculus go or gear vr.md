@@ -53,9 +53,22 @@ We come now to the main content of this post:
 <img class="img-fluid" alt="BNEXT VR Headset Compatible with iPhone & Android Phone" width="50%" height="50%" src="https://images-na.ssl-images-amazon.com/images/I/7187vvRAA3L._AC_SL1500_.jpg">
 
 <p>
-	✅ ADVANCED VR GAMING TECHNOLOGY - Gaming and watching movies with virtual reality headsets work best when your eyes properly align with the screen box. That’s why our VR headset offers FD and OD adjustments (wide FOV) to expand the viewing angle and perfectly match focal distance and unilateral myopic alignment for reduced distortion
-	✅ COMFORTABLE, EXTENDED WEAR DESIGN – Once you start gaming and watching VR movies with 3D goggles, you’re never going to want to take it off. That’s why we offer a comfort-fit experience with a fully adjustable head strap, eyesight protection system, and a soft nose piece to reduce pressure. Can also support drones that require a phone VR headset
-	✅ VR SMARTPHONE COMPATIBILITY: Smartphones with a gyro sensor (almost all models) and with a 4"-6.3” screen. Examples: VR goggles are compatible with models X, XR, XS, 8, 8 plus, 9, 9 plus, 10, 7, 7 plus, 6, 6s, 6s plus, 6 plus, 6, 5, 5 plus, 5c, 5s, SE, etc. Also compatible with Samsung Android Galaxy s8, s7, j3, s7 edge, s6, s6 edge, note5, a8+, note 3, note 4, note 5, note 7, note 8, note 9, s5 s6, s7, s8, s8 plus, s9, s9 plus, s10, s10 plus, one plus, Box VR etc. And compatible w/ m
+	✅ ADVANCED VR GAMING TECHNOLOGY - Gaming and watching movies with virtual reality headsets work best when your eyes properly align with the screen box. That’s why our VR headset offers FD and OD adjustments (wide FOV) to expand the viewing angle and perfectly match focal distance and unilateral myopic alignment for reduced distortion <br>
+	✅ COMFORTABLE, EXTENDED WEAR DESIGN – Once you start gaming and watching VR movies with 3D goggles, you’re never going to want to take it off. That’s why we offer a comfort-fit experience with a fully adjustable head strap, eyesight protection system, and a soft nose piece to reduce pressure. Can also support drones that require a phone VR headset <br>
+	✅ VR SMARTPHONE COMPATIBILITY: Smartphones with a gyro sensor (almost all models) and with a 4"-6.3” screen. Examples: VR goggles are compatible with models X, XR, XS, 8, 8 plus, 9, 9 plus, 10, 7, 7 plus, 6, 6s, 6s plus, 6 plus, 6, 5, 5 plus, 5c, 5s, SE, etc. Also compatible with Samsung Android Galaxy s8, s7, j3, s7 edge, s6, s6 edge, note5, a8+, note 3, note 4, note 5, note 7, note 8, note 9, s5 s6, s7, s8, s8 plus, s9, s9 plus, s10, s10 plus, one plus, Box VR etc. <br>
+</p>
+<p><strong>Links:</strong> <a href="https://www.amazon.com/Headset-iPhone-Android-Phone-Comfortable/dp/B07Q3NCJYP/ref=sr_1_10?dchild=1&keywords=vr+headsets&qid=1600648837&s=electronics&sr=1-10">Amazon</a></p>
+<hr />
+
+
+<h4 style="font-weight: 600;">VR WEAR Virtual Reality Headset, Goggles Gear, Google - 3D VR Glasses VR 3D Box for Any Phone (iPhone 6/7/8/Plus/X & S6/S7/S8/S9/Plus/Note and All Android Smartphone) with 4.5-6.5" Screen</h4>
+<img class="img-fluid" alt="VR WEAR Virtual Reality Headset, Goggles Gear, Google - 3D VR Glasses" width="50%" height="50%" src="https://images-na.ssl-images-amazon.com/images/I/71S-gH7dwcL._AC_SL1500_.jpg">
+
+<p>
+	✅ HIGH-END DESIGN The headset has a semi-transparent lid for camera – augmented reality (AR) movie provided <br>
+	✅ SUPPORTS ALL 4.5-6.5 SMARTPHONES: VR WEAR virtual reality headset is compatible with such smartphones as iPhone and all other PHONES within 4.5-6.5" equipped with a gyroscope <br>
+	✅ INDIVIDUALLY ADJUSTABLE DOUBLE LENS: VR WEAR virtual reality viewer has a comfortable lens adjustment in 4 directions for each eye separately - adjusting the focus and IPD (interpupillary distance) <br>
+	✅ COMFORTABLE WEARING: VR glasses face cushion is made of soft leather. Soft and elastic head strap relieves the pressure on the nose and face. The VR goggles are very light weight, you can get a better immersive virtual reality experience) <br>
 </p>
 <p><strong>Links:</strong> <a href="https://www.amazon.com/Headset-iPhone-Android-Phone-Comfortable/dp/B07Q3NCJYP/ref=sr_1_10?dchild=1&keywords=vr+headsets&qid=1600648837&s=electronics&sr=1-10">Amazon</a></p>
 <hr />
