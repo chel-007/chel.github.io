@@ -225,7 +225,7 @@ The suggestions below should help you find what you are searching for. By follow
 <hr />
 
 
-<h4 style="font-weight: 600;"Oculus Go Standalone Virtual Reality Headset - 32GB</h4>
+<h4 style="font-weight: 600;">Oculus Go Standalone Virtual Reality Headset - 32GB</h4>
 <img class="img-fluid" alt="Oculus Go Standalone Virtual Reality Headset - 32GB" width="50%" height="50%" src="https://images-na.ssl-images-amazon.com/images/I/610iXon9LfL._SL1300_.jpg">
 
 <p>
@@ -236,4 +236,9 @@ The suggestions below should help you find what you are searching for. By follow
 </p>
 <p><strong>Link:</strong> <a href="https://www.amazon.com/Oculus-Standalone-Virtual-Reality-Headset-pc/dp/B076CWS8C6/ref=sr_1_19?dchild=1&keywords=vr+headsets&qid=1600699763&s=electronics&sr=1-19">Amazon</a></p>
 <hr />
+
+
+And that's it, the best list of quality virtual reality headsets that are cheap and affordable. I hope this you make a decision after reading this post, and I also learnt that you don't necessarily need a brand new Oculus Go for you to start gaming in VR. There are a lot of slightly used that work just as well for a significant decrease inprice. I think you should take the chance. With this article, you can find a headset suitable to your style and budget and that's what is most important.
+
+Kudos to VR brands for making thier headset very economical so thw world of VR is easily accessible to millions and hopefully keeps growing. Thanks for going on this journey with me, leave a reply and tell me about the choice you made after reading this, I would be pleased to hear your story. Chel_
 
