@@ -98,7 +98,7 @@ We come now to the main content of this post:
 <hr />
 
 <h4 style="font-weight: 600;">VR Headset with Bluetooth Headphones, Eye Protected HD Virtual Reality Headset,VR Glasses for iPhone and Android Phone Within 4.7-6.2Screen</h4>
-<img class="img-fluid" alt="VR Headset with Bluetooth Headphones, Eye Protected HD Virtual Reality Headset" width="50%" height="50%" src="https://images-na.ssl-images-amazon.com/images/G/01/ui/loadIndicators/loading-large_labeled._CB485921664_.gif">
+<img class="img-fluid" alt="VR Headset with Bluetooth Headphones, Eye Protected HD Virtual Reality Headset" width="50%" height="50%" src="https://images-na.ssl-images-amazon.com/images/I/61Z8WJIytSL._AC_SL1200_.jpg">
 
 <p>
 	✅ Eye Protected Anti-blue Light HD Lenses - Eye-protected lenses with unparalleled clarity make VR movies a visual experience comparable to world-renowned IMAX. Adjustable headphones will cover your ears right and bring good sound.It will always make sure you have the best seat in your private theatre wherever you really are <br>
@@ -106,4 +106,15 @@ We come now to the main content of this post:
 	✅ Wide Compatibility - Share the vr headset with the whole family! Don't worry about the Phone's sound output interface is lighting or 3.5mm jack or else,The Build-in Bluetooth can easy to connect to your phone. And It supports smartphones with 4.5-6.2 inches screen, such as iPhone X 8 7 plus/6s/6/6 plus, Samsung s8/s8 Plus/s7/s7 Edge/s6/s6 Edge Note8/5/4/3, LG g6 g5 g4 g3 v20, and Daydream phones like Google Pixel/Pixel XL/Pixel 2/Pixel 2 XL, Samsung s8/s8 plus, Moto Z/Z Force, Huawei Mate 9 Pro <br>
 </p>
 <p><strong>Links:</strong> <a href="https://www.amazon.com/VR-Bluetooth-Protected-Smartphones-4-5-6-0in/dp/B07G74XL46/ref=sr_1_22?dchild=1&keywords=vr+headsets&qid=1600699763&s=electronics&sr=1-22">Amazon</a></p>
+<hr />
+
+
+<h4 style="font-weight: 600;">VR Headset for iPhone & Android Phone,3D VR Glasses for TV,Movies & Video Games,VR Headset with Remote Controller,Virtual Reality Headset for iPhone/Android Phone Compatible 4.7-6 inch</h4>
+<img class="img-fluid" alt="VR Headset for iPhone & Android Phone,3D VR Glasses for TV,Movies & Video Games" width="50%" height="50%" src="https://images-na.ssl-images-amazon.com/images/I/61WwNb553SL._AC_SL1000_.jpg">
+
+<p>
+	✅ 2 lenses are designed independently, pupil distance and object distance adjustment are available for myopic population. Our model supports naked eye viewing with myopia below 0-600 degrees and direct viewing with myopic glasses. After wearing it, please adjust the left (right) pupil distance to suit yourself. <br>
+	✅ headset for iPhone/Android phone Compatible 4.7-6 inch,3D glasses can turn mobile phones into cinemas/3D game halls. The product does not need to be recharged, 1. Download VR app 2.Search for the 3D video（left and right format） you want to watch in the vr app. 3.put cell phone into the VR glasses，Put on VR glasses and adjust pupil distance.and then you can watch it.With Bluetooth remote controller, the effect is better. <br>
+</p>
+<p><strong>Links:</strong> <a href="https://www.amazon.com/VR-Headset-Android-Controller-Compatible/dp/B07Y68297Y/ref=sr_1_21?dchild=1&keywords=vr+headsets&qid=1600699763&s=electronics&sr=1-21">Amazon</a></p>
 <hr />
