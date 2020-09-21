@@ -49,11 +49,13 @@ We come now to the main content of this post:
 
 <h3>20+ Quality and Affordable Headsets to Buy 2020</h3>
 
-<h5 style="font-weight: 600;">BNEXT VR Headset Compatible with iPhone & Android Phone - Universal Virtual Reality Goggles - Play Your Best Mobile Games 360 Movies with Soft & Comfortable New 3D VR Glasses - Red - w/Eye Protection</h5>
+<h4 style="font-weight: 600;">BNEXT VR Headset Compatible with iPhone & Android Phone - Universal Virtual Reality Goggles - Play Your Best Mobile Games 360 Movies with Soft & Comfortable New 3D VR Glasses - Red - w/Eye Protection</h4>
 <img class="img-fluid" alt="BNEXT VR Headset Compatible with iPhone & Android Phone" width="50%" height="50%" src="https://images-na.ssl-images-amazon.com/images/I/7187vvRAA3L._AC_SL1500_.jpg">
 
 <p>
 	✅ ADVANCED VR GAMING TECHNOLOGY - Gaming and watching movies with virtual reality headsets work best when your eyes properly align with the screen box. That’s why our VR headset offers FD and OD adjustments (wide FOV) to expand the viewing angle and perfectly match focal distance and unilateral myopic alignment for reduced distortion
+	✅ COMFORTABLE, EXTENDED WEAR DESIGN – Once you start gaming and watching VR movies with 3D goggles, you’re never going to want to take it off. That’s why we offer a comfort-fit experience with a fully adjustable head strap, eyesight protection system, and a soft nose piece to reduce pressure. Can also support drones that require a phone VR headset
+	✅ VR SMARTPHONE COMPATIBILITY: Smartphones with a gyro sensor (almost all models) and with a 4"-6.3” screen. Examples: VR goggles are compatible with models X, XR, XS, 8, 8 plus, 9, 9 plus, 10, 7, 7 plus, 6, 6s, 6s plus, 6 plus, 6, 5, 5 plus, 5c, 5s, SE, etc. Also compatible with Samsung Android Galaxy s8, s7, j3, s7 edge, s6, s6 edge, note5, a8+, note 3, note 4, note 5, note 7, note 8, note 9, s5 s6, s7, s8, s8 plus, s9, s9 plus, s10, s10 plus, one plus, Box VR etc. And compatible w/ m
 </p>
 <p><strong>Links:</strong> <a href="https://www.amazon.com/Headset-iPhone-Android-Phone-Comfortable/dp/B07Q3NCJYP/ref=sr_1_10?dchild=1&keywords=vr+headsets&qid=1600648837&s=electronics&sr=1-10">Amazon</a></p>
 <hr />
