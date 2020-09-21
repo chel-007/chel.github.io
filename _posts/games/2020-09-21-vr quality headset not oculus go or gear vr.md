@@ -116,5 +116,29 @@ We come now to the main content of this post:
 	✅ 2 lenses are designed independently, pupil distance and object distance adjustment are available for myopic population. Our model supports naked eye viewing with myopia below 0-600 degrees and direct viewing with myopic glasses. After wearing it, please adjust the left (right) pupil distance to suit yourself. <br>
 	✅ headset for iPhone/Android phone Compatible 4.7-6 inch,3D glasses can turn mobile phones into cinemas/3D game halls. The product does not need to be recharged, 1. Download VR app 2.Search for the 3D video（left and right format） you want to watch in the vr app. 3.put cell phone into the VR glasses，Put on VR glasses and adjust pupil distance.and then you can watch it.With Bluetooth remote controller, the effect is better. <br>
 </p>
-<p><strong>Links:</strong> <a href="https://www.amazon.com/VR-Headset-Android-Controller-Compatible/dp/B07Y68297Y/ref=sr_1_21?dchild=1&keywords=vr+headsets&qid=1600699763&s=electronics&sr=1-21">Amazon</a></p>
+<p><strong>Link:</strong> <a href="https://www.amazon.com/VR-Headset-Android-Controller-Compatible/dp/B07Y68297Y/ref=sr_1_21?dchild=1&keywords=vr+headsets&qid=1600699763&s=electronics&sr=1-21">Amazon</a></p>
+<hr />
+
+
+<h4 style="font-weight: 600;">Merge VR Headset - Augmented and Virtual Reality Headset, Take Virtual Field Trips, Watch Educational 360 Degree VR Videos, STEM Tool for Classroom and Home, Works with iPhone and Android (Moon Grey)</h4>
+<img class="img-fluid" alt="Merge VR Headset - Augmented and Virtual Reality Headset" width="50%" height="50%" src="https://images-na.ssl-images-amazon.com/images/I/41B%2ByEWroUL._AC_.jpg">
+
+<p>
+	✅ Award-winning STEM learning, the Merge Headset has been featured in Consumer Reports, named by CNN as Best VR Headset for Big Kids and Tweens, and Winner of the Academic's Choice Award <br>
+	✅ Compatible with the Merge Cube for mixed reality experiences (not required). <br>
+	✅ Go Anywhere with the Merge Headset - find apps and experiences at Merge Miniverse online; explore the solar system, walk with dinosaurs, take virtual field trips and more; works with Google Expeditions <br>
+</p>
+<p><strong>Link:</strong> <a href="https://www.amazon.com/MERGE-AR-Headset-Augmented-Experiences/dp/B06XT7QBCV/ref=sr_1_20?dchild=1&keywords=vr+headsets&qid=1600699763&s=electronics&sr=1-20">Amazon</a></p>
+<hr />
+
+
+<h4 style="font-weight: 600;">WapSter Vr Headset, Sneba White Virtual Reality, Headset VR Glasses for 3D Video Movies Games for Apple iPhone 11, Samsung Huwei HTC More Smartphones.</h4>
+<img class="img-fluid" alt="WapSter Vr Headset, Sneba White Virtual Reality, Headset VR Glasses for 3D Video Movies Games" width="50%" height="50%" src="https://images-na.ssl-images-amazon.com/images/I/61Elni9PujL._AC_SL1500_.jpg">
+
+<p>
+	✅ EASY FD OD ADJUSTMENT: Gaming and watching movies in VR boxes works best when your eyes properly align with the screen box. That’s why our VR Glasses offers FD and OD adjustments wide FOV to expand the viewing angle and perfectly match focal distance and unilateral myopic alignment for reduced distortion. <br>
+	✅ REVOLUTIONARY OPTICAL SYSTEM: It completely eliminates vertigo. Virtual reality headset is suitable for everyone, even including those who have myopia. Pupil settings for the best 3D experience. 3D vr headset has innovative design, comfortable super lighter weight, wearable and adjustable straps for flexible wear. <br>
+	✅ ENJOY APPS GAMES LIKE NEVER BEFORE: You can download over 1000 of vr apps from Apple Store and Google Play - for FREE. You can also enjoy fully interactive 3D videos from YouTube or dedicated VR websites. Immersing into fascinating 360° Videos Games have never been easier. <br>
+</p>
+<p><strong>Link:</strong> <a href="https://www.amazon.com/WapSter-Headset-Virtual-Reality-Smartphones/dp/B081NQVPMB/ref=sr_1_18?dchild=1&keywords=vr+headsets&qid=1600699763&s=electronics&sr=1-18">Amazon</a></p>
 <hr />
