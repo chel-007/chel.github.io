@@ -49,6 +49,18 @@ We come now to the main content of this post:
 
 <h3>20+ Quality and Affordable Headsets to Buy 2020</h3>
 
+<h4 style="font-weight: 600;">VR Headset for Nintendo Switch, OIVO 3D VR (Virtual Reality) Glasses, Labo Goggles Headset for Nintendo Switch</h4>
+<img class="img-fluid" alt="VR Headset for Nintendo Switch" width="50%" height="50%" src="https://images-na.ssl-images-amazon.com/images/I/61SSZLacZxL._AC_SL1050_.jpg">
+
+<p>
+	✅ Upgraded Version: Special virtual reality vr glasses for Nintendo switch, would be a big surprise as gift for your friends and family or yourself, this is the upgraded version.(More suitable experience and people with prescription glasses can wear this VR too.).NOTE: Please take out the Joy-Con would be light weight to use, 15~36mm, may not fit for huge nose. <br>
+	✅ Say Goodbye To Carboard Materials: Made of EVA and Oxford materials, super light weight and durable, no worry that your VR glass get mildew in wet weather, includes adjustable headstrap and more thick materials to touch your face, no need to grip the switch console near your head. <br>
+	✅ Watch and Play in VR: HD optimization takes you special experience to watch Youtube and play Super Smash Bros. & Zelda & Super Mario Odyssey etc. (VR games may be updated in succession), Full range with the joysticks and the buttons are covered fully, easy to use when playing action games (I.e. smash bros.) <br>
+</p>
+<p><strong>Links:</strong> <a href="https://www.amazon.com/OIVO-Headset-Nintendo-Virtual-Reality/dp/B07TBPLQJS/ref=sr_1_13?dchild=1&keywords=vr+headsets&qid=1600699763&s=electronics&sr=1-13">Amazon</a></p>
+<hr />
+
+
 <h4 style="font-weight: 600;">BNEXT VR Headset Compatible with iPhone & Android Phone - Universal Virtual Reality Goggles - Play Your Best Mobile Games 360 Movies with Soft & Comfortable New 3D VR Glasses - Red - w/Eye Protection</h4>
 <img class="img-fluid" alt="BNEXT VR Headset Compatible with iPhone & Android Phone" width="50%" height="50%" src="https://images-na.ssl-images-amazon.com/images/I/7187vvRAA3L._AC_SL1500_.jpg">
 
