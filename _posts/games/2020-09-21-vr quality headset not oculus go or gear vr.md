@@ -26,7 +26,7 @@ I've played a few VR games till now, geared with the HTC Vive, one thing stands 
 
 I say all this without even considering the enormous price tag on them. It's just pointless considering you can derive the same satisfaction regardless of the headset you use, In fact "quality largely depends on the game".
 
-<h3>Who is this Article Mainl for</h3>
+<h3>Who is this Article mainly for</h3>
 This article is for three categories of people:
 
 * You are yet to buy a headset, confused between Oculus, HTC, Valve Index since that seems to be what everyone talks about but "you want something cheaper that fits your budget"
@@ -50,7 +50,7 @@ We come now to the main content of this post:
 <h3>20+ Quality and Affordable Headsets to Buy 2020</h3>
 
 <h5 style="font-weight: 600;">BNEXT VR Headset Compatible with iPhone & Android Phone - Universal Virtual Reality Goggles - Play Your Best Mobile Games 360 Movies with Soft & Comfortable New 3D VR Glasses - Red - w/Eye Protection</h5>
-<img class="img-fluid" width=100% height=100 src="https://images-na.ssl-images-amazon.com/images/I/7187vvRAA3L._AC_SL1500_.jpg">
+<img class="img-fluid" width=100vh height=100vh src="https://images-na.ssl-images-amazon.com/images/I/7187vvRAA3L._AC_SL1500_.jpg">
 
 <p>
 	✅ ADVANCED VR GAMING TECHNOLOGY - Gaming and watching movies with virtual reality headsets work best when your eyes properly align with the screen box. That’s why our VR headset offers FD and OD adjustments (wide FOV) to expand the viewing angle and perfectly match focal distance and unilateral myopic alignment for reduced distortion
