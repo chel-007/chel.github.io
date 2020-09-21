@@ -50,7 +50,7 @@ We come now to the main content of this post:
 <h3>20+ Quality and Affordable Headsets to Buy 2020</h3>
 
 <h5 style="font-weight: 600;">BNEXT VR Headset Compatible with iPhone & Android Phone - Universal Virtual Reality Goggles - Play Your Best Mobile Games 360 Movies with Soft & Comfortable New 3D VR Glasses - Red - w/Eye Protection</h5>
-<img class="img-fluid" alt="BNEXT VR Headset Compatible with iPhone & Android Phone" width="100%" height="100vh" src="https://images-na.ssl-images-amazon.com/images/I/7187vvRAA3L._AC_SL1500_.jpg">
+<img class="img-fluid" alt="BNEXT VR Headset Compatible with iPhone & Android Phone" width="50%" height="50%" src="https://images-na.ssl-images-amazon.com/images/I/7187vvRAA3L._AC_SL1500_.jpg">
 
 <p>
 	✅ ADVANCED VR GAMING TECHNOLOGY - Gaming and watching movies with virtual reality headsets work best when your eyes properly align with the screen box. That’s why our VR headset offers FD and OD adjustments (wide FOV) to expand the viewing angle and perfectly match focal distance and unilateral myopic alignment for reduced distortion
