@@ -60,6 +60,17 @@ We come now to the main content of this post:
 <p><strong>Links:</strong> <a href="https://www.amazon.com/Headset-iPhone-Android-Phone-Comfortable/dp/B07Q3NCJYP/ref=sr_1_10?dchild=1&keywords=vr+headsets&qid=1600648837&s=electronics&sr=1-10">Amazon</a></p>
 <hr />
 
+<h4 style="font-weight: 600;">VeeR Falcon VR Headset with Controller, Eye Protection Virtual Reality Goggles to Comfortable Watch 360 Movies for Android, Samsung, Huawei and iPhone (only for 4.7-6.2inch)</h4>
+<img class="img-fluid" alt="VeeR Falcon VR Headset with Controller, Eye Protection Virtual Reality Goggles" width="50%" height="50%" src="https://images-na.ssl-images-amazon.com/images/I/61HuOp1ugIL._AC_SL1200_.jpg">
+
+<p>
+	✅ VeeR Falcon VR Headset is designed and developed for comfortable use. VeeR VR Video App updates Every Month. You will have a lasting experience on your new Falcon headset with VeeR VR Content App. Search 'VeeR' on play store or app store, discover a huge VR Content library and without pay <br>
+	✅ Built in HiFi active noise canceling around-ear headphones from Falcon Headset give you crisp, powerful sound and quiet that helps you enjoy your VR movies, games and music better. Feel like watching a huge screen of 1050 inch in a distance of 3 meter, visual angle between 100 and 110 degree, which contributes to immersive visual experience with high definition photos <br>
+	✅ Built-in microphone and the 3.5mm headphone jack is easy to answer calls directly by headset. The unique bi-focus adjustments (FD/IPD) allow you to expand the viewing angle and depth for each eye and it fit perfect for everybody especially those with short-sighted <br>
+</p>
+<p><strong>Link:</strong> <a href="https://www.amazon.com/VeeR-Headset-Controller-Universal-Comfortable/dp/B07G37CLJ5/ref=sr_1_25?dchild=1&keywords=vr+headsets&qid=1600699763&s=electronics&sr=1-25">Amazon</a></p>
+<hr />
+
 
 <h4 style="font-weight: 600;">VR WEAR Virtual Reality Headset, Goggles Gear, Google - 3D VR Glasses VR 3D Box for Any Phone (iPhone 6/7/8/Plus/X & S6/S7/S8/S9/Plus/Note and All Android Smartphone) with 4.5-6.5" Screen</h4>
 <img class="img-fluid" alt="VR WEAR Virtual Reality Headset, Goggles Gear, Google - 3D VR Glasses" width="50%" height="50%" src="https://images-na.ssl-images-amazon.com/images/I/71S-gH7dwcL._AC_SL1500_.jpg">
@@ -70,5 +81,5 @@ We come now to the main content of this post:
 	✅ INDIVIDUALLY ADJUSTABLE DOUBLE LENS: VR WEAR virtual reality viewer has a comfortable lens adjustment in 4 directions for each eye separately - adjusting the focus and IPD (interpupillary distance) <br>
 	✅ COMFORTABLE WEARING: VR glasses face cushion is made of soft leather. Soft and elastic head strap relieves the pressure on the nose and face. The VR goggles are very light weight, you can get a better immersive virtual reality experience) <br>
 </p>
-<p><strong>Links:</strong> <a href="https://www.amazon.com/Headset-iPhone-Android-Phone-Comfortable/dp/B07Q3NCJYP/ref=sr_1_10?dchild=1&keywords=vr+headsets&qid=1600648837&s=electronics&sr=1-10">Amazon</a></p>
+<p><strong>Links:</strong> <a href="https://www.amazon.com/VR-WEAR-Virtual-Reality-Headset/dp/B07PVNVQ5L/ref=sr_1_26?dchild=1&keywords=vr+headsets&qid=1600699763&s=electronics&sr=1-26">Amazon</a></p>
 <hr />
