@@ -1,9 +1,9 @@
 ---
 layout: post-blog
 author: Chel
-title: 20+ Quality VR Headsets that are not Oculus Go and Gear VR
+title: 20+ Quality VR Headsets that are not Oculus Go, Gear VR or Daydream
 seo: vr headsets oculus quest oculus go gear vr vr games new vr mobile vr android vr games 2020 
-description: "Virtual reality headsets are only as good as the experiences they offer". If that statement's true, why do the gaming community debate tirelesssly over the Oculus Rift and HTC Vive HMDs. Starting today this shouldn't be the case for you, there are dozens of VR headsets looking to offer you great quality and experience without first cashing out on you. Wanna find out?
+description: Virtual reality headsets are only as good as the experiences they offer. If that statement's true, why do the gaming community debate tirelesssly over the Oculus Rift and HTC Vive HMDs. Starting today this shouldn't be the case for you, there are dozens of VR headsets looking to offer you great quality and experience without first cashing out on you. Wanna find out?
 img-src: ../assets\images\Blog\vrgames_notoculus
 ---
 
@@ -50,10 +50,10 @@ We come now to the main content of this post:
 <h3>20+ Quality and Affordable Headsets to Buy 2020</h3>
 
 <h5 style="font-weight: 600;">BNEXT VR Headset Compatible with iPhone & Android Phone - Universal Virtual Reality Goggles - Play Your Best Mobile Games 360 Movies with Soft & Comfortable New 3D VR Glasses - Red - w/Eye Protection</h5>
-<img src="https://images-na.ssl-images-amazon.com/images/I/7187vvRAA3L._AC_SL1500_.jpg"/>
+<img class="img-fluid" src="https://images-na.ssl-images-amazon.com/images/I/7187vvRAA3L._AC_SL1500_.jpg">
 
 <p>
 	✅ ADVANCED VR GAMING TECHNOLOGY - Gaming and watching movies with virtual reality headsets work best when your eyes properly align with the screen box. That’s why our VR headset offers FD and OD adjustments (wide FOV) to expand the viewing angle and perfectly match focal distance and unilateral myopic alignment for reduced distortion
 </p>
-<p><strong>Links:</strong> <a href="https://www.amazon.com/Headset-iPhone-Android-Phone-Comfortable/dp/B07Q3NCJYP/ref=sr_1_10?dchild=1&keywords=vr+headsets&qid=1600648837&s=electronics&sr=1-10">Steam</a> (Oculus Rift)</p>
+<p><strong>Links:</strong> <a href="https://www.amazon.com/Headset-iPhone-Android-Phone-Comfortable/dp/B07Q3NCJYP/ref=sr_1_10?dchild=1&keywords=vr+headsets&qid=1600648837&s=electronics&sr=1-10">Amazon</a></p>
 <hr />
