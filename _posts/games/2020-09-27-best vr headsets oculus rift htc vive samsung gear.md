@@ -1,4 +1,12 @@
-vressential.webp
+---
+layout: post-blog
+author: Chel
+title: 15+ Quality VR Headsets that are not Oculus Go, Gear VR or Daydream
+seo: vr headsets oculus quest oculus go gear vr vr games new vr mobile vr android vr games 2020 vr headset nitendo switch ve headset for android oculus go samsung gear vr
+description: Virtual reality headsets are only as good as the experiences they offer. If that statement's true, why do the gaming community debate tirelesssly over the Oculus Rift and HTC Vive HMDs. Starting today this shouldn't be the case for you, there are dozens of VR headsets looking to offer you great quality and experience without first cashing out on you. Wanna find out?
+img-src: ../assets\images\Blog\vressential
+---
+
 VR is the new drill for gamers, with it comes much hassel about what is the trend, how to keep up with it. To be honest it can leave you significantly unsatisfied with the coices you make wheter. That's what the new rave of VR is meant to create among gamers and developers. Should it be this way? - Probably Yes, it at all a thing is exciting enough people should be ready to chop their heads off for it (unrealistcally). Is this healthy for you , Mentally and Financially so - Certainly not XD. What were you expecting me to say. My aim for this article is to provide a comprehensive guide that would direct your thougfhts into making the best choice for you "Cause".
 
 
