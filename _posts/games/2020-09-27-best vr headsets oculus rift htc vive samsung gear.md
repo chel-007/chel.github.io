@@ -1,3 +1,4 @@
+vressential.webp
 VR is the new drill for gamers, with it comes much hassel about what is the trend, how to keep up with it. To be honest it can leave you significantly unsatisfied with the coices you make wheter. That's what the new rave of VR is meant to create among gamers and developers. Should it be this way? - Probably Yes, it at all a thing is exciting enough people should be ready to chop their heads off for it (unrealistcally). Is this healthy for you , Mentally and Financially so - Certainly not XD. What were you expecting me to say. My aim for this article is to provide a comprehensive guide that would direct your thougfhts into making the best choice for you "Cause".
 
 
