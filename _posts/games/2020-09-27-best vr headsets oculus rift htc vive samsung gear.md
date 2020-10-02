@@ -3,7 +3,7 @@ layout: post-blog
 author: Chel
 title: The Essential List of things to consider before buying a VR headset
 seo: vr headsets oculus quest oculus go gear vr vr games new vr mobile vr android vr games 2020 vr headset nitendo switch ve headset for android oculus go samsung gear vr best vr headsets
-description: VR is the new drill for gamers, with it comes much hassel about what is the trend, how to keep up with it. To be honest it can leave you significantly unsatisfied with the coices you make wheter. That's what the new rave of VR is meant to create among gamers and developers. Should it be this way? - Probably Yes, it at all a thing is exciting enough people should be ready to chop their heads off for it (unrealistcally). Is this healthy for you , Mentally and Financially so - Certainly not XD. What were you expecting me to say. My aim for this article is to provide a comprehensive guide that would direct your thougfhts into making the best choice for you "Cause"
+description: VR is the new drill for gamers, with it comes much hassel about what is the trend, how to keep up with it. To be honest it can leave you significantly unsatisfied with the coices you make wheter. That's what the new rave of VR is meant to create among gamers and developers. Should it be this way? - Probably Yes, it at all a thing is exciting enough people should be ready to chop their heads off for it (unrealistcally). Is this healthy for you , Mentally and Financially so - Certainly not XD. What were you expecting me to say. My aim for this article is to provide a comprehensive guide that would direct your thoughts into making the best choice for you "Cause"
 img-src: ../assets\images\Blog\vressential
 ---
 
@@ -48,7 +48,7 @@ Some essential key point features of VR headset that Brands look to include in t
 
 * Control: Some VR Headset comes with controllers equipped, this is a device that enables hand-tracking so the player's movement can be simulated in the Vr world. Most games today require a player's movement for interaction within the game, so this is a very important feature. An addition to controllers <i>Haptic feedback</i> is the sense of touch designed to provide information to the end user, is already built into a number of existing virtual reality controllers
 
-* Comfort: Most VR Brands live up comfortably to this particular feature, but certainly when considering low priced headsets you have to consider the comfortability it comes with. In short, 
+* Comfort: Most VR Brands live up comfortably to this particular feature, but certainly when considering low priced headsets you have to consider the comfortability it comes with. In short,
 1. Does the headset feel comfortable to wear for long use
 2. Can the strap - if it comes with one, be adjusted or removed for cleaning
 3. Does it feel itchy or heavy to put on
@@ -56,3 +56,28 @@ These are some questions to consider when checking the comfort that comes with a
 
 
 <h3>How to go about making a satisfying VR headset choice for your CAUSE.</h3>
+Here I would highlight some necessary steps you can take to choose the best vr headset for you current situation and needs.
+There are essentially, three categories of VR headset when grouped based on price:
+
+* low-priced headsets
+* medium-priced headsets
+* high-cost headsets
+
+In all cases and situations, people use products & items differently. Some use it more, other less. Defining what your proirities are in using a vr headset would already tell you which group you belong to.
+To make the selection process easier for you, I would highlight some popular use cases of a vr headset today.
+
+<h3>Popular Use-Cases of a VR headset</h3>
+
+* Gaming: By far, the most popular use case of a vr headset is for playing Vr games. You have to ask yourself two very important question: How much time do you spend on gaming?, Do you spend money to purchase high-quality vr games?. After arriving at the answers to these questions, make a decision on what kind of vr headset you need:
+<ul>
+	<li>Usually if you spend less than 5 hrs a week playing vr games & you don't spend money buying vr games, I recommend going for a medium-priced headsets. Below I will give you a variety of options to choose from</li>
+	<li>On the other hand, go for a highpriced headset if you spend substancial time and money on vr games, if you use a headset professionally like a for youtube channel </li>
+</ul>
+
+* VR Development: With that mentioned, a group of people dedicated to developing for vr exists and if you fall under that group, I have got you covered. Likewise, two main sub-groups exixst:
+<ul>
+	<li>Do you develop vr games for sale are you an intermediate vr developer, if so a medium quality headset should work fine for testing prototype and scenes according to the quality of your games.</li>
+	<li>Are you a beginner or hobbyist to vr games development. You might be an indie game dev but are not yet making money from your games. If you fall into anyone of these, a low-priced headset would do the job for you and also saved you irrelevant expenses</li>
+</ul>
+
+Now that's sorted, by now you should have a decision in mind based on which cases are similar to your needs. Below you can review the headsets of your choice before making a purchase decision and start living your dream of owning a virtual reality headset for whatever purpose; gaming, entertainment, development etc.
