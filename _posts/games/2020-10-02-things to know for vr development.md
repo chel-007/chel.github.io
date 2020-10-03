@@ -138,58 +138,31 @@ You can get a valuable set of tools when you use Unity, e.g.:
 
 
   3. #### Google VR for Everyone
-   Google, the technology giant offers a wide range of VR development tools, and you can use them to create immersive VR experience for your stakeholders. You can access these tools on the <a href="https://developers.google.com/vr/">Google VR developer portal</a>.
+     Google, the technology giant offers a wide range of VR development tools, and you can use them to create immersive VR experience for your stakeholders. You can access these tools on the <a href="https://developers.google.com/vr/">Google VR developer portal</a>.
 
-   You can use these tools to develop VR apps for multiple platforms, e.g., Unity, Unreal, Android, iOS, and web. To access the guides to develop VR apps for each of these platforms, first navigate to “<a href="https://developers.google.com/vr/develop/">Choose your development environment</a>” on the Google VR developer portal.
+      You can use these tools to develop VR apps for multiple platforms, e.g., Unity, Unreal, Android, iOS, and web. To access the guides to develop VR apps for each of these platforms, first navigate to “<a href="https://developers.google.com/vr/develop/">Choose your development environment</a>” on the Google VR developer portal.
 
-   The Google VR developer platform has software development kits (SDKs) for all VR platforms it supports, e.g., Unity, Android, iOS, etc. You can navigate to the download page on the <a href="https://developers.google.com/vr/download/">Google VR developer portal to access them. You can read “<a href="https://developers.google.com/vr/reference/">Google VR API reference</a>” to understand the Google VR APIs, which covers all SDKs that the Google VR development platform offers.
+      The Google VR developer platform has software development kits (SDKs) for all VR platforms it supports, e.g., Unity, Android, iOS, etc. You can navigate to the download page on the <a href="https://developers.google.com/vr/download/">Google VR developer portal to access them. You can read “<a href="https://developers.google.com/vr/reference/">Google VR API reference</a>” to understand the Google VR APIs, which covers all SDKs that the Google VR development platform offers.
 
   4. #### Blender
-   Blender is an open-source 3D creation suite, and it’s free. At the time of writing, Blender 2.80 is its latest release. The Blender Foundation, an independent organization for public benefit governs the development of Blender.
+     Blender is an open-source 3D creation suite, and it’s free. At the time of writing, Blender 2.80 is its latest release. The Blender Foundation, an independent organization for public benefit governs the development of Blender.
 
-   Blender offers the following features and capabilities:
-   * You can create your 3D pipeline with modeling, rigging, animation, simulation, rendering, composing, and motion tracking.
-   * Blender supports video editing and game creation.
-   * If you have an experienced VR developer in your team, then he/she can use its API for Python scripting to customize the application. This allows you to create specialized tools.
+     Blender offers the following features and capabilities:
+     * You can create your 3D pipeline with modeling, rigging, animation, simulation, rendering, composing, and motion tracking.
+     * Blender supports video editing and game creation.
+     * If you have an experienced VR developer in your team, then he/she can use its API for Python scripting to customize the application. This allows you to create specialized tools.
 
-   You can <a href="https://www.blender.org/download/">download Blender</a> for using it on a Windows, Mac, or Linux computer. Visit the documentation page on the Blender website to read its manuals, moreover, you can also access <a href="https://www.blender.org/support/tutorials/">its tutorials</a>.
+     You can <a href="https://www.blender.org/download/">download Blender</a> for using it on a Windows, Mac, or Linux computer. Visit the documentation page on the Blender website to read its manuals, moreover, you can also access <a href="https://www.blender.org/support/tutorials/">its tutorials</a>.
 
 5. #### Oculus Medium
    Oculus, the well-known provider of VR platforms like Oculus Rift S, Oculus Quest, and Oculus Go also offers powerful VR development software, named <a href="https://www.oculus.com/medium/?locale=en_US">Medium</a>. It’s a comprehensive tool, which allows you to create 3D assets.
 
-  You can sculpt, model, and paint the VR assets you create. Even if you are a beginner, with Oculus Medium you can quickly create an immersive environment.
+    You can sculpt, model, and paint the VR assets you create. Even if you are a beginner, with Oculus Medium you can quickly create an immersive environment.
 
-  The <a href="https://www.youtube.com/c/OculusMedium">Oculus Medium YouTube channel</a> has many useful videos, and you can view them to get more information on this tool.
+    The <a href="https://www.youtube.com/c/OculusMedium">Oculus Medium YouTube channel</a> has many useful videos, and you can view them to get more information on this tool.
 
 
 The 5 Virtual Reality development tools I have described above can help, however, developing a VR solution can be complex. With this guidelines and steps in VR development, you should be able to start your journey for what purpose you have. This is a lengthy article and as such, you might have questions circling your mind. The comments section is provided just for that reason, and don't hesitate to leave me a question. Thanks Chel_
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-dggd
