@@ -40,10 +40,10 @@ Keeping that in mind, let's look at how **you** can kickstart career in Virtual 
 * <h4>Begin your Technical training</h4>
 So you want to start creating VR worlds and certainly you have some ideas on where to start or you don't have at all. Thankfully, there is a small circle of resources available for you to choose from so here it's easier to make a decision. The two main softwares/game engines we have that can accomplish your goals are unity and unreal engine. As a beginner it is recommended to start with unity for these benefits:
 
-    * Unity has a very simple learning curve. You can start making simple games and intercations in a little as a week if you put in enough time, believe me.
-    * Unity is free for all to use until you start earning a large sum of money which by then you would have no problems in showing appreciation by paying up.
-    * Unity has wide and growing support for other purpose aside from video games like movie production, 3D animation, education, medicine and space. As you can see, there is something for everyone.
-    * There is <b>a lot</b> of resources you can use to learn and improve your vr development skill. Unity is dedicated to helping beginners be successful in thier chosen course.
+   * Unity has a very simple learning curve. You can start making simple games and intercations in a little as a week if you put in enough time, believe me.
+   * Unity is free for all to use until you start earning a large sum of money which by then you would have no problems in showing appreciation by paying up.
+   * Unity has wide and growing support for other purpose aside from video games like movie production, 3D animation, education, medicine and space. As you can see, there is something for everyone.
+   * There is <b>a lot</b> of resources you can use to learn and improve your vr development skill. Unity is dedicated to helping beginners be successful in thier chosen course.
 
   I expect that you have a decision to make unity your development home because it would favour you greatly. About the resources i mentioned, these would help you get started:
 
@@ -115,47 +115,47 @@ And there you have it, 5 things to consider before starting VR development. This
 1. #### Unity
    Unity is famous for game development, however, it helps you to build VR solutions for many other sectors too. E.g., you can create VR solutions for automotive, transportation, manufacturing, media & entertainment, engineering, construction, etc. with Unity.
 You can get a valuable set of tools when you use Unity, e.g.:
-  * A powerful editor to create VR assets;
-  * Artist and designer tools;
-  * CAD tools;
-  * Collaboration tools.
+     * A powerful editor to create VR assets;
+     * Artist and designer tools;
+     * CAD tools;
+     * Collaboration tools.
 
- Read more about them in “<a href="https://www.reddit.com/r/virtualreality/">Unity 2019: performance by default, high-fidelity real-time graphics, and artist tools</a>”. Unity works with all popular VR platforms like Oculus, Sony, etc.
+   Read more about them in “<a href="https://www.reddit.com/r/virtualreality/">Unity 2019: performance by default, high-fidelity real-time graphics, and artist tools</a>”. Unity works with all popular VR platforms like Oculus, Sony, etc.
 
 2. #### Amazon Sumerian
 
-  <a href="https://aws.amazon.com/sumerian/">Amazon Sumerian</a> is the VR engine from AWS, and you don’t need 3D graphics or VR programming skills to use it. Sumerian works with all popular VR platforms like Oculus Go, Oculus Rift, HTC Vive, HTC Vive Pro, Google Daydream, and Lenovo Mirage, moreover, it works with Android and iOS mobile devices too.
+     <a href="https://aws.amazon.com/sumerian/">Amazon Sumerian</a> is the VR engine from AWS, and you don’t need 3D graphics or VR programming skills to use it. Sumerian works with all popular VR platforms like Oculus Go, Oculus Rift, HTC Vive, HTC Vive Pro, Google Daydream, and Lenovo Mirage, moreover, it works with Android and iOS mobile devices too.
 
-  Amazon Sumerian supports various VR use cases like employee education, training simulation, field services productivity, retail & sales, and virtual concierge. It has powerful features, e.g.:
-  * Sumerian editor;
-  * Sumerian hosts;
-  * Asset management;
-  * An ability to script the logic in the scenes you create.
+     Amazon Sumerian supports various VR use cases like employee education, training simulation, field services productivity, retail & sales, and virtual concierge. It has powerful features, e.g.:
+     * Sumerian editor;
+     * Sumerian hosts;
+     * Asset management;
+     * An ability to script the logic in the scenes you create.
 
-  Read more about these features in “<a href="https://aws.amazon.com/sumerian/features/">Amazon Sumerian features</a>”.
+     Read more about these features in “<a href="https://aws.amazon.com/sumerian/features/">Amazon Sumerian features</a>”.
 
-  You can access extensive learning resources that will help you to use Sumerian, and you can read “<a href="https://aws.amazon.com/sumerian/getting-started/">Getting started with Amazon Sumerian</a>” for this. The <a href="https://aws.amazon.com/sumerian/faqs/">Amazon Sumerian FAQ page</a> has plenty of valuable information that’s useful for any virtual reality developer. Check out the <a href="https://aws.amazon.com/sumerian/pricing/">Amazon Sumerian pricing page</a> for its pricing plans.
+     You can access extensive learning resources that will help you to use Sumerian, and you can read “<a href="https://aws.amazon.com/sumerian/getting-started/">Getting started with Amazon Sumerian</a>” for this. The <a href="https://aws.amazon.com/sumerian/faqs/">Amazon Sumerian FAQ page</a> has plenty of valuable information that’s useful for any virtual reality developer. Check out the <a href="https://aws.amazon.com/sumerian/pricing/">Amazon Sumerian pricing page</a> for its pricing plans.
 
 
   3. #### Google VR for Everyone
-Google, the technology giant offers a wide range of VR development tools, and you can use them to create immersive VR experience for your stakeholders. You can access these tools on the <a href="https://developers.google.com/vr/">Google VR developer portal</a>.
+   Google, the technology giant offers a wide range of VR development tools, and you can use them to create immersive VR experience for your stakeholders. You can access these tools on the <a href="https://developers.google.com/vr/">Google VR developer portal</a>.
 
-  You can use these tools to develop VR apps for multiple platforms, e.g., Unity, Unreal, Android, iOS, and web. To access the guides to develop VR apps for each of these platforms, first navigate to “<a href="https://developers.google.com/vr/develop/">Choose your development environment</a>” on the Google VR developer portal.
+   You can use these tools to develop VR apps for multiple platforms, e.g., Unity, Unreal, Android, iOS, and web. To access the guides to develop VR apps for each of these platforms, first navigate to “<a href="https://developers.google.com/vr/develop/">Choose your development environment</a>” on the Google VR developer portal.
 
-  The Google VR developer platform has software development kits (SDKs) for all VR platforms it supports, e.g., Unity, Android, iOS, etc. You can navigate to the download page on the <a href="https://developers.google.com/vr/download/">Google VR developer portal to access them. You can read “<a href="https://developers.google.com/vr/reference/">Google VR API reference</a>” to understand the Google VR APIs, which covers all SDKs that the Google VR development platform offers.
+   The Google VR developer platform has software development kits (SDKs) for all VR platforms it supports, e.g., Unity, Android, iOS, etc. You can navigate to the download page on the <a href="https://developers.google.com/vr/download/">Google VR developer portal to access them. You can read “<a href="https://developers.google.com/vr/reference/">Google VR API reference</a>” to understand the Google VR APIs, which covers all SDKs that the Google VR development platform offers.
 
   4. #### Blender
-Blender is an open-source 3D creation suite, and it’s free. At the time of writing, Blender 2.80 is its latest release. The Blender Foundation, an independent organization for public benefit governs the development of Blender.
+   Blender is an open-source 3D creation suite, and it’s free. At the time of writing, Blender 2.80 is its latest release. The Blender Foundation, an independent organization for public benefit governs the development of Blender.
 
-  Blender offers the following features and capabilities:
-* You can create your 3D pipeline with modeling, rigging, animation, simulation, rendering, composing, and motion tracking.
-* Blender supports video editing and game creation.
-* If you have an experienced VR developer in your team, then he/she can use its API for Python scripting to customize the application. This allows you to create specialized tools.
+   Blender offers the following features and capabilities:
+   * You can create your 3D pipeline with modeling, rigging, animation, simulation, rendering, composing, and motion tracking.
+   * Blender supports video editing and game creation.
+   * If you have an experienced VR developer in your team, then he/she can use its API for Python scripting to customize the application. This allows you to create specialized tools.
 
-  You can <a href="https://www.blender.org/download/">download Blender</a> for using it on a Windows, Mac, or Linux computer. Visit the documentation page on the Blender website to read its manuals, moreover, you can also access <a href="https://www.blender.org/support/tutorials/">its tutorials</a>.
+   You can <a href="https://www.blender.org/download/">download Blender</a> for using it on a Windows, Mac, or Linux computer. Visit the documentation page on the Blender website to read its manuals, moreover, you can also access <a href="https://www.blender.org/support/tutorials/">its tutorials</a>.
 
 5. #### Oculus Medium
-Oculus, the well-known provider of VR platforms like Oculus Rift S, Oculus Quest, and Oculus Go also offers powerful VR development software, named <a href="https://www.oculus.com/medium/?locale=en_US">Medium</a>. It’s a comprehensive tool, which allows you to create 3D assets.
+   Oculus, the well-known provider of VR platforms like Oculus Rift S, Oculus Quest, and Oculus Go also offers powerful VR development software, named <a href="https://www.oculus.com/medium/?locale=en_US">Medium</a>. It’s a comprehensive tool, which allows you to create 3D assets.
 
   You can sculpt, model, and paint the VR assets you create. Even if you are a beginner, with Oculus Medium you can quickly create an immersive environment.
 
