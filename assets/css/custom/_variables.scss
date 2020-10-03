@@ -1,11 +1,11 @@
 .navbar-custom {
   background-color: #24BCF9;
   width: 100%;
-  min-height: 8vh;
+  min-height: 7vh;
   margin: 0 auto;
-  box-shadow: inset 0px 0px 40px 0px rgba(0,0,0,0.4),
-    -5px 3px 20px 3px rgba(0, 0, 0, 0.7);
 }
+// inset 0px 0px 40px 0px rgba(0,0,0,0.4),
+//   -5px 3px 20px 3px rgba(0, 0, 0, 0.7)
 .navbar-custom div ul a {
     color: black;
     font-weight: 600;
@@ -15,10 +15,10 @@
 @media (max-width: 990px) {
   .navbar-custom {
     min-height: 46px;
-    box-shadow: inset 0px 0px 15px 0px rgba(0,0,0,0.4),
-    -5px 0px 10px 3px rgba(0, 0, 0, 0.6);
-  } 
+  }
 }
+// box-shadow: inset 0px 0px 15px 0px rgba(0,0,0,0.4),
+// -5px 0px 10px 3px rgba(0, 0, 0, 0.6);
 .navbar-custom div ul a {
   margin-left: 60px;
 }
@@ -41,7 +41,7 @@
 @media (max-width: 950px) {
   .navbar-custom ul li div:hover > a {
   border-bottom: 1px solid rgba(0,0,0,0.1)
-    
+
  }}
 /* Body's CSS */
 body {
