@@ -41,15 +41,72 @@ Keeping that in mind, let's look at how **you** can kickstart career in Virtual 
 * <h4>Begin your Technical training</h4>
 So you want to start creating VR worlds and certainly you have some ideas on where to start or you don't have at all. Thankfully, there is a small circle of resources available for you to choose from so here it's easier to make a decision. The two main softwares/game engines we have that can accomplish your goals are unity and unreal engine. As a beginner it is recommended to start with unity for these benefits:
 
-    * Unity hasbb a very simple learning curve. You can start making simple games and intercations in a little as a week if you put in enough time, believe me.
+    * Unity has a very simple learning curve. You can start making simple games and intercations in a little as a week if you put in enough time, believe me.
     * Unity is free for all to use until you start earning a large sum of money which by then you would have no problems in showing appreciation by paying up.
     * Unity has wide and growing support for other purpose aside from video games like movie production, 3D animation, education, medicine and space. As you can see, there is something for everyone.
     * There is <b>a lot</b> of resources you can use to learn and improve your vr development skill. Unity is dedicated to helping beginners be successful in thier chosen course.
 
-I expect that you have a decision to make unity your development home because it would favour you greatly. About the resources i mentioned, these would help you get started:
+  I expect that you have a decision to make unity your development home because it would favour you greatly. About the resources i mentioned, these would help you get started:
 
-* <a href="https://unity3d.com/learn/tutorials/topics/virtual-reality/getting-started-vr-development">Unity Learn</a>
-* <a href="https://unity3d.com/learn/tutorials/topics/virtual-reality/getting-started-vr-development">Unity Youtube</a>
+  * <a href="https://unity3d.com/learn/tutorials/topics/virtual-reality/getting-started-vr-development">Unity Learn</a>
+  * <a href="https://unity3d.com/learn/tutorials/topics/virtual-reality/getting-started-vr-development">Unity Youtube</a>
+  * <a href="https://unity.com/solutions/automotive-transportation-manufacturing">Film, animation and cinematics</a>
+  * <a href="https://unity.com/solutions/automotive-transportation-manufacturing">Automotive, Transportation & Manufacturing</a>
+  * <a href="https://unity.com/solutions/architecture-engineering-construction">Architecture, Engineering & Construction</a>
+  * <a href="https://unity.com/solutions/edtech">Build quality learning apps, games and simulations</a>
+
+  Using this resources, you can start to work with unity to realize your dream of building VR world in any industry.
+
+
+* ### Choose your Focus: Technical or Graphical
+Just like in 3D game development, VR general purpose development also demands skillful focus on two main areas: Technical(Building the environment and making it interactive with codes) and Graphical(designing the environment with artistic software,assets). This tells you that it is not recommended to be the programmer and the graphics designer at the same time: It just wont work for you. I used to think that if I put in a lot time, I could achieve everything alone but in truth, for you to become a pro in VR development you would have to put in so much time and efforts which is not guaranteed if you are doing two things at the same time.
+
+  Now let's say you decide to focus your resources in coding , you might be asking how you can acquire assets to use for building your environment and scenes. Why this mnight have been a big concern a few years back for indie createors, it isn't anymore there are lots of ways you can get graphics to complete your projects. Follow the steps below where I would guide you through the process:
+
+  #### For Technical and Programming focused
+  As someone focused on developing vr applications on unity engine alone, you want a simple way to get the assets/models of your choice to use in prototype and production level versions. I have compiled a list of the best places to get models, most are free others cost a few dollars.
+  * <a href="https://assetstore.unity.com/">Unity Asset Store</a>
+  * <a href="https://sketchfab.com/">Sketchfab</a>
+  * <a href="https://poly.google.com/">Google Poly</a>
+
+  #### For Graphical and Design focused
+  If you are graphics inclined and want to develop for vr, focusing on your skills would bring great benefits in time. The market for virtual reality desginers is expected to grow by 10% by 2025 according to statista. This is because 60^ of people involved in  3d games and VR development are software devs and programmers. But, as you may have thought you also require the skills of a programmer in whatever projects you might take up, I sourced around for the best way to go about this:
+  *
+
+
+
+
+* ### Determine your Target Platform
+
+
+
+
+* ### Test your work with the right hardware
+Every VR Developer needs to have a test unit to see how the application works and what bugs need to be fixed while still in development mode. Depending on the kind of app your are building, your VR gear and system would vary.
+
+  If you want to target casual users of VR, develop for Google Daydream or GearVR, you would need to have a similar VR Headset for your dev process This would ensure that you have a working prototype similar to how you want your users to interact with your app with no flaws.
+
+  And if you want to target premium VR users, develop for Oculus Rift or HTC Vive, you would need to make the adjustments for that.
+Once you’ve determined your target platform and associated hardware/headset, consider any computing requirements. For Rift and Vive, you’ll likely need to invest in a PC gaming computer that contains a solid graphics card.
+
+
+
+
+* ### Consider the System Reqirements
+Before installing your preferred software in this case Unity Engine, be sure that your computer meets the necessary system requirements for development process. This would help you before-hand evaluate your system specifications and make any necessary adjustments before you begin.
+
+  Below is the reuired system specs for unity VR Development:
+  #### Windows
+  * OS: Windows 7 SP1+, 8, 10, 64-bit versions only; macOS 10.12+
+  * GPU: GPU: Graphics card with DX10 (shader model 4.0) capabilities.
+  * Processor: 1.1 GHz Processor
+  * Memory: 4 GB RAM
+  * Storage: Upto 10GB Free Space allocated for Unity Dev
+
+With these you know know what's in store and can make tweak your system if it does not already meet the required specs
+
+
+
 
 
 
