@@ -1,22 +1,60 @@
 ---
 layout: default
-title: The Latest Tech and Game Product Reviews, News, Tips and Deals | 
+title: The Latest Tech and Game Product Reviews, News, Tips and Deals |
 description: ChelOverboard is your complete guide to games, mods and upgrades. We test and review gaming products and services, report game-tech news and trends, .
 ---
 
-<!--Mask with wave--> 
-<div class="view overlay">
+<!--Mask with wave-->
+<!-- <div class="view overlay">
   <img defer src="/assets/images/Home/Anime-wallpaper-10 (2).webp" class="img-fluid" alt="ChelOverboard Homepage: Home of Mods" width="100%" height="60vh">
  <!--  width="100%" height="30vh" -->
-  <a>
+  <!-- <a>
     <div class="mask waves-effect rgba-white-slight"></div>
-  </a>
-</div>
+  </a> -->
+<!--</div> -->
   <!--Main container-->
     <div class="container homepage">
-      <div id="hits">
-  <!-- Hits widget will appear here -->
-  </div><br>
+      {% for post in site.posts %}
+        {% if post.path contains 'games' | limit: 4 %}
+        <div class="row">
+          <div class="col-md-8">
+          <div class="card">
+            <a href="{{ post.url }}"><img defer class="card-img-top img-fluid" src="{{ post.img-src }}.webp" alt="{{ post.img-alt }}"></a>
+            <div class="card-body">
+              <h4 class="card-title"><a href="{{ post.url }}" class="game-title">{{ post.title }}</a></h4>
+            </div>
+          </div>
+              <div class="row">
+                <div class="col-md-6">
+                <div class="card">
+                  <a href="{{ post.url }}"><img defer class="card-img-top img-fluid" src="{{ post.img-src }}.webp" alt="{{ post.img-alt }}"></a>
+                  <div class="card-body">
+                    <h4 class="card-title"><a href="{{ post.url }}" class="game-title">{{ post.title }}</a></h4>
+                  </div>
+                </div>
+                </div>
+                <div class="col-md-6">
+                <div class="card">
+                  <a href="{{ post.url }}"><img defer class="card-img-top img-fluid" src="{{ post.img-src }}.webp" alt="{{ post.img-alt }}"></a>
+                  <div class="card-body">
+                    <h4 class="card-title"><a href="{{ post.url }}" class="game-title">{{ post.title }}</a></h4>
+                  </div>
+                </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4">
+            <div class="card">
+              <a href="{{ post.url }}"><img defer class="card-img-top img-fluid" src="{{ post.img-src }}.webp" alt="{{ post.img-alt }}"></a>
+              <div class="card-body">
+                <h4 class="card-title"><a href="{{ post.url }}" class="game-title">{{ post.title }}</a></h4>
+              </div>
+            </div>
+            </div>
+          </div>
+          {% endif %}
+          {% endfor %}
+          
    <div class="mydownloadbox">
   <b class="downloadlinks">Sign up Today <span class="premiumlinks">Become a Member of ChelOverboard (Receive Updates from Us)</span>:<button type="button" class="btn btn-success" onclick="window.location.href = 'http://eepurl.com/gQ1lOf';">SIGN UP</button></b></li><br>
   <p>By subscribing , you receive emails and direct links to new MODs uploaded.We don’t spam your email. You receive only relevant emails. Thanks.
@@ -32,19 +70,19 @@ description: ChelOverboard is your complete guide to games, mods and upgrades. W
 <!--    End of Column      -->
 
 <!--     Column     -->
-     <div class="col-md-6 col-sm-12">   
+     <div class="col-md-6 col-sm-12">
         <ol class="learn-create-consult">
           <li><a href="" class="social-icons" style="color: red"><i class="fab fa-youtube"></i></a></li>
            <li><h3>Follow Our Youtube</h3></li>
           <li>You can follow our Youtube Channel to get all our latest uploads as soon as released.Leave comments on any issue faced when using our website and get a reply as-soon-as-possible. Use this link to subscribe today and keep up-to-date <a href="https://www.youtube.com/results?search_query=ChelOverboard" style="color: red;">Youtube</a></li>
-          
+
         </ol>
       </div>
 <!--   End of column     -->
-      
-      
+
+
       <!--     Column     -->
-     <div class="col-md-6 col-sm-12">   
+     <div class="col-md-6 col-sm-12">
         <ol class="learn-create-consult">
           <li><a href="" class="social-icons" style="color: #7289da"><i class="fab fa-discord"></i></a></li>
            <li><h3>Follow Our Discord</h3></li>
@@ -52,12 +90,12 @@ description: ChelOverboard is your complete guide to games, mods and upgrades. W
         </ol>
       </div>
 <!--   End of column     -->
-   
-   
+
+
         </ol>
 
 
-      <br><br><br>       
+      <br><br><br>
       </div>
 <!--   End of column     -->
 

@@ -1,7 +1,7 @@
 .navbar-custom {
   background-color: #24BCF9;
   width: 100%;
-  min-height: 7vh;
+  max-height: 9vh;
   margin: 0 auto;
 }
 // inset 0px 0px 40px 0px rgba(0,0,0,0.4),
@@ -10,7 +10,7 @@
     color: black;
     font-weight: 600;
     font-size: 19px;
-    font-family: Montserrat, sans-serif;
+    font-family: sans-serif;
 }
 @media (max-width: 990px) {
   .navbar-custom {

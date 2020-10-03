@@ -1,10 +1,10 @@
 - name: Home
   link: /
-- name: Entertainment-VR
-  link: /vr-entertain/
+- name:
+  link: /blog/
+- name: EntertainmentVR
+  link: /fun-vr/
 - name: Mods
   link: /mods/
-- name: How-To
-  link: /how-to/
-- name: NewsLetter
-  link: /newsletter/
+- name: More
+  link: /more/
