@@ -14,22 +14,22 @@ description: ChelOverboard is your complete guide to games, mods and upgrades. W
 <!--</div> -->
   <!--Main container-->
     <div class="container homepage">
-      {% for post in site.posts %}
+      {% for post in site.posts limit:3 %}
         {% if post.path contains 'games' %}
         <div class="row">
           <div class="col-md-8">
           <div class="card">
-            <a href="{{ site.post.first.url }}"><img defer class="card-img-top img-fluid" src="{{ site.post.first.img-src }}.webp" alt="{{ post.img-alt }}"></a>
+            <a href="{{ post.url }}"><img defer class="card-img-top img-fluid" src="{{ post.img-src }}.webp" alt="{{ post.img-alt }}"></a>
             <div class="card-body">
-              <h4 class="card-title"><a href="{{ site.post.first.url }}" class="game-title">{{ site.post.first.title }}</a></h4>
+              <h4 class="card-title"><a href="{{ post.url }}" class="game-title">{{ .post.title }}</a></h4>
             </div>
           </div>
               <div class="row">
                 <div class="col-md-6">
                 <div class="card">
-                  <a href="{{ site.post.second.url }}"><img defer class="card-img-top img-fluid" src="{{ site.post.second.img-src }}.webp" alt="{{ post.img-alt }}"></a>
+                  <a href="{{ post.url }}"><img defer class="card-img-top img-fluid" src="{{ post.img-src }}.webp" alt="{{ post.img-alt }}"></a>
                   <div class="card-body">
-                    <h4 class="card-title"><a href="{{ site.post.second.url }}" class="game-title">{{ site.post.second.title }}</a></h4>
+                    <h4 class="card-title"><a href="{{ post.url }}" class="game-title">{{ post.title }}</a></h4>
                   </div>
                 </div>
                 </div>
