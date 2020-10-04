@@ -14,7 +14,8 @@ description: ChelOverboard is your complete guide to games, mods and upgrades. W
 <!--</div> -->
   <!--Main container-->
     <div class="container homepage">
-        {% if post.path contains 'games' | limit: 4 %}
+      {% for post in site.posts %}
+        {% if post.path contains 'games' %}
         <div class="row">
           <div class="col-md-8">
           <div class="card">
