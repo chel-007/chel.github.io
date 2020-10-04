@@ -14,7 +14,7 @@ description: ChelOverboard is your complete guide to games, mods and upgrades. W
 <!--</div> -->
   <!--Main container-->
     <div class="container homepage">
-      {% for post in site.posts limit:3 %}
+      {% for post in site.posts limit:1 %}
         {% if post.path contains 'games' %}
         <div class="row">
           <div class="col-md-8">
@@ -24,6 +24,10 @@ description: ChelOverboard is your complete guide to games, mods and upgrades. W
               <h4 class="card-title"><a href="{{ post.url }}" class="game-title">{{ .post.title }}</a></h4>
             </div>
           </div>
+          {% endif %}
+          {% endfor %}
+          {% for post in site.posts offset:1 limit:1 %}
+            {% if post.path contains 'games' %}
               <div class="row">
                 <div class="col-md-6">
                 <div class="card">
@@ -33,6 +37,10 @@ description: ChelOverboard is your complete guide to games, mods and upgrades. W
                   </div>
                 </div>
                 </div>
+                {% endif %}
+                {% endfor %}
+                {% for post in site.posts offset:2 limit:1 %}
+                  {% if post.path contains 'games' %}
                 <div class="col-md-6">
                 <div class="card">
                   <a href="{{ post.url }}"><img defer class="card-img-top img-fluid" src="{{ post.img-src }}.webp" alt="{{ post.img-alt }}"></a>
@@ -43,6 +51,10 @@ description: ChelOverboard is your complete guide to games, mods and upgrades. W
                 </div>
               </div>
             </div>
+            {% endif %}
+            {% endfor %}
+            {% for post in site.posts offset:3 limit:1 %}
+              {% if post.path contains 'games' %}
             <div class="col-md-4">
             <div class="card">
               <a href="{{ post.url }}"><img defer class="card-img-top img-fluid" src="{{ post.img-src }}.webp" alt="{{ post.img-alt }}"></a>
