@@ -14,22 +14,21 @@ description: ChelOverboard is your complete guide to games, mods and upgrades. W
 <!--</div> -->
   <!--Main container-->
     <div class="container homepage">
-      {% for post in site.posts %}
         {% if post.path contains 'games' | limit: 4 %}
         <div class="row">
           <div class="col-md-8">
           <div class="card">
-            <a href="{{ post.url }}"><img defer class="card-img-top img-fluid" src="{{ post.img-src }}.webp" alt="{{ post.img-alt }}"></a>
+            <a href="{{ site.post.first.url }}"><img defer class="card-img-top img-fluid" src="{{ site.post.first.img-src }}.webp" alt="{{ post.img-alt }}"></a>
             <div class="card-body">
-              <h4 class="card-title"><a href="{{ post.url }}" class="game-title">{{ post.title }}</a></h4>
+              <h4 class="card-title"><a href="{{ site.post.first.url }}" class="game-title">{{ site.post.first.title }}</a></h4>
             </div>
           </div>
               <div class="row">
                 <div class="col-md-6">
                 <div class="card">
-                  <a href="{{ post.url }}"><img defer class="card-img-top img-fluid" src="{{ post.img-src }}.webp" alt="{{ post.img-alt }}"></a>
+                  <a href="{{ site.post.second.url }}"><img defer class="card-img-top img-fluid" src="{{ site.post.second.img-src }}.webp" alt="{{ post.img-alt }}"></a>
                   <div class="card-body">
-                    <h4 class="card-title"><a href="{{ post.url }}" class="game-title">{{ post.title }}</a></h4>
+                    <h4 class="card-title"><a href="{{ site.post.second.url }}" class="game-title">{{ site.post.second.title }}</a></h4>
                   </div>
                 </div>
                 </div>
@@ -53,8 +52,7 @@ description: ChelOverboard is your complete guide to games, mods and upgrades. W
             </div>
           </div>
           {% endif %}
-          {% endfor %}
-          
+
    <div class="mydownloadbox">
   <b class="downloadlinks">Sign up Today <span class="premiumlinks">Become a Member of ChelOverboard (Receive Updates from Us)</span>:<button type="button" class="btn btn-success" onclick="window.location.href = 'http://eepurl.com/gQ1lOf';">SIGN UP</button></b></li><br>
   <p>By subscribing , you receive emails and direct links to new MODs uploaded.We don’t spam your email. You receive only relevant emails. Thanks.
