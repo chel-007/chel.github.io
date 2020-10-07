@@ -13,10 +13,10 @@ description: ChelOverboard is your complete guide to games, mods and upgrades. W
   </a> -->
 <!--</div> -->
   <!--Main container-->
-    <div class="container homepage">
+    <div class="container-fluid homepage">
       {% for post in site.posts limit:1 %}
         {% if post.path contains 'games' %}
-        <div class="row">
+        <div class="row index-posts">
           <div class="col-md-8">
           <div class="card">
             <a href="{{ post.url }}"><img defer class="card-img-top img-fluid" src="{{ post.img-src }}.webp" alt="{{ post.img-alt }}"></a>

@@ -1,8 +1,8 @@
 ---
 layout: post-blog
 author: Chel
-title: 10 Things you must know before starting VR Development in 2020
-seo: vr headsets oculus quest oculus go gear vr unity oculus game development oculus software vr tools vr software vr development unity vr unreal engine vr
+title: 10 Things you must absolutely know before starting VR Development in 2020
+seo: vr headsets oculus quest oculus go gear vr unity oculus game development oculus software vr tools vr software vr development unity vr unreal engine vr vr games on oculus
 description: Do you want to become a full-fledged virtual reality developer and make money from your games?. I know you do. Here's one thing, starting off on the wrong foot can make it very tough for you to attain that level in the expected amount of time before you lose the passion you once had. Here's why
 img-src: ../assets\images\Blog\vrdev-essential
 ---
@@ -163,6 +163,3 @@ You can get a valuable set of tools when you use Unity, e.g.:
 
 
 The 5 Virtual Reality development tools I have described above can help, however, developing a VR solution can be complex. With this guidelines and steps in VR development, you should be able to start your journey for what purpose you have. This is a lengthy article and as such, you might have questions circling your mind. The comments section is provided just for that reason, and don't hesitate to leave me a question. Thanks Chel_
-
-
-

@@ -2,7 +2,7 @@
 layout: post-blog
 author: Chel
 title: 10 Best Room-Scale VR Games to Play in 2020
-seo: room-scale vr oculus quest vr games best vr games vr best games games for virtual reality new vr oculus rift free game vr vr games free
+seo: room-scale vr oculus quest vr games best vr games vr best games games for virtual reality new vr oculus rift free game vr vr games free best free vr games steam vr
 description: Room-Scale vr is the most immersive of all VR games available today. In this post we filtered from all the releases seen in 2020, to compile for you the best that you can play right now.
 img-src: ../assets\images\Blog\vrgames_roomscale
 ---
@@ -13,14 +13,14 @@ VR Games is the new trend for gamers all over the world. Just like regular games
 <h3>Room-Scale VR( Gentle Introduction)</h3>
 Cited from <a href="https://en.wikipedia.org/wiki/Room_scale">Wikipedia</a>: Room-scale is a design model for virtual reality (VR) experiences which allows users to freely walk around a play area, with their real-life motion reflected in the VR environment. Using 360 degree tracking equipment such as infrared sensors, the VR system monitors the user's movement in all directions, and translates this into the virtual world in real-time. This allows the player to perform tasks, such as walking across a room and picking up a key from a table, using natural movements. In contrast, a stationary VR experience might have the player navigate across the room using a joystick or other input device.
 
-The <a href="">HTC Vive</a> virtual-reality system incorporates room-scale tracking in its core design, using two infrared tracking stations located in opposite corners of the room to monitor the movement of the player.
+The <a href="https://www.vive.com/eu/">HTC Vive</a> virtual-reality system incorporates room-scale tracking in its core design, using two infrared tracking stations located in opposite corners of the room to monitor the movement of the player.
 
-The <a href="">Oculus Rift VR system</a> was introduced primarily for front facing 180 degree experiences. However, Oculus now supports two sensor diagonal placement roomscale or users can purchase a third sensor to enable more robust room-scale tracking.
+The <a href="https://www.oculus.com/rift/">Oculus Rift VR system</a> was introduced primarily for front facing 180 degree experiences. However, Oculus now supports two sensor diagonal placement roomscale or users can purchase a third sensor to enable more robust room-scale tracking.
 
 Now that you have a better understanding of room-sclae vr and how it differs from Stationary VR/ Seated VR, Browse through our list of Top best Room Scale VR Games in 2020 that you can derive best immersion and satisfaction.
 
 <h3>Hardware for VR Gaming</h3>
-Our list of room-scale vr games covers the top new titles for the HTC Vive, Oculus Quest, Oculus Rift S (the successor to the Oculus Rift), PlayStation VR, Valve Index, and Windows Mixed Reality headsets. Many of these devices (and the games themselves) have gotten cheaper in the past couple of years, which makes them a more easily justifiable purchase. 
+Our list of room-scale vr games covers the top new titles for the HTC Vive, Oculus Quest, Oculus Rift S (the successor to the Oculus Rift), PlayStation VR, Valve Index, and Windows Mixed Reality headsets. Many of these devices (and the games themselves) have gotten cheaper in the past couple of years, which makes them a more easily justifiable purchase.
 Gamers using Headsets like the HTC Vive, Oculus Quest, Oculus Rift S, Valve Index and Windows Mixed Reality has to consider the hardware requirements for them. For the best experience use top-of-the-line-GPUs mounted on powerful gaming desktops or VR-ready laptops.
 
 
@@ -197,7 +197,7 @@ Solidarity, rivalry, cooperation, confrontation: enjoy virtual reality from a ne
 <hr>
 
 
-That brings us to the end of the list. Among them, the best Room Scale VR games to play in 2020. This list is ranked based on positive reviews, graphics, game time length, physics and a few other designs. Spoiler, most games in the list have a price tag on them and if you are like me, you are probably thinking "aren't there any top but <b>free</b> Vr games around"?. Lucky for us, some developers open their games for everyone to play for free. 
+That brings us to the end of the list. Among them, the best Room Scale VR games to play in 2020. This list is ranked based on positive reviews, graphics, game time length, physics and a few other designs. Spoiler, most games in the list have a price tag on them and if you are like me, you are probably thinking "aren't there any top but <b>free</b> Vr games around"?. Lucky for us, some developers open their games for everyone to play for free.
 
 <h5 style="text-align: center;"><b>What about Free Room-Scale Games?</b></h5>
 The number of titles available for free room-scale vr currently pales in comparison to what you can find when you have some dollars to spend. That said, there are a few titles worth checking out:

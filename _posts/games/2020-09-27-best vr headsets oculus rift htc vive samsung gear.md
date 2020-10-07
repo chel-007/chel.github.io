@@ -1,14 +1,14 @@
 ---
 layout: post-blog
 author: Chel
-title: The Essential List of things to consider before buying a VR headset
-seo: vr headsets oculus quest oculus go gear vr vr games new vr mobile vr android vr games 2020 vr headset nitendo switch ve headset for android oculus go samsung gear vr best vr headsets
-description: VR is the new drill for gamers, with it comes much hassel about what is the trend, how to keep up with it. To be honest it can leave you significantly unsatisfied with the coices you make wheter. That's what the new rave of VR is meant to create among gamers and developers. Should it be this way? - Probably Yes, it at all a thing is exciting enough people should be ready to chop their heads off for it (unrealistcally). Is this healthy for you , Mentally and Financially so - Certainly not XD. What were you expecting me to say. My aim for this article is to provide a comprehensive guide that would direct your thoughts into making the best choice for you "Cause"
+title: Before buying a VR headset in 2020 here are the Essential List of things to consider
+seo: cheap vr headsets amazon ve headsets vr headsets oculus quest oculus go gear vr vr games new vr mobile vr android vr games 2020 vr headset nitendo switch ve headset for android oculus go samsung gear vr best vr headsets
+description: VR is the new drill for gamers, with it comes much hassel about what is the trend and how to keep up with it. To be honest it can leave you significantly unsatisfied with the choices you make . That's what the ongoing excitement around VR is meant to create among gamers and developers. Should it be this way? - Probably Yes, if at all a thing is exciting enough people should be ready to chop their heads off for it (virtually so). Is this healthy for you , Mentally and Financially so - Certainly not XD. What were you expecting me to say. My aim for this article is to provide a comprehensive guide that would direct your thoughts into making the best choice for your "Cause"
 img-src: ../assets\images\Blog\vressential
 ---
 
-VR is the new drill for gamers, with it comes much hassel about what is the trend, how to keep up with it. To be honest it can leave you significantly unsatisfied with the coices you make wheter. That's what the new rave of VR is meant to create among gamers and developers. Should it be this way? - Probably Yes, it at all a thing is exciting enough people should be ready to chop their heads off for it (unrealistcally). Is this healthy for you , Mentally and Financially so - Certainly not XD. What were you expecting me to say. My aim for this article is to provide a comprehensive guide that would direct your thougfhts into making the best choice for you "Cause".
 
+VR is the new drill for gamers, with it comes much hassel about what is the trend and how to keep up with it. To be honest it can leave you significantly unsatisfied with the choices you make . That's what the ongoing excitement around VR is meant to create among gamers and developers. Should it be this way? - Probably Yes, if at all a thing is exciting enough people should be ready to chop their heads off for it (virtually so). Is this healthy for you , Mentally and Financially so - Certainly not XD. What were you expecting me to say. My aim for this article is to provide a comprehensive guide that would direct your thoughts into making the best choice for your "Cause".
 
 These are the steps guiding us through this article:
 <h3>Overview</h3>
