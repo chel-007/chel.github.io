@@ -1,9 +1,9 @@
 /*! Bootstrap v4.0.0 (https://getbootstrap.com) Copyright 2011-2018 The Bootstrap Authors Copyright 2011-2018 Twitter, Inc. Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE) */
-.navbar-custom { background-color: #24BCF9; width: 100%; min-height: 8vh; margin: 0 auto; box-shadow: inset 0px 0px 40px 0px rgba(0, 0, 0, 0.4), -5px 3px 20px 3px rgba(0, 0, 0, 0.7); }
+.navbar-custom { background-color: #24BCF9; width: 100%; max-height: 13vh; margin: 0 auto; }
 
-.navbar-custom div ul a { color: black; font-weight: 600; font-size: 19px; font-family: Montserrat, sans-serif; }
+.navbar-custom div ul a { color: black; font-weight: 600; font-size: 19px; font-family: sans-serif; }
 
-@media (max-width: 990px) { .navbar-custom { min-height: 46px; box-shadow: inset 0px 0px 15px 0px rgba(0, 0, 0, 0.4), -5px 0px 10px 3px rgba(0, 0, 0, 0.6); } }
+@media (max-width: 990px) { .navbar-custom { min-height: 46px; } }
 
 .navbar-custom div ul a { margin-left: 60px; }
 
@@ -30,6 +30,12 @@ body { font-family: sans-serif; font-size: 21px; }
 .social-icons { display: inline-block; padding: 1rem; font: normal normal normal normal 55px/1 FontAwesome; }
 
 .learn-create-consult { list-style-type: none; padding: 0px; }
+
+.post-title { color: black; text-decoration: none; font-family: cursive; font-weight: 600; }
+
+div:hover > .post-title { color: #24BCF9; text-decoration: none; }
+
+.newsletter { text-align: center; background-color: #C1C1C1; }
 
 /* End of ChelOverboard HomePage CSS */
 /* Games Page */
@@ -2131,11 +2137,11 @@ a.text-dark:hover, a.text-dark:focus { color: #1d2124 !important; }
 
 @media print { *, *::before, *::after { text-shadow: none !important; box-shadow: none !important; } a:not(.btn) { text-decoration: underline; } abbr[title]::after { content: " (" attr(title) ")"; } pre { white-space: pre-wrap !important; } pre, blockquote { border: 1px solid #999; page-break-inside: avoid; } thead { display: table-header-group; } tr, img { page-break-inside: avoid; } p, h2, h3 { orphans: 3; widows: 3; } h2, h3 { page-break-after: avoid; } @page { size: a3; } body { min-width: 992px !important; } .container { min-width: 992px !important; } .navbar { display: none; } .badge { border: 1px solid #000; } .table { border-collapse: collapse !important; } .table td, .table th { background-color: #fff !important; } .table-bordered th, .table-bordered td { border: 1px solid #ddd !important; } }
 
-.navbar-custom { background-color: #24BCF9; width: 100%; min-height: 8vh; margin: 0 auto; box-shadow: inset 0px 0px 40px 0px rgba(0, 0, 0, 0.4), -5px 3px 20px 3px rgba(0, 0, 0, 0.7); }
+.navbar-custom { background-color: #24BCF9; width: 100%; max-height: 13vh; margin: 0 auto; }
 
-.navbar-custom div ul a { color: black; font-weight: 600; font-size: 19px; font-family: Montserrat, sans-serif; }
+.navbar-custom div ul a { color: black; font-weight: 600; font-size: 19px; font-family: sans-serif; }
 
-@media (max-width: 990px) { .navbar-custom { min-height: 46px; box-shadow: inset 0px 0px 15px 0px rgba(0, 0, 0, 0.4), -5px 0px 10px 3px rgba(0, 0, 0, 0.6); } }
+@media (max-width: 990px) { .navbar-custom { min-height: 46px; } }
 
 .navbar-custom div ul a { margin-left: 60px; }
 
@@ -2162,6 +2168,12 @@ body { font-family: sans-serif; font-size: 21px; }
 .social-icons { display: inline-block; padding: 1rem; font: normal normal normal normal 55px/1 FontAwesome; }
 
 .learn-create-consult { list-style-type: none; padding: 0px; }
+
+.post-title { color: black; text-decoration: none; font-family: cursive; font-weight: 600; }
+
+div:hover > .post-title { color: #24BCF9; text-decoration: none; }
+
+.newsletter { text-align: center; background-color: #C1C1C1; }
 
 /* End of ChelOverboard HomePage CSS */
 /* Games Page */

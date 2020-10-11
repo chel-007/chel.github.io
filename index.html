@@ -7,7 +7,7 @@ description: ChelOverboard is your complete guide to games, mods and upgrades. W
 <!--Mask with wave-->
 <!-- <div class="view overlay">
   <img defer src="/assets/images/Home/Anime-wallpaper-10 (2).webp" class="img-fluid" alt="ChelOverboard Homepage: Home of Mods" width="100%" height="60vh">
- <!--  width="100%" height="30vh" -->
+ width="100%" height="30vh" -->
   <!-- <a>
     <div class="mask waves-effect rgba-white-slight"></div>
   </a> -->
@@ -17,68 +17,95 @@ description: ChelOverboard is your complete guide to games, mods and upgrades. W
       {% for post in site.posts limit:1 %}
         {% if post.path contains 'games' %}
         <div class="row index-posts">
-          <div class="col-md-8">
+          <div class="col-md-7">
           <div class="card">
-            <a href="{{ post.url }}"><img defer class="card-img-top img-fluid" src="{{ post.img-src }}.webp" alt="{{ post.img-alt }}"></a>
-            <div class="card-body">
-              <h4 class="card-title"><a href="{{ post.url }}" class="game-title">{{ .post.title }}</a></h4>
-            </div>
+            <a class="post-title" href="{{ post.url }}"><img defer class="card-img-top img-fluid" src="{{ post.img-src }}.webp" alt="{{ post.img-alt }}"><h4>{{ post.title }}</h4></a>
           </div>
+        </div>
           {% endif %}
           {% endfor %}
+          {% for post in site.posts offset:3 limit:1 %}
+              {% if post.path contains 'games' %}
+            <div class="col-md-5">
+            <div class="card">
+            <a class="post-title" href="{{ post.url }}"><img defer class="card-img-top img-fluid" src="{{ post.img-src }}.webp" alt="{{ post.img-alt }}" height="100vh"><h4>{{ post.title }}</h4></a>
+          </div>
+        </div>
+          </div>
+            {% endif %}
+            {% endfor %}
+
           {% for post in site.posts offset:1 limit:1 %}
             {% if post.path contains 'games' %}
               <div class="row">
-                <div class="col-md-6">
+                <div class="col-md-4">
                 <div class="card">
-                  <a href="{{ post.url }}"><img defer class="card-img-top img-fluid" src="{{ post.img-src }}.webp" alt="{{ post.img-alt }}"></a>
-                  <div class="card-body">
-                    <h4 class="card-title"><a href="{{ post.url }}" class="game-title">{{ post.title }}</a></h4>
+                  <a class="post-title" href="{{ post.url }}"><img defer class="card-img-top img-fluid" src="{{ post.img-src }}.webp" alt="{{ post.img-alt }}" height="100vh"><h4>{{ post.title }}</h4></a>
                   </div>
-                </div>
                 </div>
                 {% endif %}
                 {% endfor %}
                 {% for post in site.posts offset:2 limit:1 %}
                   {% if post.path contains 'games' %}
-                <div class="col-md-6">
+                <div class="col-md-4">
                 <div class="card">
-                  <a href="{{ post.url }}"><img defer class="card-img-top img-fluid" src="{{ post.img-src }}.webp" alt="{{ post.img-alt }}"></a>
-                  <div class="card-body">
-                    <h4 class="card-title"><a href="{{ post.url }}" class="game-title">{{ post.title }}</a></h4>
+                  <a class="post-title" href="{{ post.url }}"><img defer class="card-img-top img-fluid" src="{{ post.img-src }}.webp" alt="{{ post.img-alt }}" height="100vh"><h4>{{ post.title }}</h4></a>
                   </div>
                 </div>
-                </div>
-              </div>
-            </div>
-            {% endif %}
-            {% endfor %}
-            {% for post in site.posts offset:3 limit:1 %}
+              {% endif %}
+              {% endfor %}
+                {% for post in site.posts offset:4 limit:1 %}
               {% if post.path contains 'games' %}
             <div class="col-md-4">
             <div class="card">
-              <a href="{{ post.url }}"><img defer class="card-img-top img-fluid" src="{{ post.img-src }}.webp" alt="{{ post.img-alt }}"></a>
-              <div class="card-body">
-                <h4 class="card-title"><a href="{{ post.url }}" class="game-title">{{ post.title }}</a></h4>
+              <a class="post-title" href="{{ post.url }}"><img defer class="card-img-top img-fluid" src="{{ post.img-src }}.webp" alt="{{ post.img-alt }}" height="80px;"><h4>{{ post.title }}</h4></a>
               </div>
-            </div>
             </div>
           </div>
           {% endif %}
           {% endfor %}
+</div>
 
-   <div class="mydownloadbox">
-  <b class="downloadlinks">Sign up Today <span class="premiumlinks">Become a Member of ChelOverboard (Receive Updates from Us)</span>:<button type="button" class="btn btn-success" onclick="window.location.href = 'http://eepurl.com/gQ1lOf';">SIGN UP</button></b></li><br>
-  <p>By subscribing , you receive emails and direct links to new MODs uploaded.We don’t spam your email. You receive only relevant emails. Thanks.
-  </p></div><!--   Main Row     -->
-      <div class="row">
-<!--      Column    -->
+
+<p style="clear: both;"></p>
+
+<div style="padding: 15px;" class="container-fluid newsletter">
+  <form>
+    <h4 style="font-family: sans-serif; font-weight: 600;">Subscribe to ChelOverboard Newsletter</h4>
+  <div class="form-group row">
+  <div class="col-lg-3"></div>
+    <div class="col-lg-6 col-sm-10">
+      <input type="email" height="10vh;" class="form-control" id="inputEmail3" placeholder="Your email:">
+    </div>
+  </div>
+
+  <div class="form-group row">
+    <div class="col-lg-3"></div>
+    <div class="col-lg-6 col-sm-10">
+      <input type="text" class="form-control" id="inputUsername3" placeholder="Username:">
+    </div>
+  </div>
+  <div class="form-group row">
+    <div class="col-lg-3"></div>
+    <div class="col-lg-6 col-sm-10">
+    <button type="submit" class="btn btn-danger">SUBSCRIBE</button>
+    <p style="font-size: 11px;">By clicking ‘Subscribe’, I consent to ChelOverboard sending me occasional promotional offers to this email address.
+    I understand that my information will be subject to this <a href="https://cheloverboard.netlify.app/privacy">Privacy Policy</a>.</p>
+    </div>
+  </div>
+  </div>
+</form>
+</div>
+
+
+
+      <!-- <div class="row">
      <div class="col-md-12">
      	<h1 class="intro-home">ChelOverboard HomePage</h1>
        <hr style="border: 1.5px black solid;" width="85%">
        <p>In this website we provide you MODs on various Simulation Games and plan to expand to other Gaming Categories, we also have a page dedicated to releasing Comic Books for you our Users. We have a Channel and a Discord Server where like Minded people talk, share ideas and help each other out. Want to become a part of this society? <span style="font-weight: bold">Join us on Youtube and Discord to keep up with future uploads and contents!.</span></p>
    <br><br><br>
-    </div>
+    </div> -->
 <!--    End of Column      -->
 
 <!--     Column     -->
@@ -100,29 +127,15 @@ description: ChelOverboard is your complete guide to games, mods and upgrades. W
            <li><h3>Follow Our Discord</h3></li>
           <li>Get connected to us on Discord. Here you can interact with and get assistance from other subscribers and friends. Use discord app or through the website, add ChelOverboard as a server using this invite link <a href="https://discord.gg/fcCf2JD" style="color: #7289da;">Discord</a></li>
         </ol>
-      </div>
-<!--   End of column     -->
-
-
-        </ol>
-
-
-      <br><br><br>
-      </div>
-<!--   End of column     -->
-
-<!-- Column -->
+        </div>
+       </ol>
+      <br><br>
+    </div>
 <div class="col-md-12">
 	<h1 class="intro-home">Request for MODs</h1>
        <hr style="border: 1.5px black solid;" width="85%">
        <p>Can't find a game you would love to see on the website, Simply leave us the name by visiting our MODs Request page. We should get back to you as soon as we can to give you details on when you should see the MOD available for download. Use this Link to visit our  <span style="font-weight: bold"><a href="https://cheloverboard.netlify.app/connect/" style="color: black;">Request MODs Page</a></span></p>
    <br><br><br>
-    </div>
-<!--    End of Column      -->
-
-
-
+  </div>
+  </div>
 </div>
-
-</div>
-<!-- End of Row -->
