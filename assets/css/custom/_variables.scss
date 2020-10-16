@@ -129,30 +129,14 @@ h4:hover > .game-title{
 
 
 /* End of Footer's CSS */
-
-ul.pager {
-  list-style: none;
-  width: 100%;
-
-  li {
-    display: inline;
-    padding: 7px 7px 7px 10px;
-    border-color: #BABDB6;
-    border-style: solid;
-    border-radius: 3px;
-    border-width: 1px;
-
-  }
-
-  li.selected {
-    background-color: #EEEEFF;
-  }
+.footer-list {
+  color: white;
 }
-ul:hover > li {
+footer div ul li a {
+  color: #24BCF9;
+}
+footer:hover > div ul li a {
   text-decoration: none;
-}
-.paypal-donate {
-  text-align: center;
 }
 /* Footer's CSS */
 .footer-style {

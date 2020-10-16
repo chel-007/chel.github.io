@@ -59,15 +59,11 @@ h4:hover > .game-title { color: #24BCF9; }
 
 /* End of Individual Post Page*/
 /* End of Footer's CSS */
-ul.pager { list-style: none; width: 100%; }
+.footer-list { color: white; }
 
-ul.pager li { display: inline; padding: 7px 7px 7px 10px; border-color: #BABDB6; border-style: solid; border-radius: 3px; border-width: 1px; }
+footer div ul li a { color: #24BCF9; }
 
-ul.pager li.selected { background-color: #EEEEFF; }
-
-ul:hover > li { text-decoration: none; }
-
-.paypal-donate { text-align: center; }
+footer:hover > div ul li a { text-decoration: none; }
 
 /* Footer's CSS */
 .footer-style { background-color: #222F34; padding: 17px; }
@@ -2197,15 +2193,11 @@ h4:hover > .game-title { color: #24BCF9; }
 
 /* End of Individual Post Page*/
 /* End of Footer's CSS */
-ul.pager { list-style: none; width: 100%; }
+.footer-list { color: white; }
 
-ul.pager li { display: inline; padding: 7px 7px 7px 10px; border-color: #BABDB6; border-style: solid; border-radius: 3px; border-width: 1px; }
+footer div ul li a { color: #24BCF9; }
 
-ul.pager li.selected { background-color: #EEEEFF; }
-
-ul:hover > li { text-decoration: none; }
-
-.paypal-donate { text-align: center; }
+footer:hover > div ul li a { text-decoration: none; }
 
 /* Footer's CSS */
 .footer-style { background-color: #222F34; padding: 17px; }
