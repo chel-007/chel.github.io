@@ -134,18 +134,15 @@ h4:hover > .game-title{
 }
 footer div ul li a {
   color: #24BCF9;
+  font-size: 17px;
 }
 footer:hover > div ul li a {
   text-decoration: none;
 }
 /* Footer's CSS */
-.footer-style {
-  background-color: #222F34;
-  padding: 17px;
-}
-.copyright {
-  background-color: #23271F;
-  color: #5C6365;
+.footer-copyright {
+  color: white;
+  text-decoration: none;
 }
 .site-n-privacy {
   color: white;
