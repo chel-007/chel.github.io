@@ -116,6 +116,78 @@ While the graphics are not robust, don't let that full you. In reality, the batt
 <br>
 If you have the competitive and strategic mindset, War dust is the only VR game currently that can give you as much satisfaction you can get from action-strategy. So don't miss the chance to compete!
 <br>
-Wardust supports all the major VR headsets exempting Windows Mixed Reality</p>
-<p><strong>Link:</strong> <a href="https://store.steampowered.com/app/957790/WAR_DUST__32_vs_32_Battles/">Steam</a> (Oculus Rift, HTC Vive, Valve Index)</p>
+Wardust supports all the major VR headsets</p>
+<p><strong>Link:</strong> <a href="https://store.steampowered.com/app/957790/WAR_DUST__32_vs_32_Battles/">Steam</a> (Oculus Rift, HTC Vive, Valve Index, Windows Mixed Reality)</p>
 <hr />
+
+
+
+<h5 style="font-weight: 600;">Tales Of Glory</h5>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D6jRgABS_is" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p>This is a medieval vr fantasy game set around the world of battle between towns. The special thing about this game is it's ability to engage in melee attacks with realistic physics.
+<br>
+One more reason I love this game, is that altghough it's a battle ship game, you can experience other environments like the bar and club.
+<br>
+In your missions, you don;t just fight, you can ride an horse, run, shoot an arrow, in fact almost everything that a real-life battle brings with it.
+<br>
+Already Interested? You should. If you're looking for an exciting and adventurous Vr title with many activities, this game has it all - plus it is packed with 30 hours of game time exploring medieval worlds and protecting your lands. Shoot!
+
+Still having some doubt- read this review by UploadVR
+<br>
+<i>“Mount & Blade is an extremely popular and successful series of medieval simulation games in which you raise an army, conquer kingdoms, and engage in epic, intense battles with dozens of troops around you. From sieges to horseback rampages, it’s got it all. Tales of Glory is basically that, but in VR.”
+UPLOAD VR</i>
+<br>
+
+Tales of Glory supports all the major VR headsets exempting Windows Mixed Reality</p>
+<p><strong>Link:</strong> <a href="https://store.steampowered.com/app/636970/Tales_Of_Glory/">Steam</a> (Oculus Rift, HTC Vive, Valve Index, Windows Mixed Reality)</p>
+<hr />
+
+
+
+<h5 style="font-weight: 600;">ZomDay</h5>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OPASrEAXWsY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p>ZomDay is an outstanding Zombie Vr game. As zombie crisis broke out around the world,you will play one of the warrior of Special Event Action Team to fight against the zombies all over the world.ZomDay is a fast pace VR shooting game contains multi-player mod,exciting Boss fight,character perk and hardcore weapon system.
+<br>
+Relentless zombies will launch waves of attacks, the monsters will cooperate with each other, the battle will be harder and harder, you can use the drop Buff to temporarily improve the combat capability, or deal with the enemies by means of terrain. 
+<br>
+Yes, cheer up! Fight alongside your teammate! You can join an open game at any time! You will feel quite different under on-line mode: you can make an attack formation together with your teammate as a defense for the incoming monsters, help your teammate such as buy bullets and weapons, and give your teammate your weapon
+
+<br>
+
+ZomDay supports all the major VR headsets exempting Windows Mixed Reality</p>
+<p><strong>Link:</strong> <a href="https://store.steampowered.com/app/681390/ZomDay/?snr=1_7_7_230_150_5">Steam</a> (Oculus Rift, HTC Vive, Valve Index, Windows Mixed Reality)</p>
+<hr />
+
+
+<h5 style="font-weight: 600;">Boiling Steel</h5>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MZQy_tzyQWg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p>You are one of many who set off in search of a better life in the distant bastion of scientific progress. Your goal is a colony planet, free from bureaucratic, religious and other radical restrictions.
+<br>
+Here they research and freely use industrial teleportation, transfer of consciousness and other technologies prohibited in the inhabited worlds. Factories, power plants, mines and residential complexes of the planet are fully automated. All the dirty and hard work is done by robotic shells controlled by the operator’s mind. It is a high-tech paradise. But here, something went wrong.
+<br>
+As soon as you wake up from a long sleep in a capsule of hibernation, you fall into circulation. Radical fanatics are here too. A virus was launched into information networks that turned robots into aggressive death machines. The paradise planet plunged into the chaos of war. The inhabitants of the colony took the seats of the operators of robotic shells and sent their army of robots into battle. Joint efforts have borne fruit.
+<br>
+
+Boiling Steel supports all the major VR headsets exempting Windows Mixed Reality</p>
+<p><strong>Link:</strong> <a href="https://store.steampowered.com/app/1016860/Boiling_Steel/">Steam</a> (Oculus Rift, HTC Vive, Valve Index, Windows Mixed Reality)</p>
+<hr />
+
+
+<h5 style="font-weight: 600;">Rocking Legend</h5>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/arfqaR0GvK0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p>Rocking Legend is a musical game where you take the part of a virtual guitarrist immersed in beautiful and dynamic environments.
+<br>
+Choose from a selection of guitars and original rock/metal inspired instrumental songs and compete on the global leaderboards the way you like, with your preferred control scheme and a selection of gameplay modifiers.
+You can also play with custom songs (integrated editor and support for external .chart or .mid maps made with external tools).
+<br>
+
+Boiling Steel supports all the major VR headsets exempting Windows Mixed Reality</p>
+<p><strong>Link:</strong> <a href="https://store.steampowered.com/app/1260800/Rocking_Legend/">Steam</a> (Oculus Rift, HTC Vive, Valve Index, Windows Mixed Reality)</p>
+<hr />
+
+
+That brings us to the end of the list. Among them, the best Oculus Hand-tracking VR games to play in 2020. This list is ranked based on positive reviews, graphics, game time length, physics and a few other designs. Spoiler, most games in the list have a price tag on them and if you are like me, you are probably thinking "aren't there any top but <b>free</b> Vr games around"?. Lucky for us, some developers open their games for everyone to play for free. This list should reveal these top titles to you that you can play right now <a href="https://cheloverboard.netlify.app/free-vr-games-2020/">Best Free VR Games for 2020</a>
