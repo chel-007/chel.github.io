@@ -144,6 +144,14 @@ footer:hover > div ul li a {
   color: white;
   text-decoration: none;
 }
+@media (min-width: 979px) {
+  .footer-copyright {
+    float: center;
+}}
+@media (min-width: 979px) {
+  .netlify {
+    float: center;
+}}
 .site-n-privacy {
   color: white;
 }
