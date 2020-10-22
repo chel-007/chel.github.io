@@ -68,6 +68,10 @@ footer:hover > div ul li a { text-decoration: none; }
 /* Footer's CSS */
 .footer-copyright { color: white; text-decoration: none; }
 
+@media (min-width: 979px) { .footer-copyright { float: center; } }
+
+@media (min-width: 979px) { .netlify { float: center; } }
+
 .site-n-privacy { color: white; }
 
 div:hover > .site-n-privacy { color: white; text-decoration: none; }
@@ -2199,6 +2203,10 @@ footer:hover > div ul li a { text-decoration: none; }
 
 /* Footer's CSS */
 .footer-copyright { color: white; text-decoration: none; }
+
+@media (min-width: 979px) { .footer-copyright { float: center; } }
+
+@media (min-width: 979px) { .netlify { float: center; } }
 
 .site-n-privacy { color: white; }
 
