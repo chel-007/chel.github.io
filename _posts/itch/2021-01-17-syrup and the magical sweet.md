@@ -1,16 +1,12 @@
 ---
-layout: post-blog
+layout: indie
 comments: true
 author: chel
 seo: Syrup and the Magical Sweet
 description: Name> Syrup and the Magical Sweet! Version> Latest Free-To-Play Install> Install Steps> Download
 img-src: https://img.itch.zone/aW1hZ2UvNDEzOTkvODIxMTI3LnBuZw==/original/p4TI7q.png
 img-alt: She's My Vampire Mod Apk
-title:  Syrup and the Magical Sweet (Free-To-Play)
-image1: she'smyvamp-img1
-image2: she'smyvamp-img2
-image3: she'smyvamp-img3
-addinfo: shemyvamp.png
+title:  Syrup and the Magical Sweet
 downloadId: she-my-vampire
 developername: nomnomnami
 version: Latest
@@ -23,5 +19,3 @@ playstorelink: https://play.google.com/store/apps/details?id=com.nomnomnami.syru
 it's about a candy alchemist, syrup, who one day finds a candy golem in her basement workshop. where did she come from?? who the heck made her????? GO FIND OUT!! did i mention there are 10 endings because. that's right. 10 endings.
 
 content advisory: candy nudity. in some paths she gets eaten. in some paths characters die. there are a few quick screen shakes and flashes.
-
-<button><a href="https://nomnomnami.itch.io/syrup-and-the-ultimate-sweet/">Download</a></button>

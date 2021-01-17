@@ -1,0 +1,62 @@
+---
+layout: default
+---
+<div class="container games-page">
+<br>
+<!--   Beginning of Row   -->
+     <div class="row">
+  <div class="col-lg-9 col-sm-12">
+    <h1 class="post-header">{{ page.title | camellize }}</h1>
+    <p>{{post.tags}}</p>
+    <video poster="{{post.img-src}}.jpg" loop="loop" muted="muted" width="100%" height="auto"><source src="{{post.video-src}}" type="video/webm"><source src="{{ post.video-src }}.mp4" type="video/mp4"></video>
+
+    <p>
+        {% assign author = site.authors | where: 'short_name', page.author | first %}
+        {% if author %}
+        - <a href="{{ author.url }}">Post By {{ author.name }}</a>{% endif %}<p style="clear: left;">
+      </p>
+      <br>
+
+            {{ content }}
+
+        <a href="https://nomnomnami.itch.io/syrup-and-the-ultimate-sweet/" style="font-weight: bold; color: red; text-decoration: none;">Download {{page.title}} here</a>
+        </div>
+        </div>
+
+        <!-- End of Column -->
+
+
+        </div>
+     <!-- End of Row -->
+
+
+<div class="row">
+
+        {% if page.comments %} 
+<div id="disqus_thread"></div>
+<script async>
+jejhfdhcjdwkjcdk
+dkkjdjjd
+hdhhh
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+
+var disqus_config = function () {
+this.page.url = post.url;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = post.title; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://cheloverboard.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+{% endif %} 
+
+</div>
+ </div>
+ <!-- End of Main Container -->

@@ -1,27 +1,28 @@
 ---
 layout: default
 title: Indie Games Collection - ChelOverboard.com
-description:
+description: Collection of the Best Indie Free Games that you can not easily Find. Add filters, and choose from your Best Genres with simple Install Instructions and Updates!.
 pagination:
   enabled: true
 ---
-<h1 style="font-family: Montserrat, sans-serif; text-align: center; font-weight: 700; background-color: #24BCF9; padding: 40px; color: white; border-top: 2px solid black;">Indie Games Collection (Free from Itch)</h1>
-  <div class="container-fluid games-page">
+<h1 style="font-family: Montserrat, sans-serif; text-align: center; font-weight: 700; background-color: #24BCF9; padding: 40px; color: white; border-top: 2px solid black;">Indie Games Collection (Free For All)</h1>
+  <div class="container games-page">
   <br>
   <h5 style="font-family: Montserrat, sans-serif; font-weight: 600;">ALL GAMES</h5>
   {% for post in site.posts %}
     {% if post.path contains 'itch' %}
   <hr>
   <div class="row">
-  <div class="col-lg-8 col-sm-8">
-    <h4><a href="{{ post.url }}" class="game-title">{{ post.title }}</a></h4>
-    <p>{{ post.description | strip_html | strip_newlines | truncate: 208 }}</p>
+  <div class="col-lg-9 col-sm-12">
+    <h4><a href="{{ post.url }}" class="game-title">{{ post.title }} - Download Game</a></h4>
+    <p>{{post.tags}}</p>
+    <video poster="{{post.img-src}}.jpg" loop="loop" muted="muted" width="100%" height="auto"><source src="{{post.video-src}}" type="video/webm"><source src="{{ post.video-src }}.mp4" type="video/mp4"></video>
+    <p>{{ post.excerpt | strip_html | strip_newlines | truncate: 208 }}</p>
     <p style="clear: both">{{ post.date | date: "%b %-d, %Y" }}</p>
   </div>
 
-  <div class="col-lg-4 col-sm-4">
-    <a href="{{ post.url }}">
-    <img defer class="responsive p-2 bd-highlight borderaround" src="{{ post.img-src }}.webp" alt="{{ post.img-alt }}" width="330" height="200"></a>
+  <div class="col-lg-3 col-sm-12">
+    hhhhhhhhh
   </div>
 </div>
 {% endif %}
