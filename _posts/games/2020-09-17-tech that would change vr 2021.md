@@ -13,4 +13,4 @@ So you don't get bored fast, I decided to leave out the extra explanation on the
 
 First I would give simple introductions to the technologies in question, next a simple example from my imagination how they can be utilized in vr games starting 2021. Let's get started.
 
-<h3>5 Technology that would Transform VR Gaming</h3>
+<h3>5 Technology that would Transform VR Gaming</h3> vjjvjv
