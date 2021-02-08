@@ -1,62 +1,56 @@
 ---
 layout: default
 ---
-<div class="container games-page">
+<div class="container">
 <br>
 <!--   Beginning of Row   -->
      <div class="row">
   <div class="col-lg-9 col-sm-12">
     <h1 class="post-header">{{ page.title | camellize }}</h1>
     <p>{{post.tags}}</p>
-    <video poster="{{post.img-src}}.jpg" loop="loop" muted="muted" width="100%" height="auto"><source src="{{post.video-src}}" type="video/webm"><source src="{{ post.video-src }}.mp4" type="video/mp4"></video>
+    <!-- <img poster="{{post.img-src}}.jpg" loop="loop" muted="muted" width="100%" height="auto"><source src="{{post.video-src}}" type="video/webm"><source src="{{ post.video-src }}.mp4" type="video/mp4"></video> -->
+      <img defer class="img-fluid responsive" src="{{page.img-src}}" alt="">
 
     <p>
         {% assign author = site.authors | where: 'short_name', page.author | first %}
         {% if author %}
-        - <a href="{{ author.url }}">Post By {{ author.name }}</a>{% endif %}<p style="clear: left;">
+        - <a href="{{ author.url }}">Post By {{ author.name }}</a>{% endif %}<p style="clear: left;"></p>
       </p>
       <br>
-
+        <h3>About</h3>
             {{ content }}
 
-        <a href="https://nomnomnami.itch.io/syrup-and-the-ultimate-sweet/" style="font-weight: bold; color: red; text-decoration: none;">Download {{page.title}} here</a>
+
+      <img defer class="img-fluid" src="{{page.img-agn}}" alt=""> <br><br>
+        <h4>Watch on Youtube</h4>
+
+        <iframe class="responsive" width="560" height="315" src="{{page.youtube}}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br><br><br>
+
+        <h5 style="font-weight: bold" class="addinfo">Additional Information</h5>
+      <div class="addcont">
+      <ul class="unordered2">
+      <li>APP Name: {{ page.title }}</li>
+      <li>Developer: {{ page.developername }}</li>
+      <li>Current Version: {{ page.version }}</li>
+      <li>OS: {{ page.os }}</li>
+      <li>Free-To-Play</li>
+      <li>Size: {{ page.size }}
+      <li>Languages: {{ page.languages }}</li>
+      <li>Playstore Link: <a href="{{ page.playstorelink }}">Here</a></li>
+    </ul>
+ </div> 
+        <div class="d-grid gap-2">
+        <a class="btn btn-success btn-lg" href="{{page.gamelink}}" role="button">Download Here</a>
+        <br><br>
         </div>
         </div>
+        </div>
 
-        <!-- End of Column -->
+        <!-- End of Row -->
 
 
         </div>
-     <!-- End of Row -->
-
-
-<div class="row">
-
-        {% if page.comments %} 
-<div id="disqus_thread"></div>
-<script async>
-jejhfdhcjdwkjcdk
-dkkjdjjd
-hdhhh
-/**
-*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
-
-var disqus_config = function () {
-this.page.url = post.url;  // Replace PAGE_URL with your page's canonical URL variable
-this.page.identifier = post.title; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-};
-(function() { // DON'T EDIT BELOW THIS LINE
-var d = document, s = d.createElement('script');
-s.src = 'https://cheloverboard.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
-})();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-
-{% endif %} 
-
-</div>
- </div>
- <!-- End of Main Container -->
+     <!-- End of Container -->
+   </div>

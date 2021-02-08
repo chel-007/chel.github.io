@@ -3,13 +3,12 @@ layout: default
 title: Games (VR games), Top 10, Free-to-Play, Monthly Release | ChelOverboard
 description: Follow our Games Updates to get news on the latest games releases, reviews. We cover mainly PC and VR games.
 ---
-<h1 style="font-family: Montserrat, sans-serif; text-align: center; font-weight: 700; background-color: #24BCF9; padding: 40px; color: white; border-top: 2px solid black;">Website's Blog</h1>
-  <div class="container-fluid games-page">
+<h1 style="font-family: Montserrat, sans-serif; text-align: center; font-weight: 700; background-color: #24BCF9; padding: 68px; color: white; border-top: 2px solid black;">Our Latest Content</h1>
+  <div class="container-xl align-items-center justify-content-center">
   <br>
-  <h5 style="font-family: Montserrat, sans-serif; font-weight: 600;">LATEST ON GAMES</h5>
   {% for post in site.posts %}
-    {% if post.path contains 'games' %}
-  <hr>
+    <!-- {% if post.path contains 'games' %} -->
+
   <div class="row">
   <div class="col-lg-8 col-sm-8">
     <h4><a href="{{ post.url }}" class="game-title">{{ post.title }}</a></h4>
@@ -22,7 +21,7 @@ description: Follow our Games Updates to get news on the latest games releases, 
     <img defer class="responsive p-2 bd-highlight borderaround" src="{{ post.img-src }}.webp" alt="{{ post.img-alt }}" width="330" height="200"></a>
   </div>
 </div>
-{% endif %}
+<!-- {% endif %} -->
 {% endfor %}
   </div>
   <p style="clear: both;"></p>

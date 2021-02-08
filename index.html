@@ -3,121 +3,141 @@ layout: default
 title: The Latest Tech and Game Product Reviews, News, Tips and Deals |
 description: ChelOverboard is your complete guide to games, mods and upgrades. We test and review gaming products and services, report game-tech news and trends, .
 ---
-<div class="container-fluid homepage">
-  {% for post in site.posts limit:1 %}
-  {% if post.path contains 'games' %}
-    <div class="row index-posts">
-      <div class="col-md-7">
-          <a class="post-title" href="{{ post.url }}"><img defer class="card-img-top img-fluid" src="{{ post.img-src }}.webp" alt="{{ post.img-alt }}"><h4>{{ post.title }}</h4></a>
-      </div>
-  {% endif %}
-  {% endfor %}
 
-  <!-- New Post Filter -->
-  {% for post in site.posts offset:3 limit:1 %}
-  {% if post.path contains 'games' %}
-      <div class="col-md-5">
-        <div class="card">
-          <a class="post-title" href="{{ post.url }}"><img defer class="card-img-top img-fluid" src="{{ post.img-src }}.webp" alt="{{ post.img-alt }}" height="100vh"><h4>{{ post.title }}</h4></a>
-        </div>
+<body style="background-color: #EDEDED;">
+<div class="card bg-light text-white">
+  <img
+    src="assets/images/Home/home6.jpg"
+    class="card-img responsive"
+    alt="..."
+    height="430"
+  />
+  <div class="card-img-overlay outside-img">
+    <h5 style="font-size: 2vw;
+  font-family: 'cursive';
+  color: black;" class="card-title text-fir">Ahoy me Mateies! We are ChelOverboard and we Love Virtual Reality</h5>
+    <p class="card-text">
+      <h2 style="
+      font-family: 'Yusei Magic', sans-serif;
+  font-size: 4vw;
+  font-weight: 900;
+  color: black;" class="text-sec">For Everything In-Between, Hang Tight Here</h2>
+    </p>
+  </div>
+ </div> 
+
+
+<div style="padding-top: 3%;"></div>
+
+<div style="background-color: black;">
+  <div style="background-color: white;" class="container inside-img">
+    <div class="row">
+      <div style="padding-top: 3%;" class="col-md-7">
+    <h1 style="font-weight: 600; padding-right: 2%; color: black;" class="card-title">Vr Dev</h1>
+    <p class="card-text">
+      <b><h5 class="text-fir">Super fast theme for the new WordPress era</h5></b><br>
+        <h2 class="text-sec">For Everything In-Between, Hang Tight Here</h2>
+    </p> <br><br>
+    <a style="font-size: 12px; padding: 3% 9%;" class="btn btn-primary btn-lg visit-now" href="/mods" role="button">VISIT NOW</a>
       </div>
-    <!-- End of Row -->
+      <div style="padding-top: 3%;" class="col-md-5">
+        <img
+          src="assets/images/Home/home1.jpg"
+          class="card-img img-fluid"
+          alt="..."
+        />
+      </div>
     </div>
-  {% endif %}
-  {% endfor %}
-
-
-
-  {% for post in site.posts offset:1 limit:1 %}
-  {% if post.path contains 'games' %}
-      <div class="row">
-          <div class="col-md-4">
-            <div class="card">
-              <a class="post-title" href="{{ post.url }}"><img defer class="card-img-top img-fluid" src="{{ post.img-src }}.webp" alt="{{ post.img-alt }}" height="100vh"><h4>{{ post.title }}</h4></a>
-            </div>
-          </div>
-  {% endif %}
-  {% endfor %}
-
-  {% for post in site.posts offset:2 limit:1 %}
-  {% if post.path contains 'games' %}
-          <div class="col-md-4">
-            <div class="card">
-              <a class="post-title" href="{{ post.url }}"><img defer class="card-img-top img-fluid" src="{{ post.img-src }}.webp" alt="{{ post.img-alt }}" height="100vh"><h4>{{ post.title }}</h4></a>
-            </div>
-          </div>
-  {% endif %}
-  {% endfor %}
-  
-  {% for post in site.posts offset:4 limit:1 %}
-  {% if post.path contains 'games' %}
-          <div class="col-md-4">
-            <div class="card">
-              <a class="post-title" href="{{ post.url }}"><img defer class="card-img-top img-fluid" src="{{ post.img-src }}.webp" alt="{{ post.img-alt }}" height="80px;"><h4>{{ post.title }}</h4></a>
-            </div>
-          </div>
-        <!-- End of Row -->
-        </div>
-  {% endif %}
-  {% endfor %}
-<!-- End of Container -->
+  </div>
 </div>
 
+<div style="padding-top: 4%;"></div>
 
-<p style="clear: both;"></p>
-<br><br>
-
-<div style="padding: 15px;" class="container-fluid newsletter">
-  <form>
-    <h4 style="font-family: sans-serif; font-weight: 600;">Subscribe to ChelOverboard Newsletter</h4>
-    <div class="form-group row">
-      <div class="col-lg-3"></div>
-      <div class="col-lg-6 col-sm-10">
-        <input type="email" height="10vh;" class="form-control" id="inputEmail3" placeholder="Your email:">
+<div style="background-color: black;">
+  <div style="background-color: white;" class="container inside-img">
+    <div class="row">
+      <div style="padding-top: 3%;" class="col-md-5 p-0">
+        <img
+          src="assets/images/Home/home1.jpg"
+          class="card-img img-fluid"
+          alt="..."
+        />
+      </div>
+      <div style="padding-top: 6%;" class="col-md-7">
+    <h1 style="font-weight: 600; padding-right: 2%; color: black;" class="card-title">Vr News</h1>
+    <p class="card-text">
+      <b><h5 class="text-fir">Super fast theme for the new WordPress era</h5></b><br>
+        <h2 class="text-sec">For Everything In-Between, Hang Tight Here</h2>
+    </p> <br><br>
+    <a style="font-size: 12px; padding: 3% 9%;" class="btn btn-primary btn-lg visit-now" href="/mods" role="button">VISIT NOW</a>
       </div>
     </div>
-
-    <div class="form-group row">
-      <div class="col-lg-3"></div>
-      <div class="col-lg-6 col-sm-10">
-        <input type="text" class="form-control" id="inputUsername3" placeholder="Username:">
-      </div>
-    </div>
-
-    <div class="form-group row">
-      <div class="col-lg-3"></div>
-      <div class="col-lg-6 col-sm-10">
-        <button type="submit" class="btn btn-danger">SUBSCRIBE</button>
-
-        <p style="font-size: 11px;">By clicking ‘Subscribe’, I consent to ChelOverboard sending me occasional promotional offers to this email address. I understand that my information will be subject to this <a href="https://cheloverboard.netlify.app/privacy">Privacy Policy</a>.</p>
-      </div>
-    </div>
-  </form>
+  </div>
 </div>
 
+<div style="padding-top: 3%;"></div>
+
+<p style="font-family: cursive; text-align: center; font-size: 15px; font-weight: 600;">EASY TUTORIALS FROM OUR BLOG TO GET YOU STARTED WITH VR DEVELOPMENT</p>
 
 <div class="container">
-  <div class="row">
-      <div class="col-lg-6 col-sm-12">
-        <ol class="learn-create-consult">
-          <li><a href="" class="social-icons" style="color: red"><i class="fab fa-youtube"></i></a></li>
-           <li><h3>Follow Our Youtube</h3></li>
-            <li>You can follow our Youtube Channel to get all our latest uploads as soon as released.Leave comments on any issue faced when using our website and get a reply as-soon-as-possible. Use this link to subscribe today and keep up-to-date <a href="https://www.youtube.com/results?search_query=ChelOverboard" style="color: red;">Youtube</a></li>
-        </ol>
-      </div>
+<div class="row">
 
-      <div class="col-lg-6 col-sm-12">
-        <ol class="learn-create-consult">
-          <li><a href="" class="social-icons" style="color: #7289da"><i class="fab fa-discord"></i></a></li>
-           <li><h3>Follow Our Discord</h3></li>
-            <li>Get connected to us on Discord. Here you can interact with and get assistance from other subscribers and friends. Use discord app or through the website, add ChelOverboard as a server using this invite link <a href="https://discord.gg/fcCf2JD" style="color: #7289da;">Discord</a></li>
-        </ol>
-      </div>
-    </div><br>
-    
-    <div class="col-md-12">
-	     <h1 class="intro-home">Request for MODs</h1>
-       <hr style="border: 1.5px black solid;" width="85%">
-        <p>Can't find a game you would love to see on the website, Simply leave us the name by visiting our MODs Request page. We should get back to you as soon as we can to give you details on when you should see the MOD available for download. Use this Link to visit our  <span style="font-weight: bold"><a href="https://cheloverboard.netlify.app/connect/" style="color: black;">Request MODs Page</a></span></p><br><br>
-    </div>
+<div class="col-lg-3 col-sm-12">
+<div class="card p-4 text-center" style="width: 16rem;">
+  <div class="card-body">
+    <li class="social-icons" style="padding: 8% 0%; color: #FFE928; text-align: center;"><i class="fas fa-book-reader"></i></li>
+    <p style="font-weight: 600;" class="card-text">
+      How to create a project on Unity
+    </p>
+    <a href="#" style="font-size: 13px; text-align: center;" class="btn btn-danger rounded-pill goto-mods">READ GUIDE</a>
+  </div>
 </div>
+</div>
+
+<div class="col-lg-3">
+<div class="card p-4 text-center" style="width: 16rem">
+  <div class="card-body">
+    <li class="social-icons" style="padding: 8% 0%; color: #FFE928; text-align: center;"><i class="fas fa-book-reader"></i></li>
+    <p style="font-weight: 600;" class="card-text">
+      How to create a project on Unity
+    </p>
+    <a href="#" class="btn btn-danger">READ GUIDE</a>
+  </div>
+</div>
+</div>
+
+<div class="col-lg-3">
+<div class="card p-4 text-center" style="width: 16rem">
+  <div class="card-body">
+    <li class="social-icons" style="padding: 8% 0%; color: #FFE928; text-align: center;"><i class="fas fa-book-reader"></i></li>
+    <p style="font-weight: 600;" class="card-text">
+      How to create a project on Unity
+    </p>
+    <a href="#" class="btn btn-danger">READ GUIDE</a>
+  </div>
+</div>
+</div>
+
+<div class="col-lg-3">
+<div class="card p-4 text-center" style="width: 16rem">
+  <div class="card-body">
+    <li class="social-icons" style="padding: 8% 0%; color: #FFE928; text-align: center;"><i class="fas fa-book-reader"></i></li>
+    <p style="font-weight: 600;" class="card-text">
+      How to create a project on Unity
+    </p>
+    <a href="#" class="btn btn-danger">READ GUIDE</a>
+  </div>
+</div>
+</div>
+
+</div>
+</div>
+<br><br>
+
+
+
+
+
+<div style="padding-top: 10%;"></div>
+</body>
+

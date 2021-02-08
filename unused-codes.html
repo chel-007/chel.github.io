@@ -1,0 +1,342 @@
+Index Page Former -->
+
+<div class="container-fluid homepage">
+
+  {% for post in site.posts limit:1 %}
+  {% if post.path contains 'games' %}
+    <div class="row index-posts">
+      <div class="col-md-7">
+          <a class="post-title" href="{{ post.url }}"><img defer class="card-img-top img-fluid" src="{{ post.img-src }}.webp" alt="{{ post.img-alt }}"><h4>{{ post.title }}</h4></a>
+      </div>
+  {% endif %}
+  {% endfor %}
+
+  <!-- New Post Filter -->
+  {% for post in site.posts offset:3 limit:1 %}
+  {% if post.path contains 'games' %}
+      <div class="col-md-5">
+        <div class="card">
+          <a class="post-title" href="{{ post.url }}"><img defer class="card-img-top img-fluid" src="{{ post.img-src }}.webp" alt="{{ post.img-alt }}" height="100vh"><h4>{{ post.title }}</h4></a>
+        </div>
+      </div>
+    <!-- End of Row -->
+    </div>
+  {% endif %}
+  {% endfor %}
+
+
+
+  {% for post in site.posts offset:1 limit:1 %}
+  {% if post.path contains 'games' %}
+      <div class="row">
+          <div class="col-md-4">
+            <div class="card">
+              <a class="post-title" href="{{ post.url }}"><img defer class="card-img-top img-fluid" src="{{ post.img-src }}.webp" alt="{{ post.img-alt }}" height="100vh"><h4>{{ post.title }}</h4></a>
+            </div>
+          </div>
+  {% endif %}
+  {% endfor %}
+
+  {% for post in site.posts offset:2 limit:1 %}
+  {% if post.path contains 'games' %}
+          <div class="col-md-4">
+            <div class="card">
+              <a class="post-title" href="{{ post.url }}"><img defer class="card-img-top img-fluid" src="{{ post.img-src }}.webp" alt="{{ post.img-alt }}" height="100vh"><h4>{{ post.title }}</h4></a>
+            </div>
+          </div>
+  {% endif %}
+  {% endfor %}
+  
+  {% for post in site.posts offset:4 limit:1 %}
+  {% if post.path contains 'games' %}
+          <div class="col-md-4">
+            <div class="card">
+              <a class="post-title" href="{{ post.url }}"><img defer class="card-img-top img-fluid" src="{{ post.img-src }}.webp" alt="{{ post.img-alt }}" height="80px;"><h4>{{ post.title }}</h4></a>
+            </div>
+          </div>
+        <!-- End of Row -->
+        </div>
+  {% endif %}
+  {% endfor %}
+<!-- End of Container -->
+</div>
+
+
+<p style="clear: both;"></p>
+<br><br>
+
+<div style="padding: 15px;" class="container-fluid newsletter">
+  <form>
+    <h4 style="font-family: sans-serif; font-weight: 600;">Subscribe to ChelOverboard Newsletter</h4>
+    <div class="form-group row">
+      <div class="col-lg-3"></div>
+      <div class="col-lg-6 col-sm-10">
+        <input type="email" height="10vh;" class="form-control rounded" id="inputEmail3" placeholder="Your email:">
+      </div>
+    </div>
+
+    <div class="form-group row">
+      <div class="col-lg-3"></div>
+      <div class="col-lg-6 col-sm-10">
+        <input type="text" class="form-control" id="inputUsername3" placeholder="Username:">
+      </div>
+    </div>
+
+    <div class="form-group row">
+      <div class="col-lg-3"></div>
+      <div class="col-lg-6 col-sm-10">
+        <button type="submit" class="btn btn-danger">SUBSCRIBE</button>
+
+        <p style="font-size: 11px;">By clicking ‘Subscribe’, I consent to ChelOverboard sending me occasional promotional offers to this email address. I understand that my information will be subject to this <a href="https://cheloverboard.netlify.app/privacy">Privacy Policy</a>.</p>
+      </div>
+    </div>
+  </form>
+</div>
+
+
+<div class="container">
+  <div class="row">
+      <div class="col-lg-6 col-sm-12">
+        <ol class="learn-create-consult">
+          <li><a href="" class="social-icons" style="color: red"><i class="fab fa-youtube"></i></a></li>
+           <li><h3>Follow Our Youtube</h3></li>
+            <li>You can follow our Youtube Channel to get all our latest uploads as soon as released.Leave comments on any issue faced when using our website and get a reply as-soon-as-possible. Use this link to subscribe today and keep up-to-date <a href="https://www.youtube.com/results?search_query=ChelOverboard" style="color: red;">Youtube</a></li>
+        </ol>
+      </div>
+
+      <div class="col-lg-6 col-sm-12">
+        <ol class="learn-create-consult">
+          <li><a href="" class="social-icons" style="color: #7289da"><i class="fab fa-discord"></i></a></li>
+           <li><h3>Follow Our Discord</h3></li>
+            <li>Get connected to us on Discord. Here you can interact with and get assistance from other subscribers and friends. Use discord app or through the website, add ChelOverboard as a server using this invite link <a href="https://discord.gg/fcCf2JD" style="color: #7289da;">Discord</a></li>
+        </ol>
+      </div>
+    </div><br>
+    
+</div>
+
+<!-- End of Index Former Page Code -->
+<!-- Start of Former MODs Page -->
+
+---
+layout: default
+title: MODs Page - ChelOverboard.com
+description:
+pagination:
+  enabled: true
+---
+<!-- Main Blog Container -->
+  <div class="container-fluid games-page">
+ <br>
+  <section role="search" data-ss360="true">
+    <input type="search" id="searchBox">
+    <button id="searchButton"></button>
+    </section>
+  <!-- ChelOverboard Header -->
+  <h1 style="font-family: Montserrat, sans-serif; text-align: center; font-weight: 700;"class="ChelOverboard"><font color=#3FD10E>Chel</font> <font color=#24BCF9>Overboard</font> <font color=rgba(0,0,0,1)>MODs</font></h1>
+    <div class="mydownloadbox">
+{% for post in paginator.posts %}
+  {% unless post.path contains 'games' %}
+<hr>
+  <div class="row">
+  <div class="col-lg-8 col-sm-8">
+    <h4><a href="{{ post.url }}" class="game-title">{{ post.title }}</a></h4>
+    <p>{{ post.excerpt | strip_html | strip_newlines | truncate: 208 }}</p>
+    <p style="clear: both">{{ post.date | date: "%b %-d, %Y" }}</p>
+  </div>
+
+  <div class="col-lg-4 col-sm-4">
+    <a href="{{ post.url }}">
+    <img defer class="responsive p-2 bd-highlight borderaround" src="{{ post.img-src }}.webp" alt="{{ post.img-alt }}" width="330" height="200"></a>
+  </div>
+</div>
+{% endunless %}
+{% endfor %}
+</div>
+<div class="container">
+{% if paginator.total_pages > 1 %}
+<ul class="pager">
+
+
+    {% if paginator.previous_page %}
+    <li class="previous">
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Previous</a>
+    </li>
+    {% endif %}
+
+    {% if paginator.page_trail %}
+      {% for trail in paginator.page_trail %}
+        <li {% if page.url == trail.path %}class="selected"{% endif %}>
+            <a href="{{ trail.path | prepend: site.baseurl | replace: '//', '/' }}" title="{{trail.title}}">{{ trail.num }}</a>
+        </li>
+      {% endfor %}
+    {% endif %}
+
+    {% if paginator.next_page %}
+    <li class="next">
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &rarr;</a>
+    </li>
+    {% endif %}
+</ul>
+{% endif %}
+</div>
+<!-- Start of Site Search 360 script (put right before the closing </body> tag) -->
+<script async type="text/javascript">
+window.ss360Config = {
+    tracking: {
+        providers: []
+    },
+    siteId: "cheloverboard.netlify.app",
+    allowCookies: false,
+    style: {
+        suggestions: {
+            text: {
+                color: "#333333"
+            },
+            background: {
+                color: "#ffffff"
+            },
+            padding: "5px",
+            distanceFromTop: "0px",
+            border: {
+                color: "#dddddd",
+                radius: "0px"
+            }
+        },
+        searchBox: {
+            text: {
+                color: "#333333",
+                size: "14px"
+            },
+            background: {
+                color: "#ffffff"
+            },
+            border: {
+                color: "#dddddd",
+                radius: "0px"
+            },
+            padding: "8px",
+            icon: {
+                image: "magnifier",
+                color: "#666666"
+            }
+        }
+    },
+    showErrors: false
+};
+
+var e=document.createElement("script");
+e.async=!0;
+e.src="https://cdn.sitesearch360.com/v13/sitesearch360-v13.min.js";
+document.getElementsByTagName("body")[0].appendChild(e);
+</script>
+<!-- End of Site Search 360 script -->
+</div>
+<p style="padding-top: 5%"></p>
+
+
+<!-- End of MODS Page - Former -->
+
+
+
+
+
+<!-- Start of Former Navigation Code -->
+
+<nav class="navbar navbar-expand-lg navbar-custom">
+  
+  <!-- Navbar Brand -->
+  <a class="navbar-brand" href="{{ '/' | relative_url }}"><img class="img-fluid" src="/assets/images/Home/3.png"  width="200" height="84" alt="ChelOverboard"></a>
+  
+  <!-- Collapse button -->
+  <button class="navbar-toggler dropdown-toggle-align"  type="button" data-toggle="collapse" data-target="#basicExampleNav" aria-controls="basicExampleNav" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"><i style="font-size: 24px; margin-left: -5px;" class="fas fa-align-left"></i></span>
+  </button>
+  
+  <!-- Collapsible content -->
+  <div class="collapse navbar-collapse" id="basicExampleNav" style="color:black;">
+
+    <!-- Links -->
+    <ul class="navbar-nav mr-auto waves-effect waves-light">
+      {% for item in site.data.navigation %}
+      <a class="nav-item nav-link" href="{{item.link}}">{{ item.name }}</a>
+      {% endfor %}
+    </ul>
+    </div>
+   </a>
+</nav>
+
+
+<!-- End of Former navigation Code -->
+
+
+
+<!-- Start of Former Indie-Games Page Post Layout -->
+
+{% for post in site.posts %}
+    {% if post.path contains 'itch' %}
+  <hr>
+  <div class="row">
+  <div class="col-lg-9 col-sm-12">
+    <h4><a href="{{ post.url }}" class="game-title">{{ post.title }} - Download Game</a></h4>
+    <p>{{post.tags}}</p>
+    <video poster="{{post.img-src}}.jpg" loop="loop" muted="muted" width="100%" height="auto"><source src="{{post.video-src}}" type="video/webm"><source src="{{ post.video-src }}.mp4" type="video/mp4"></video>
+    <p>{{ post.excerpt | strip_html | strip_newlines | truncate: 208 }}</p>
+    <p style="clear: both">{{ post.date | date: "%b %-d, %Y" }}</p>
+  </div>
+
+  <div class="col-lg-3 col-sm-12">
+    hhhhhhhhh
+  </div>
+</div>
+{% endif %}
+{% endfor %}
+
+<!-- End of Indie Games Former Page Layout -->
+
+<!-- Font Awesome CDN (I use Special Generated Kit Now-->
+<link
+  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
+  rel="stylesheet"
+/>
+<!-- Google Fonts -->
+<link
+  href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap"
+  rel="stylesheet"
+/>
+<!-- MDB  Css Kit in CDN (I use Source Package Now-->
+<link
+  href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.2.0/mdb.min.css"
+  rel="stylesheet"
+/>
+
+
+<!-- first contaner created for index -->
+<!-- Start of Page Container -->
+<div class="container-fluid intro-text">
+<!-- Start of Rows -->
+<div>
+<!-- Start of Column -->
+  <div class="col-lg-12">
+    <div style="color: black;" class="text">
+    <b><h5 class="text-fir" style="font-family: cursive;">Ahoy me Mateies! We are ChelOverboard and we Love Virtual Reality</h5></b><br>
+    <h2 class="text-sec">For Everything In-Between, Hang Tight Here</h2>
+  </div>
+  </div>
+<!-- End of Column -->
+  </div>
+<!-- End of Row -->
+</div>
+
+
+<div class="container outro-text">
+  <div class="row">
+  <div class="col-lg-12">
+    <div style="color: white;" class="text">
+    <b><h5 class="text-fir">Ahoy me Mateies! We are ChelOverboard and we Love Virtual Reality</h5></b><br>
+    <h2 class="text-sec">For Everything In-Between, Hang Tight Here</h2>
+    </div>
+  </div>
+</div>
+</div>
+<!-- End of Second Container

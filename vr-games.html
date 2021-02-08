@@ -1,0 +1,43 @@
+---
+layout: default
+title: Games (VR games), Top 10, Free-to-Play, Monthly Release | ChelOverboard
+description: Follow our Games Updates to get news on the latest games releases, reviews. We cover mainly PC and VR games.
+---
+<h1 style="font-family: Montserrat, sans-serif; text-align: center; font-weight: 700; background-color: #24BCF9; padding: 68px; color: white; border-top: 2px solid black;">VR Entertainment and Games</h1>
+  <div class="container-xl align-items-center justify-content-center">
+  <br>
+  <!-- Row -->
+<div class="row">
+  {% for post in site.posts %}
+    {% if post.path contains 'games' %}
+  <div class="col-lg-12 col-sm-12">
+    <div class="card mb-3">
+      <img defer
+        src="{{ post.img-src }}.webp"
+        class="card-img-top"
+        alt="{{ post.img-alt }}"
+      />
+    <div class="card-body">
+      <h4><a href="{{ post.url }}" class="card-title game-title">{{ post.title }}</a></h4>
+      {% assign author = site.authors | where: 'short_name', page.author | first %}
+        {% if author %}
+        - <a href="{{ author.url }}">{{ author.name }}</a>{% endif %}<p style="clear: left;"></p>
+      <p class="card-text">
+        {{ post.description | strip_html | strip_newlines | truncate: 250 }}
+      </p>
+    <p class="card-text">
+      <p style="clear: both">{{ post.date | date: "%b %-d, %Y" }}</p>
+    </p>
+    <a class="" href="{{ post.url }}">READ MORE</a>
+  </div>
+</div>
+
+</div>
+<!-- End of Column -->
+{% endif %}
+{% endfor %}
+</div>
+<!-- End of Row -->
+
+</div>
+<!-- End of Container -->

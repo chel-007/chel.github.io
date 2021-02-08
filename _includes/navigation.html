@@ -1,22 +1,70 @@
-<nav class="navbar navbar-expand-lg navbar-custom">
-  
-  <!-- Navbar Brand -->
-  <a class="navbar-brand" href="{{ '/' | relative_url }}"><img class="img-fluid" src="/assets/images/Home/CHELOVERBOARD_free-file.png"  width="73" height="77" alt="ChelOverboard"></a>
-  
-  <!-- Collapse button -->
-  <button class="navbar-toggler dropdown-toggle-align"  type="button" data-toggle="collapse" data-target="#basicExampleNav" aria-controls="basicExampleNav" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"><i style="font-size: 24px; margin-left: -5px;" class="fas fa-align-left"></i></span>
-  </button>
-  
-  <!-- Collapsible content -->
-  <div class="collapse navbar-collapse" id="basicExampleNav" style="color:black;">
+<!-- Navbar -->
+<nav class="navbar navbar-expand-lg" style="background-color: #161212;">
+  <!-- Container wrapper -->
+  <div class="container p-4 packet">
+    <!-- Navbar brand -->
+    <a class="navbar-brand" href="{{ '/' | relative_url }}"><img class="img-fluid" src="/assets/images/Home/3.png"  width="200" height="70" alt="ChelOverboard"></a>
 
-    <!-- Links -->
-    <ul class="navbar-nav mr-auto waves-effect waves-light">
-      {% for item in site.data.navigation %}
-      <a class="nav-item nav-link" href="{{item.link}}">{{ item.name }}</a>
-      {% endfor %}
-    </ul>
+    <!-- Toggle button -->
+    <button
+      class="navbar-toggler"
+      type="button"
+      data-mdb-toggle="collapse"
+      data-mdb-target="#navbarSupportedContent"
+      aria-controls="navbarSupportedContent"
+      aria-expanded="false"
+      aria-label="Toggle navigation"
+    >
+      <i class="fas fa-bars" style="color: white;"></i>
+    </button>
+
+    <!-- Collapsible wrapper -->
+    <div class="collapse navbar-collapse hover-text" id="navbarSupportedContent">
+      <!-- Left links -->
+      <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+        
+        <li class="nav-item">
+          <a class="nav-link" href="/about">About</a>
+        </li>
+        <!-- Navbar dropdown -->
+        <li class="nav-item dropdown">
+          <a
+            class="nav-link toggle"
+            href="#"
+            id="navbarDropdown"
+            role="button"
+            data-mdb-toggle="dropdown"
+            aria-expanded="false"
+          >
+          <!-- <span class=""><i class="fas fa-angle-down"></i></span> -->
+            Blog
+          </a>
+          <!-- Dropdown menu -->
+          <ul class="dropdown-menu inner-text" aria-labelledby="navbarDropdown">
+            <li><a class="dropdown-item" href="/blog">Latest Posts</a></li>
+            <li><a class="dropdown-item" href="/vr-tutorials">VR Development</a></li>
+            <li><a class="dropdown-item" href="/vr-games">VR Games</a></li>
+            <li>
+              <a class="dropdown-item" href="/vr-news">VR/AR News</a>
+            </li>
+          </ul>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#" tabindex="-1" aria-disabled="true"
+            >Build a VR Game</a
+          >
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/indie-games"
+            >Games(Indie)</a
+          >
+        </li>
+      </ul>
+      <a href="/newsletter"><button class="intro-button">Newsletter</button></a>
+      <!-- Left links -->
     </div>
-   </a>
+    <!-- Collapsible wrapper -->
+  </div>
+  <!-- Container wrapper -->
 </nav>
+<!-- Navbar -->

@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/authors/chel/</loc>
-<lastmod>2021-01-17T16:47:34+01:00</lastmod>
+<lastmod>2021-02-08T23:11:48+01:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/she's-my-vampire-mod-apk/</loc>
@@ -193,6 +193,10 @@
 <lastmod>2021-01-17T00:00:00+01:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/doki-doki-lit-club/</loc>
+<lastmod>2021-02-03T00:00:00+01:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/downloads/10-billion-wives/</loc>
 </url>
 <url>
@@ -233,6 +237,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/downloads/love-is-our-specialty/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/mods/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/downloads/my-angel-girlfriend/</loc>
@@ -319,7 +326,20 @@
 <loc>http://localhost:4000/downloads/supernatural-sweethearts/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/vr-games/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/vr-news/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/vr-tutorials/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/fun-vr.html</loc>
 <lastmod>2020-10-22T08:26:21+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/unused-codes.html</loc>
+<lastmod>2021-02-04T17:29:51+01:00</lastmod>
 </url>
 </urlset>

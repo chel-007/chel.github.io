@@ -5,27 +5,38 @@ description: Collection of the Best Indie Free Games that you can not easily Fin
 pagination:
   enabled: true
 ---
-<h1 style="font-family: Montserrat, sans-serif; text-align: center; font-weight: 700; background-color: #24BCF9; padding: 40px; color: white; border-top: 2px solid black;">Indie Games Collection (Free For All)</h1>
-  <div class="container games-page">
+<h1 style="font-family: Montserrat, sans-serif; text-align: center; font-weight: 700; background-color: #24BCF9; padding: 68px; color: white; border-top: 2px solid black;">Indie Games Collection (Free For All)</h1>
+<br>
+<div class="d-grid gap-2 col-6 mx-auto border-top-0">
+<a class="btn btn-success rounded-pill btn-lg goto-mods" href="/mods" role="button">Go to MODs</a>
+</div>
+  <div class="container">
   <br>
+    <p style="clear: both;"></p>
   <h5 style="font-family: Montserrat, sans-serif; font-weight: 600;">ALL GAMES</h5>
+   <div class="row">
   {% for post in site.posts %}
     {% if post.path contains 'itch' %}
   <hr>
-  <div class="row">
-  <div class="col-lg-9 col-sm-12">
-    <h4><a href="{{ post.url }}" class="game-title">{{ post.title }} - Download Game</a></h4>
-    <p>{{post.tags}}</p>
-    <video poster="{{post.img-src}}.jpg" loop="loop" muted="muted" width="100%" height="auto"><source src="{{post.video-src}}" type="video/webm"><source src="{{ post.video-src }}.mp4" type="video/mp4"></video>
-    <p>{{ post.excerpt | strip_html | strip_newlines | truncate: 208 }}</p>
+  <div class="col-lg-8 col-sm-8">
+    <h4><a href="{{ post.url }}" class="game-title">{{ post.title }}</a></h4>
+    <p>{{ post.excerpt | strip_html | strip_newlines | truncate: 308 }}</p>
     <p style="clear: both">{{ post.date | date: "%b %-d, %Y" }}</p>
   </div>
 
-  <div class="col-lg-3 col-sm-12">
-    hhhhhhhhh
+  <div class="col-lg-4 col-sm-4">
+    <a href="{{ post.url }}">
+   <video poster="{{post.img-src}}" loop="loop" muted="muted" width="100%" height="auto"><source src="{{post.video-src}}" type="video/webm"><source src="{{ post.video-src }}.mp4" type="video/mp4"></video>
   </div>
-</div>
 {% endif %}
 {% endfor %}
+</div>
   </div>
-  <p style="clear: both;"></p>
+
+<div class="d-grid gap-2">
+<a class="btn btn-dark btn-rounded btn-lg gotomods" href="/mods" role="button">Go to MODs</a>
+</div>
+
+<p style="clear: both;"></p>
+<br>
+<br>
