@@ -2,4 +2,4 @@
 ---
 
 @import '/bootstrapjs/mdb.js';
-@import 'custom/js';
+@import 'custom/_new';
