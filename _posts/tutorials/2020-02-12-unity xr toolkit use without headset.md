@@ -33,7 +33,7 @@ Now I can go on with more explanation but, a much better way for you to grasp th
 
 
 ### Installation of Unity's XR Interaction Toolkit Starter Template
-Now we are gonna install the Starter Template which we are later going to open in Unity before we can start understanding each component in detail, to begin, follow the steps below;
+Now we are gonna install the Starter Template which we are later going to open in Unity before we can start understanding each component in detail, to begin, follow the steps below or even the Guide video;
 
 1. Download the XR Interaction Toolkit Starter Template from this Repo Link <a href="https://github.com/Unity-Technologies/XR-Interaction-Toolkit-Examples">Link</a>
 
@@ -45,7 +45,17 @@ Now we are gonna install the Starter Template which we are later going to open i
 
 5. You would need to select a particular unity version for opening this project - Anything from LTS 2019.4 - 2020 versions should work fine.
 
-If you follow the listed steps correctly, when unity opens fully, in the scene view you should see something like below. If that isn't the case for you, please leave a comment below and I will be glad to help. Some of the common problems that arise are (pink screen, error in the console, etc).
+<video width="320" height="240" class="img-fluid" poster="https://media.giphy.com/media/s3zIaBLqYOpugouDfX/giphy.gif" controls>
+  <source src="../assets/video/UIT_guide-vid.mp4" type="video/mp4">
+  <source src="../assets/video/UIT_guide-vid1.webm" type="video/webm">
+  Your browser does not support the video tag.
+</video>
+
+6. When Unity opens fully, Go to Scenes folder in the Projects tab and open the "World Interaction Scene"
+If you follow the listed steps correctly, in the scene view you should see something like below. If that isn't the case for you, please leave a comment below and I will be glad to help. Some of the common problems that arise are (pink screen, error in the console, etc).
+
+
+<img src="../assets/images/Blog/Blog-img/UIT_Opened.png" class="img-fluid responsive">
 
 Now that you have it opened up, we can move on to the more juicy part of this article 😉; Explaining what is happening on the screen and how to set up for a VR project. Let's quickly get down to it
 
@@ -76,7 +86,7 @@ Truly, there are always more features that I decide to not mention here, the abo
 
 ### Oculus XR Plugin for UIT
 
-According to Statista, <a href="statista.com/vr">50% Of VR Developers create VR Games to Publish on the Oculus Store</a>. If this doesn't ring a bell, Well, Noting might for you. Because Oculus is the fastest-growing Platform both for Developers and Gamers. - For Devs, Revenue - For Gamers, Premium Entertainment (Absolutely Relative). As such, developers at Oculus were quick to get news about Unity's revised plan and created a plugin just for folks adopting the UIT package for VR Development. Today, You are gonna learn about this High-Budget Plugin. 
+According to Statista, <a href="statista.com/vr">50% Of VR Developers create VR Games to Publish on the Oculus Store</a>. If this doesn't ring a bell, Well, Nothing might for you. Because Oculus is the fastest-growing Platform both for Developers and Gamers. - For Devs, Revenue - For Gamers, Premium Entertainment (Absolutely Relative). As such, developers at Oculus were quick to get news about Unity's revised plan and created a plugin just for folks adopting the UIT package for VR Development. Today, You are gonna learn about this High-Budget Plugin. 
 
 
 If you want to create games for Oculus Standalone Headsets or Oculus Go and also plan to use the UIT package, one thing is constant - You need the Oculus XR Plugin. Much of what I talked about above applies to it as well, so you probably do get the hang of what it goes. So now, let's go right into how to install and configure it for the current starter scene in Unity (if you have it open, and not having ignored me this whole time). Follow the Ordered steps below, I won't write it twice:
@@ -129,7 +139,6 @@ For In-depth Jargonified analysis and docs, I have provided easy links below to 
 
 #### FEEDBACK
 Consequently, after this long tutorial guide, naturally, you should run into a lot of errors, I should highly doubt if you tried this if you say u didn't. I expect your feedback on all these along with how impressive you thought this guide to be. Very commonly said but truly honest as well, 'It helps me prepare better informational guides'. I thank you very much for reading. If you please, watch my tutorial in the video about how to set-up the UIT specifically on a Gamepad.
-
 
 
 
