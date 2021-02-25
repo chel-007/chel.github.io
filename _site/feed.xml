@@ -1,4 +1,268 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-02-17T15:00:36+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">ChelOverboard</title><subtitle>Download Simulation MODs Free Everyday | Join a Community - cheloverboard.com . Welcome to ChelOverboard , Here we specialize on giving Our Users High-Quality MODs that are 100% Working , Follow our Website, Youtube, and Discord Community Today!.# this means to ignore newlines until &quot;baseurl:&quot;</subtitle><entry><title type="html">Doki Doki Literature Club</title><link href="http://localhost:4000/doki-doki-lit-club/" rel="alternate" type="text/html" title="Doki Doki Literature Club" /><published>2021-02-03T00:00:00+01:00</published><updated>2021-02-03T00:00:00+01:00</updated><id>http://localhost:4000/doki%20doki%20lit%20club</id><content type="html" xml:base="http://localhost:4000/doki-doki-lit-club/">&lt;p&gt;Welcome to the Literature Club! It’s always been a dream of mine to make something special out of the things I love. Now that you’re a club member, you can help me make that dream come true in this cute game!&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-02-25T21:41:17+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">ChelOverboard</title><subtitle>Download Simulation MODs Free Everyday | Join a Community - cheloverboard.com . Welcome to ChelOverboard , Here we specialize on giving Our Users High-Quality MODs that are 100% Working , Follow our Website, Youtube, and Discord Community Today!.# this means to ignore newlines until &quot;baseurl:&quot;</subtitle><entry><title type="html">Comparing the Various VR SDks Plugins to give you a Headstart in VR development - By Oulining thier Advantages and Disadvantages</title><link href="http://localhost:4000/comparing-vr-sdks-for-unity-vr-development/" rel="alternate" type="text/html" title="Comparing the Various VR SDks Plugins to give you a Headstart in VR development - By Oulining thier Advantages and Disadvantages" /><published>2021-02-24T00:00:00+01:00</published><updated>2021-02-24T00:00:00+01:00</updated><id>http://localhost:4000/comparing%20vr%20sdks%20for%20unity%20vr%20development</id><content type="html" xml:base="http://localhost:4000/comparing-vr-sdks-for-unity-vr-development/">&lt;p&gt;Starting VR Game Development is a thrill, and at the same time a cold chilling ordeal. You want to make beautiful games, you are confident of your creative abilities, one little hitch though - you have no idea where to start, what to use, or even why to use them. In this tutorial, i drastically simplify the entire process in my most preferred way of communication - layman terms. Are you with me?, well, then Read On!.&lt;/p&gt;
+
+&lt;h3 id=&quot;on-this-page&quot;&gt;On this Page&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;VR Sdks ?, What are they?&lt;/li&gt;
+  &lt;li&gt;How many Plugins do we have?&lt;/li&gt;
+  &lt;li&gt;Comparing One against Another&lt;/li&gt;
+  &lt;li&gt;Selecting Unity VR Plugin for VR Dev&lt;/li&gt;
+  &lt;li&gt;Feedback&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;what-are-vr-sdksplugins&quot;&gt;What are VR SDKs/Plugins?&lt;/h3&gt;
+
+&lt;p&gt;NOTE: This post is focused on implementation with the Unity 3d engine as it is best suited for beginners (from experience). if by chance, you heart lies with Unreal, worry not, the plugins name can be easily tewaked for Unreal Engine. You would understand better my meaning as we progress.&lt;/p&gt;
+
+&lt;p&gt;You have no doubt heard constantly about VR Sdks and plugins. As a beginner to Vr development, perhaps with no previous experience with APIs and Plugins, these terms might all seem very strange and confusing to you. The good news for you is that it shouldn’t anymore after reading this article, my goal is to simplify the idea around them in simple words.&lt;/p&gt;
+
+&lt;p&gt;VR Sdks (Virtual Reality Software Developement Kits) are a collection of scripts (Long gist of Codes), prefabs, components, and packages, i.e all accumulated into one single Unity “Asset” - the purpose being to make the building of VR experiences easier for the end user. Let’s take a different perspective to understand better;&lt;/p&gt;
+
+&lt;p&gt;In a Virtual reality Game or Experience, We (Users) can involve in a lot of basic to advanced interactions, most similar to how our natural behaviour in the realworld, exampole are (looking around yourself, walking, running, picking, grabbing and throwing objects) - All these we can do in a VR world, Normal 3d games are limited to devices. The fact that these new actions mentioned above are possible in VR means there must be new ways to create them, and usually the efforts and coding skills required is too advanced for the majority of developers like you are me ….. And we have VR SDKs ; Simply a set of predefined scripts that aid us in developing. This approach should give you a much better idea of the whole concept.&lt;/p&gt;
+
+&lt;h3 id=&quot;how-many-plugins-do-we-have&quot;&gt;How many Plugins do we have&lt;/h3&gt;
+
+&lt;p&gt;In Unity, there are several SDKs for VR development, the reason being to accomodate support for various headserts and controller. As new brands release their own unique vr headsets, we see inevitably the introduction of their own personal SDK published to simply the development process for their own unique platform. Some SDKs support a wide range of headsets while others doesn’t. We are going to talk about this two variations and what SDKs exist fofr them;&lt;/p&gt;
+
+&lt;p&gt;Right now, I can’t say accurately how many SDKs for the Un ity Platforms, probably because one is usua;lly released every now and then, but for sure, we have some popular ones common among majority of developers:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Open VR Unity Plugin: OpenVR is a software development kit (SDK)developed by Valve for supporting the SteamVR (HTC Vive) and other virtual reality headset (VR) devices.(Meaning that Using Open XR in Unity for VR Dev, all other headsets can access VR content created with it) The SteamVR platform uses it as the default application programming interface (API) and runtime. It handles display, tracking, and input for Open VR devices.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Steam VR Unity Plugin:&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Unity XR Interaction Toolkit: The Unity XR Interaction Toolkit is a Package Provided by Unity for creating VR, AR Experiences. It provides a framework that makes VR and UI interactions available from Unity input events(Keyboards, Gamepads, and Controllers, etc.). The core of this system is a set of base Interactor and Interactable components and prefabs and an Interaction Manager that enables the relative working of these two components. It also contains helper components that you can use to extend functionality for drawing visuals and hooking in your interaction events. It can be used in both VR and AR Instances and comes with different functions, scripts, and classes for building gameplay.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The Unity XR Interaction Toolkit is a very new package released in the fall of 2019 to take the place of popular VR and AR Plugins like the HTC Vive Utility Plugin, Oculus VR Plugin, VRTK, etc. The goal is to provide a framework that allows simple integration of different VR SDKs, i.e (Building experiences that can be tailored to different standalone/ VR Headsets without hassles). Without diving into the details - The XR Interaction toolkit works to detect the device plugged in and switches functionality to it solely.&lt;/p&gt;
+
+&lt;p&gt;Among Plugins listed, the UIT is currently the easiest way to build VR Experiences, while not the most feasible as it’s still in preview release but holds unity support fully. For Developers completely new to VR dev and aiming for a fast progress, this package can be used to familarise with. It aslo supports integration of third party SDKs found on the unity assets store to build realistic experiences. To get started with this, read this guide &lt;a href=&quot;&quot;&gt;Unity XR Toolkit - Important points to Note&lt;/a&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;VRTK: VRTK is a collection of useful, reusable solutions to common problems found when building for virtual reality. VRTK aims to help productivity by speeding up the creation process from prototyping ideas to building complete solutions.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The VRTK Unity Plugin brings a whole lot of functionalities in a Drag-and-Drop System. It allows compatibility with a set of popular VR SDks like Oculus Plugin, Steam VR Plugin and even for Open VR.
+The full list of Compatible Unity VR Plugins with VRTK and their Uses are listed below;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Oculus VR SDK: For Targeting Oculus VR Headsets(Quest, Quest2)&lt;/li&gt;
+  &lt;li&gt;Steam VR SDK: For Targeting Steam VR (SteamVR Platform on Steam)&lt;/li&gt;
+  &lt;li&gt;DayDream VR SDK: For Targeting DayDream VR Headsets(Google Daydream)&lt;/li&gt;
+  &lt;li&gt;Windows MR SDK: For Targeting Windows Mixed Reality&lt;/li&gt;
+  &lt;li&gt;HyperReal VR SDK&lt;/li&gt;
+  &lt;li&gt;Simulator SDK: As a Mock HMD, VR without a Headset&lt;/li&gt;
+  &lt;li&gt;Ximmerse SDK&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;If you wanna explore deeper using VRTK, ensure to follow this guide, take it from me - there are countless errors to run into &lt;a href=&quot;&quot;&gt;VRTK for Vr Development&lt;/a&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Oculus Integration Plugin:&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;HTC Vive Unity Plugin:&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Open XR Unity Plugin: I left this for the least Plugin so as not to casue confusion among readers. Do you feel like we already mentioned this?. Go ahead and scroll up to identify the Difference.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;…&lt;/p&gt;
+
+&lt;p&gt;Yhh!. The former is the Open ‘VR’ Plugin and this is the Open ‘XR’. So what’s the difference. Very Simple; The Open XR must be used with Unity’s new XR Plugin Managemnet. Confused?, Pls don’t be. let me shed some light.&lt;/p&gt;
+
+&lt;p&gt;Unity alas, has chosen to refer to VR content as XR, since they strongly believe their engine is more than capable for building AR experiences. So instead of lone VR, it’s now refereed to as XR. The Plugin Management is really just straight forward: The Plugoin Management. A way to manage the various plugins installed in a unity project. The image below shows how this management system looks. It basically checks and unchecks boxes to notify you of which XR Plugin installed is currently active. One of the main purpose of this system is to enhance “multi-platform development and publishing”, i.e When you are targeting several VR hardware for your content, you can install thier individual Sdks and manage it with the Plugin Manager.&lt;/p&gt;
+
+&lt;p&gt;Now why leave this important infoprmation for the last part, because there’s a whole new world for you to uncover?, Or just Read? 😶. That’s where the Open XR comes in, practically invades.
+&lt;b&gt;The Open XR Plugin&lt;/b&gt; is one of those sdks that can be used with the XR Plugin Management and what is it?&lt;/p&gt;
+
+&lt;p&gt;It’s shares similarities with the Open VR Plugin in that it can be used for multi-platform development. It supports head tracking, display but… it ends there. Yhh, this is a relatively new plugin, still in preview mode and no suitable interaction/input system method(grabbing, throwing, teleportation) is currently supported. It can be used by itself, or integrated with steam vr for full input support. Still, you can choose for hooking up input systems between the input Steam VR Plugin or Unity XR Interaction toolkit. Only one can be used at a time, both aren’t compatible. A detailed guide is coming soon on how to set this up on unity, but if you want to test the waters urself, you can follow this link to downlaod the preview version &lt;a href=&quot;&quot;&gt;Open XR Unity SDK&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;xr-plugin-managemnet-compatible-sdks&quot;&gt;XR Plugin Managemnet Compatible SDKs&lt;/h3&gt;
+&lt;p&gt;After briefing on the XR Managemnet and how Open XR is compatible with it, I want to pass across and important point to note:&lt;/p&gt;
+
+&lt;p&gt;By using the XR Plugin Management, You CANT use Standalone SDKs like (Steam VR, Oculus VR, Open VR etc). And likewise, by using any of the standalone SDKs you can make use of the XR Plugin Managemnet Tool in your Project. You either use one. Open XR as we have seen is a compatible plugin, what other sdks exist that are compatible, below they are listed with a singular way of installing them;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Oculus XR Plugin&lt;/li&gt;
+  &lt;li&gt;Windowsmr XR Plugin&lt;/li&gt;
+  &lt;li&gt;Mock HMD XR Plugin&lt;/li&gt;
+  &lt;li&gt;Oculus Android Plugin&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The common way to install them among your project’s package is Goto Windows &amp;gt; Package Manager &amp;gt; Search for Individual Names &amp;gt; Click Install in the bottom rigth corner.&lt;/p&gt;
+
+&lt;p&gt;After this detailed summary of the various VR SDKs/ XR SDKs, can you Identify those requiring usage for a special hardware and those that can be used for multiple platform development. If you can’t, I’ve totally failed as a developer and writer 🤔. Ah, let’s leave that for later, we shall see&lt;/p&gt;
+
+&lt;h3 id=&quot;which-of-them&quot;&gt;Which of Them?&lt;/h3&gt;
+
+&lt;p&gt;You read enough, infact you deserve a congratulatory message, drop your email and that would be attended to. I mean, you’ve read enough of them theory, your teeth must be craving for just some practice. Lucky, I made necessary plans for that. Among the various SDKs Listed, you probably have a favourite already, but is that the most suited for you. Read On, In this section, we talk about choosing a SDK to start Development with in consideration of some Factors&lt;/p&gt;
+
+&lt;p&gt;The easiest SDK: UIT
+The most profitable: Open XR &amp;amp; Open VR
+Suited for Professionals: Steam VR &amp;amp; Oculus VR
+Unity Recommendation: Possibly Open XR&lt;/p&gt;</content><author><name>Chel</name></author><summary type="html">Starting VR Game Development is a thrill, and at the same time a cold chilling ordeal. You want to make beautiful games, you are confident of your creative abilities, one little hitch though - you have no idea where to start, what to use, or even why to use them. In this tutorial, i drastically simplify the entire process in my most preferred way of communication - layman terms. Are you with me?, well, then Read On!.</summary></entry><entry><title type="html">How to Set Up the Unity Interaction Toolkit for VR Development and Testing - Important Points you need to Know</title><link href="http://localhost:4000/unity-xr-toolkit-use-without-headset/" rel="alternate" type="text/html" title="How to Set Up the Unity Interaction Toolkit for VR Development and Testing - Important Points you need to Know" /><published>2021-02-12T00:00:00+01:00</published><updated>2021-02-12T00:00:00+01:00</updated><id>http://localhost:4000/unity%20xr%20toolkit%20use%20without%20headset</id><content type="html" xml:base="http://localhost:4000/unity-xr-toolkit-use-without-headset/">&lt;h3 id=&quot;on-this-page&quot;&gt;On this Page&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;About the Unity Interaction Toolkit&lt;/li&gt;
+  &lt;li&gt;Installation of Preview Template&lt;/li&gt;
+  &lt;li&gt;Features of UIT&lt;/li&gt;
+  &lt;li&gt;Oculus XR Plugin for UIT&lt;/li&gt;
+  &lt;li&gt;Mock HMD Plugin for UIT (Use without Headset)&lt;/li&gt;
+  &lt;li&gt;How to Use in your Project&lt;/li&gt;
+  &lt;li&gt;Documnetation - About Basic Functionalities&lt;/li&gt;
+  &lt;li&gt;Feed Back&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;about-the-unity-interaction-toolkit&quot;&gt;About the Unity Interaction Toolkit&lt;/h2&gt;
+&lt;p&gt;The Unity XR Interaction Toolkit is a Package Provided by Unity for creating VR, AR Experiences. It provides a framework that makes VR and UI interactions available from Unity input events(Keyboards, Gamepads, and Controllers, etc.). The core of this system is a set of base Interactor and Interactable components and prefabs and an Interaction Manager that enables the relative working of these two components. It also contains helper components that you can use to extend functionality for drawing visuals and hooking in your interaction events. It can be used in both VR and AR Instances and comes with different functions, scripts, and classes for building gameplay.&lt;/p&gt;
+
+&lt;p&gt;The Unity XR Interaction Toolkit is a very new package released in the fall of 2019 to take the place of popular VR and AR Plugins like the HTC Vive Utility Plugin, Oculus VR Plugin, VRTK, etc. The goal is to provide a framework that allows simple integration of different VR SDKs, i.e (Building experiences that can be tailored to different standalone/ VR Headsets without hassles). Without diving into the details - The XR Interaction toolkit works to detect the device plugged in and switches functionality to it solely.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;One thing to Note&lt;/b&gt; but which isn’t the focus of this tutorial is that the XR Interaction Toolkit is part of the XR Plugin Management which in whole refers to all Plugins and SDKs that can be mapped and integrated with the XR Interaction Toolkit for VR Development. Later in this tutorial, We are gonna look at some of them like the Oculus XR Plugin.&lt;/p&gt;
+
+&lt;p&gt;Now I can go on with more explanation but, a much better way for you to grasp the whole concept involved is through visualization and hands-on testing. For this reason, In the next section, we look at how to install and open in Unity a Starter template that uses the XR Interaction Toolkit for VR development.&lt;/p&gt;
+
+&lt;h3 id=&quot;installation-of-unitys-xr-interaction-toolkit-starter-template&quot;&gt;Installation of Unity’s XR Interaction Toolkit Starter Template&lt;/h3&gt;
+&lt;p&gt;Now we are gonna install the Starter Template which we are later going to open in Unity before we can start understanding each component in detail, to begin, follow the steps below or even the Guide video;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Download the XR Interaction Toolkit Starter Template from this Repo Link &lt;a href=&quot;https://github.com/Unity-Technologies/XR-Interaction-Toolkit-Examples&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Extract the Folder Using Windows File Explorer or any other third party software&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;After extraction - Copy the VR folder inside the Xr interaction toolkit file out to another location and Rename it e.g Downloads&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Open up Unity Hub and Click the Add Projects Button - When Prompted select the recent VR project folder you extracted&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;You would need to select a particular unity version for opening this project - Anything from LTS 2019.4 - 2020 versions should work fine.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;video width=&quot;320&quot; height=&quot;240&quot; class=&quot;img-fluid&quot; poster=&quot;https://media.giphy.com/media/s3zIaBLqYOpugouDfX/giphy.gif&quot; controls=&quot;&quot;&gt;
+  &lt;source src=&quot;../assets/video/UIT_guide-vid.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+  &lt;source src=&quot;../assets/video/UIT_guide-vid1.webm&quot; type=&quot;video/webm&quot; /&gt;
+  Your browser does not support the video tag.
+&lt;/video&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;When Unity opens fully, Go to Scenes folder in the Projects tab and open the “World Interaction Scene”
+If you follow the listed steps correctly, in the scene view you should see something like below. If that isn’t the case for you, please leave a comment below and I will be glad to help. Some of the common problems that arise are (pink screen, error in the console, etc).&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/Blog/Blog-img/UIT_Opened.png&quot; class=&quot;img-fluid responsive&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now that you have it opened up, we can move on to the more juicy part of this article 😉; Explaining what is happening on the screen and how to set up for a VR project. Let’s quickly get down to it&lt;/p&gt;
+
+&lt;h4 id=&quot;features-of-uit-from-now-on-uit-means-unity-xr-interaction-toolkit&quot;&gt;Features of UIT (From now on UIT means Unity XR Interaction Toolkit)&lt;/h4&gt;
+
+&lt;p&gt;By features, what do I mean? I mean this; What can you as a developer achieve with UIT. In this section, I hope to give you a general to specifics scoped idea without anything much as Jargon!.&lt;/p&gt;
+
+&lt;p&gt;After Playing around with a few VR SDKs before my recent relationship with Unity’s UIT, I had one goal in mind - Build a prototype VR Project. Back then, I used VRTK to test the waters and now I use UIT rather comfortably for someone without previous experience with P_lugins and SDKs integration. My honest opinion is that I love UIT and wish more features can be added to it because it makes building so much easier.&lt;/p&gt;
+
+&lt;p&gt;It’s fair to say that UIT hasn’t reached the level of functionalities VRTK and other SDKs bring to the table but there’s one important value VR Developers need called _____ which it has great promise for. Less talk now, let’s meet the features of my new best friend.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Interactors &amp;amp; Interactables: This Point doesn’t need much explanation. It’s well known that every VR World/experience must have basic interactors(In layman terms - XR Controllers) and Interactables (Objects you can Grab and Select). As for AR, this isn’t a requirement because the physics associated with it often involves overlaying objects on surfaces without much need for interaction, which is not to say that in some cases interaction isn’t used.
+    &lt;ul&gt;
+      &lt;li&gt;Interactors - UIT achieves this Feature using the &lt;b&gt;Cross-platform XR controller input&lt;/b&gt; Component. There are three main functions this provides (Object hover, select, and grab)&lt;/li&gt;
+      &lt;li&gt;Interactables - For an object to be an active Interactable, it must have a collection of scripts applied to it - the main being the XR Grab Interactable, XR Direct Interactable, XR Simple Interactable. These three are used differently and of the three, the first is most frequently used.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;A VR Camera Rig: As Expected, when creating VR Experiences, the differentiating factor is a 360-degree world that can be viewed from different angles, as such, what makes this possible is a VR Camera Rig. UIT comes with an XR rig that can be configured for either room or stationary VR. There isn’t much talk about this after it has been added to the scene, one important detail to know is that the XR controllers are usually children of this Prefab in the Hierarchy.
+NOTE: Once the Sample UIT Package is Successfully set up - You have access to Most components directly from the GameObject Window.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Teleportation: With UIT, you can set up teleportation using the XR Controller. It Involves a fairly easy process of creating an area/plane and adding the Teloprataion Component to it. This allows the Player to hover over active fields and appear there instantaneously.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Visual Feedback/ Line rendering: perhaps one of the most exciting aspects of VR. Grabbing objects far away from the player and teleportation. The Line Renderer or Raycaster projects a Line (Color remains Unfixed) from your virtual controllers when you hover around Active fields - What I mean by this, Are you hovering over an Interactable or an area with teleportation set to active? If so, this Indicating Line is projected. By default, the Line Renderer is enabled to constantly project regardless if the state is set to active but this can be fixed with a little code.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Haptic Feedback: Since Haptics isn’t a new term in the VR field, I would avoid divulging deeply into this. Customary, UIT has this feature that can be set up with the XR Controllers for giving a Haptics signals when Certain Events are Triggered in VR&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Truly, there are always more features that I decide to not mention here, the above more-important ones are the core of UIT that must be understood while others can be picked up along the way. Dash it all! I have built a working VR Prototype Project with just the core features explained above 🥱. Oh, I promise, More good stuff to come.&lt;/p&gt;
+
+&lt;h3 id=&quot;oculus-xr-plugin-for-uit&quot;&gt;Oculus XR Plugin for UIT&lt;/h3&gt;
+
+&lt;p&gt;According to Statista, &lt;a href=&quot;statista.com/vr&quot;&gt;50% Of VR Developers create VR Games to Publish on the Oculus Store&lt;/a&gt;. If this doesn’t ring a bell, Well, Nothing might for you. Because Oculus is the fastest-growing Platform both for Developers and Gamers. - For Devs, Revenue - For Gamers, Premium Entertainment (Absolutely Relative). As such, developers at Oculus were quick to get news about Unity’s revised plan and created a plugin just for folks adopting the UIT package for VR Development. Today, You are gonna learn about this High-Budget Plugin.&lt;/p&gt;
+
+&lt;p&gt;If you want to create games for Oculus Standalone Headsets or Oculus Go and also plan to use the UIT package, one thing is constant - You need the Oculus XR Plugin. Much of what I talked about above applies to it as well, so you probably do get the hang of what it goes. So now, let’s go right into how to install and configure it for the current starter scene in Unity (if you have it open, and not having ignored me this whole time). Follow the Ordered steps below, I won’t write it twice:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;With Unity Opened with the Starter Template on Scene view, you have almost all requirement ready save one&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Go to Windows &amp;gt; Package Manager. In PM search for Oculus XR Plugin, Install and wait for it to Import&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Now go to Edit &amp;gt; Project Settings &amp;gt; XR Plugin Management. inside this section, Check the box - Initialize XR on Startup and Oculus.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Further to this, by following this process you are enabling to build on a PC, MAC, or Linus machine. For Android build, switch the tab and enable Oculus there.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;That’s it! After you complete these steps, you can now “hopefully” run the Game view and experience the scene in VR. Indeed very easy, just my thought too.&lt;/p&gt;
+
+&lt;p&gt;The idea here is this, you can play or create any small scene with a few objects directly in Unity, Using the XR Interaction toolkit, by ensuring that a few certain prefabs are present in the Scene! What are they? Where can you find them in?. As we move into the next section we are gonna tackle these questions, that way I kill two birds with a stone. 😎&lt;/p&gt;
+
+&lt;p&gt;You now know how to set up UIT with your Oculus Headset but there’s one more detail I need to observe - What if you have no Headsets and you just love VR?. I was once in that same position and I can tell you that it’s not as impossible as everyone says it is - Developing without a Headset. Unity in part has made this possible with the &lt;b&gt;Mock HMD XR Plugin&lt;/b&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;unity-mock-hmd-xr-plugin&quot;&gt;Unity Mock HMD XR Plugin&lt;/h3&gt;
+&lt;p&gt;In simple terms, the above reference means this - An Head Mounted Display that isn’t a real version but mimics how the real version operates. Similar to the Oculus XR Plugin we looked at above, the Mock HMD Display allows you to move and interact in a virtual world without the need for a headset. It collects input actions from the plain old Keyboard, Gamepads, and other input devices. The Mock HMD functions in a similar way to how you’d expect the Oculus XR Plugin to; Basic interactions are mapped similarly with little changes in the input method. To set up a Mock HMD in your Project, follow the same steps that apply for the OCP by of course searching and installing from the package manager; Mock HMD XR. When Installed, don’t expect it to work from the onset because there is a little more process involved.&lt;/p&gt;
+
+&lt;p&gt;You don’t want to be stuck to the starter template without building from scratch. Like I mentioned earlier, some particular prefabs need hooking up together for UIT to be fully integrated into a project, take note of them because they are listed below. Access them by simply searching in the projects tab search;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;XR Rig Demo [Prefab] - Necessary for your scene to be translated into VR 360 degree. It also houses the XR Virtual Controllers and other components that it requires e.g Ray Caster, Line Renderer, etc.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Input Action Manager [Prefab] - To manage Input Actions from the Keyboard, XR Controller, Gamepad. Etc. This way you can write functions such as - OnButtonDownPressed&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Interaction Manager [Script] - Create an Empty game object and Add the Interaction Manager Script to it. This is for well, managing interactions.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;XR Base Interactor [Script] - Should be added to any game object that you want to be interactable (grab, select, hover)
+To get On Button Pressed Event, I might have to use or call the XR Device Simulator function.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;For Use without a Headset, Install the &lt;b&gt;XR Device Simulator&lt;/b&gt; from the package manager and add it to the Hierarchy. Some values, keypress mappings need to still be set up before use, watch the video below as this is complicated in itself.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And the list goes On as complexity increases. Now that you have a good solid understanding of the UIT package, focus for 5 minutes on the scene reading prefabs names and viewing their properties in the Hierarchy. It has been a very long Guide and as much as I have tried to make it all well if for instance you prefer or need further assistance through video, Splendid!, I have a video on just this topic.&lt;/p&gt;
+
+&lt;!-- &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/1Iow-Z4bZaU&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt; --&gt;
+&lt;p&gt;Coming Soon….&lt;/p&gt;
+
+&lt;h3 id=&quot;documentations-about-unity-xr-interaction-toolkit&quot;&gt;Documentations about Unity XR Interaction Toolkit&lt;/h3&gt;
+
+&lt;p&gt;For In-depth Jargonified analysis and docs, I have provided easy links below to some of the important points taught in this guide:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.unity3d.com/Packages/com.unity.xr.management@3.2/manual/index.html&quot;&gt;XR Plugin Management&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@1.0/manual/index.html&quot;&gt;XR Interaction Toolkit&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@1.0/manual/index.html#glossary&quot;&gt;XR Interaction Toolkit Glossary&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@1.0/manual/index.html#controllerinteractor&quot;&gt;XR Controllers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@1.0/manual/index.html#using-actions-with-action-based-behaviors&quot;&gt;Using Actions with Action-Based Behaviours&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;feedback&quot;&gt;FEEDBACK&lt;/h4&gt;
+&lt;p&gt;Consequently, after this long tutorial guide, naturally, you should run into a lot of errors, I should highly doubt if you tried this if you say u didn’t. I expect your feedback on all these along with how impressive you thought this guide to be. Very commonly said but truly honest as well, ‘It helps me prepare better informational guides’. I thank you very much for reading. If you please, watch my tutorial in the video about how to set-up the UIT specifically on a Gamepad.&lt;/p&gt;</content><author><name>Chel</name></author><summary type="html">On this Page About the Unity Interaction Toolkit Installation of Preview Template Features of UIT Oculus XR Plugin for UIT Mock HMD Plugin for UIT (Use without Headset) How to Use in your Project Documnetation - About Basic Functionalities Feed Back</summary></entry><entry><title type="html">Doki Doki Literature Club</title><link href="http://localhost:4000/doki-doki-lit-club/" rel="alternate" type="text/html" title="Doki Doki Literature Club" /><published>2021-02-03T00:00:00+01:00</published><updated>2021-02-03T00:00:00+01:00</updated><id>http://localhost:4000/doki%20doki%20lit%20club</id><content type="html" xml:base="http://localhost:4000/doki-doki-lit-club/">&lt;p&gt;Welcome to the Literature Club! It’s always been a dream of mine to make something special out of the things I love. Now that you’re a club member, you can help me make that dream come true in this cute game!&lt;/p&gt;
 
 &lt;p&gt;Every day is full of chit-chat and fun activities with all of my adorable and unique club members:&lt;/p&gt;
 
@@ -725,143 +989,4 @@ We come now to the main content of this post:&lt;/p&gt;
 &lt;p&gt;First I would give simple introductions to the technologies in question, next a simple example from my imagination how they can be utilized in vr games starting 2021. Let’s get started.&lt;/p&gt;
 
 &lt;h3&gt;5 Technology that would Transform VR Gaming&lt;/h3&gt;
-&lt;p&gt;vjjvjv&lt;/p&gt;</content><author><name>Chel</name></author><summary type="html">In reality, virtual reality can still be referred to as an emerging technology. Surely it has not still gotten to it’s peak or highest point as we have predicted. That considered, nobody can take away the excitement surrounding gaming in vr. With all the ongoing rave about vr games today, it is a wonder how the vr gaming industry would react with the introduction of the latest technologies surrounding Virtual Reality like Haptic Feedback and . If you haven’t been current in the going-ons in virtual realiuty tech and breakthroughs, this article would show you the top technologies that would change virtual reality games giving them unparralled realism.</summary></entry><entry><title type="html">10 Best VR Games for September - Newly Realeased, Coming Soon top picks</title><link href="http://localhost:4000/top-10-vrgames-september/" rel="alternate" type="text/html" title="10 Best VR Games for September - Newly Realeased, Coming Soon top picks" /><published>2020-09-15T00:00:00+01:00</published><updated>2020-09-15T00:00:00+01:00</updated><id>http://localhost:4000/top%2010%20vrgames%20september</id><content type="html" xml:base="http://localhost:4000/top-10-vrgames-september/">&lt;p&gt;If you are an avid gamer playing the latest vr games every other day, this article is compiled just for you. In this article, we filter through the many game titles available on steam, HTC Vive, oculus quest etc to provide you with the top picks for septemer 2020.&lt;/p&gt;
-
-&lt;p&gt;The aim of this article is to reduce the time you spend rowsing through lists to make a decision yourself. If after going through the list and you fell like we missed a virtual reality game that deserves a space in the top best, don’t hesitate to mention this in the comments section.&lt;/p&gt;
-
-&lt;p&gt;We are writing this post currently in nthe mid of septemer, so take note that a few would include coming-soon vr games filtered based on highest anticipation, early-releases, pre sale and game developers. Now onto the list:&lt;/p&gt;
-
-&lt;h4&gt;10+ Best VR Game Releases in September 2020&lt;/h4&gt;
-
-&lt;h5 style=&quot;font-weight: 600;&quot;&gt;DEEMO -Reborn-&lt;/h5&gt;
-&lt;iframe class=&quot;img-fluid&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/_3NO5lwQzpQ&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;
-&lt;b&gt;Background Story&lt;/b&gt;
-A girl who fell from the skies and lost her past; Deemo who plays the piano all alone in the world of the treehouse; an accidental encounter between the two. &lt;br /&gt;
-&lt;b&gt;Features:&lt;/b&gt; &lt;br /&gt;
-  A Classic Reborn: Centered around an ancient castle and a mysterious tree that grows when melody is in the air, control the little girl who has fallen from the sky and help her find her way home. &lt;br /&gt;
-  Investigation Reborn: Unravel riddles and mysteries hidden in the castle. Find sheet music that falls from the heavens, unlock new places, and discover the truth. &lt;br /&gt;
-  Rhythm Reborn: Play your heart out on the piano and make the mysterious tree grow. Unveil new parts of the story and look forward to the day that the girl can return to her heart-warming home.
-&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://store.steampowered.com/app/1282210/DEEMO_Reborn/&quot;&gt;Steam&lt;/a&gt; (Oculus Rift)&lt;/p&gt;
-&lt;hr /&gt;
-
-&lt;h4 style=&quot;font-weight: 600;&quot;&gt;Starblazer&lt;/h4&gt;
-&lt;iframe class=&quot;img-fluid&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/0KTPjG25xvY&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Experience the thrill, fast pace, and funk of Starblazer®. Clash with friends and join the many curious-minded commanders that have found a VR strategy game that everyone can play. &lt;br /&gt;
-
-&lt;b&gt;EXPANSIVE UNIVERSE.&lt;/b&gt; The glitz and sheen of Saffron Stadium. The tranquil creeks of Blossom. The fiery sun of Icarus. The neon vibes of Incomplex. The lavish lights of Melody. The many varieties of maps and arenas keep gameplay unique and interesting. &lt;br /&gt;
-
-&lt;b&gt;UNIQUE SHIPS, BUILD COUNTLESS FLEETS.&lt;/b&gt; Craft the perfect fleet, choose your favorite ships, and design unique combinations. With 8 different types of ships, no fleet is ever the same. Simple “rock-paper-scissors” gameplay makes this an easy strategy game for everyone to pick up and play, while leaving lots of options for players looking for a challenge. &lt;br /&gt;
-
-&lt;b&gt;DEFEAT ENEMY FLEETS, FIGHT FOR VICTORY&lt;/b&gt; Directly control the path of any ship on the battlefield or give commands to the entire fleet through the Cosmic Controller. Playing a game takes only seconds to learn, and advanced players can spend hours creating the perfect strategy..&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://store.steampowered.com/app/979520/Starblazer/&quot;&gt;Steam&lt;/a&gt; (Valve Index, HTC Vive, Oculus Rift, Windows Mixed Reality)&lt;/p&gt;
-&lt;hr /&gt;
-
-&lt;h5 style=&quot;font-weight: 600;&quot;&gt;Starship Commander: Arcade&lt;/h5&gt;
-&lt;iframe class=&quot;img-fluid&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Oq3dnkY4XWg&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;b&gt;STARSHIP COMMANDER&lt;/b&gt; is a seated experience that lasts 10-20 minutes, has replayability based off what you say, requires you to speak English, and is comfortable for new and experienced VR players alike. Non VR-Players will need a combo headphone/headset microphone and a mouse for an optimal experience. &lt;br /&gt;
-
-The Arcade Experience finally comes home! Starship Commander: Arcade is a cinematic, choose-your-own-adventure narrative, inspired by classic PC adventure games like Day of the Tentacle and Telltale's Walking Dead series. Go faster-than-light on an adventure through space, as you infiltrate an alien spy facility on a top-secret mission.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://store.steampowered.com/app/598400/Starship_Commander_Arcade/&quot;&gt;Steam&lt;/a&gt; (Valve Index, HTC Vive, Oculus Rift)&lt;/p&gt;
-&lt;hr /&gt;
-
-&lt;h5 style=&quot;font-weight: 600;&quot;&gt;Bullet Roulette VR&lt;/h5&gt;
-&lt;iframe class=&quot;img-fluid&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/aEucJE18W24&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;b&gt;Bullet Roulette VR&lt;/b&gt; is a casual game for four players. Each player randomly become one of 6 characters. Before shooting you should draw 2 cards that can completely change the rules of the game. If the player survives, he will get $ 1 for which he can shoot another player on the next turn. If he killed another player, then he takes his money. An unsuccessful attempt to shoot another player takes all the money. Be cold blooded and cunning to win! &lt;br /&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://store.steampowered.com/app/1103880/Bullet_Roulette_VR/&quot;&gt;Steam&lt;/a&gt; (Valve Index, HTC Vive, Oculus Rift)&lt;/p&gt;
-&lt;hr /&gt;
-
-&lt;h5 style=&quot;font-weight: 600;&quot;&gt;Playing God&lt;/h5&gt;
-&lt;!-- &lt;iframe class=&quot;img-fluid&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/TX58AbJq-xo&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt; --&gt;
-
-&lt;p&gt;
-Playing God is an interactive VR thought experiment that lets you imagine you are the captain of a space station, suddenly presented with a humanitarian crisis. It challenges its audience with a series of scenarios and questions based upon the narrative allowing the audience to explore how they would deal with a humanitarian crisis themselves.&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://store.steampowered.com/app/1358930/Playing_God/&quot;&gt;Steam&lt;/a&gt; (Valve Index, HTC Vive, Oculus Rift)&lt;/p&gt;
-&lt;hr /&gt;
-
-&lt;h5 style=&quot;font-weight: 600;&quot;&gt;YUR&lt;/h5&gt;
-&lt;iframe class=&quot;img-fluid&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/0wj2L9Pa7Kg&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;
-YUR provides calorie estimates for all VR games by using patent-pending technology to estimate calories burned across any VR game or experience.
-  &lt;b&gt;YUR FEATURES:&lt;/b&gt;
- &lt;ul&gt;
-    &lt;li&gt;Realtime activity overlay over any game&lt;/li&gt;
-    &lt;li&gt;Estimated Heart Rate (Using Machine Learning)&lt;/li&gt;
-    &lt;li&gt;Leveling and XP system where 1 kCal = 1 XP&lt;/li&gt;
-    &lt;li&gt;Support for dedicated Bluetooth Heart Rate monitors (optional)
-    &lt;li&gt;Fitness Metrics (Squats, more coming soon)&lt;/li&gt;
-    &lt;li&gt;Dashboard with fitness tracking and historical achievements&lt;/li&gt;
-    &lt;li&gt;Leaderboard and Gameplay across VR games and much more&lt;/li&gt;
-&amp;lt;/ul&amp;gt;&amp;lt;/p&amp;gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://store.steampowered.com/app/1188920/YUR/&quot;&gt;Steam&lt;/a&gt; (Oculus Rift)&lt;/p&gt;
-&lt;hr /&gt;
-
-&lt;h5 style=&quot;font-weight: 600;&quot;&gt;Snapshot VR&lt;h5 style=&quot;font-weight: 600;&quot;&gt;
-&lt;iframe class=&quot;img-fluid&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/OPv-jJk9psI&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;
-&lt;b&gt;Snapshot&lt;/b&gt; is a VR arena shooter built for e-sports with competitive solo and team play. Inspired by the real-life sport, Snapshot feels like playing paintball in the future. One shot, one kill. In competitive teams of up to 5, communication and coordination are the keys to victory.
-  &lt;b&gt;Features:&lt;/b&gt;
- &lt;ul&gt;
-    &lt;li&gt;Room Browsing / Basic Matchmaking&lt;/li&gt;
-    &lt;li&gt;Cross-platform profiles with tracked stats and leaderboards&lt;/li&gt;
-    &lt;li&gt;Avatar Customization w/ Cosmetics&lt;/li&gt;
-   &lt;li&gt;Third-party Map Editor w/ 50+ community maps playable&lt;/li&gt;
-    &lt;li&gt;Training maps with stationary and moving targets&lt;/li&gt;
-    &lt;li&gt;Multiple Locomotion Modes to accommodate any type of VR player&lt;/li&gt;
-&lt;/ul&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://store.steampowered.com/app/1133580/Snapshot_VR/&quot;&gt;Steam&lt;/a&gt; (Oculus Rift)&lt;/p&gt;
-&lt;hr /&gt;
-&lt;/h5&gt;&lt;/h5&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;/p&gt;</content><author><name>Chel</name></author><summary type="html">If you are an avid gamer playing the latest vr games every other day, this article is compiled just for you. In this article, we filter through the many game titles available on steam, HTC Vive, oculus quest etc to provide you with the top picks for septemer 2020.</summary></entry><entry><title type="html">10 Best VR Movies you can Watch right now - Top Picks for 2020</title><link href="http://localhost:4000/best-vr-movies-2020/" rel="alternate" type="text/html" title="10 Best VR Movies you can Watch right now - Top Picks for 2020" /><published>2020-09-10T00:00:00+01:00</published><updated>2020-09-10T00:00:00+01:00</updated><id>http://localhost:4000/best%20vr%20movies%202020</id><content type="html" xml:base="http://localhost:4000/best-vr-movies-2020/">&lt;p&gt;Virtual reality is a sensation no doubt, it has been this way for gamers since a few years back. An industry adopting VR at an increasingly fast pace is the Movie Industry. Who can tell why? Well Movies are Immersive by them selves, Virtual Reality Movies are extra immersive. I will watch them at all cost, would you?. In this post, we share the top trending Vr movies you can get the best experience from - Just.&lt;/p&gt;
-
-&lt;p&gt;I have written a few articles about &lt;a href=&quot;https://cheloverboard.netlify.app/top-10-room-scale-vr-game-to-play-in-2020/&quot;&gt;Vr games&lt;/a&gt; and how absolutely exciting they are, but I felt like the fun was not dispersed enough to all yet. Movies are amazing content, you can watch them by yourself, the whole family can see it together, or even in a thether by an whole audience of people. Virtual reality movies is a way of bringing people into the physical environment of the movies themselves. In our story, we share with you top picks of the best VR Movies in 2020:&lt;/p&gt;
-
-&lt;h3&gt;Top Virtual Reality Movies for 2020&lt;/h3&gt;
-
-&lt;h5 style=&quot;font-weight: 600;&quot;&gt;The Line&lt;/h5&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.imdb.com/title/tt10869836/?ref_=kw_li_tt&quot;&gt;&lt;img src=&quot;https://m.media-amazon.com/images/M/MV5BNDRlYWY5YzQtMTc1Yi00Yzk1LTllNmEtMmY1NzliYmE0Y2Q0XkEyXkFqcGdeQXVyMzQyMTYyNjQ@._V1_UX182_CR0,0,182,268_AL_.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h6&gt;Summary&lt;/h6&gt;
-&lt;p&gt;Pedro and Rosa, two miniature dolls who are perfect for each other, find themselves reluctant to break boundaries to overcome limitations and live out their love story.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.imdb.com/title/tt10869836/?ref_=kw_li_tt&quot;&gt;Imdb&lt;/a&gt;&lt;/p&gt;
-&lt;hr /&gt;
-
-&lt;h5 style=&quot;font-weight: 600;&quot;&gt;Alteration&lt;/h5&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.imdb.com/title/tt6682676/?ref_=kw_li_tt&quot;&gt;&lt;img src=&quot;https://m.media-amazon.com/images/M/MV5BMmI0MDdhNjgtMDhlMy00ZDk5LTlkMTctNGVlNWZjY2YyMjU2XkEyXkFqcGdeQXVyNzEyNTYyMzU@._V1_UX182_CR0,0,182,268_AL_.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h6&gt;Summary:&lt;/h6&gt;
-&lt;p&gt;Alexandro volunteers for an experiment on the study of dreams. He doesn’t know that he will suffer Elsa’s intrusion, an A.I who will feed off his subconscious by digitalizing and dematerializing it.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.imdb.com/title/tt6682676/?ref_=kw_li_tt&quot;&gt;Imdb&lt;/a&gt;&lt;/p&gt;
-&lt;hr /&gt;
-
-&lt;h5 style=&quot;font-weight: 600;&quot;&gt;Transformers: Autobots Alliance&lt;/h5&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.imdb.com/title/tt7781226/?ref_=kw_li_tt&quot;&gt;&lt;img src=&quot;https://m.media-amazon.com/images/M/MV5BZTRhMmY4OWQtNWQ2Zi00YzYwLTk2YjctOTIwNTk4ZmFmMWFhXkEyXkFqcGdeQXVyMzAzNDYwMTE@._V1_UY268_CR3,0,182,268_AL_.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h6&gt;Summary: &lt;/h6&gt;
-&lt;p&gt;The Autobots Alliance was formed on Earth by Optimus Prime and his Autobots to protect the human race from the Decepticons. Through discovery, interactive training and visual education, the Alliance provides humans with the skills and knowledge to recognize the signs of Decepticon infiltration.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.imdb.com/title/tt7781226/?ref_=kw_li_tt&quot;&gt;Imdb&lt;/a&gt;&lt;/p&gt;
-&lt;hr /&gt;
-
-&lt;h5 style=&quot;font-weight: 600;&quot;&gt;Gloomy Eyes&lt;/h5&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.imdb.com/title/tt9670896/?ref_=kw_li_tt&quot;&gt;&lt;img src=&quot;https://m.media-amazon.com/images/M/MV5BNTUyNzI2MTU1N15BMl5BanBnXkFtZTgwMjM5Nzc0NzM@._V1_UX182_CR0,0,182,268_AL_.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h6&gt;Summary: &lt;/h6&gt;
-&lt;p&gt;When the sun got tired of the humans it decided to hide and never rise again. The darkness awoke the dead from their graves. A zombie kid called Gloomy and a mortal girl called Nena fall in love and immerse in a deep connection.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.imdb.com/title/tt9670896/?ref_=kw_li_tt&quot;&gt;Imdb&lt;/a&gt;&lt;/p&gt;
-&lt;hr /&gt;
-
-&lt;h5 style=&quot;font-weight: 600;&quot;&gt;The Limit&lt;/h5&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.imdb.com/title/tt8011436/?ref_=kw_li_tt&quot;&gt;&lt;img src=&quot;https://m.media-amazon.com/images/M/MV5BN2FmODM0ZTAtYWJjMC00OTNmLWJiMzUtM2NjYmNlN2JiMmI0XkEyXkFqcGdeQXVyMzI3MzkxOTQ@._V1_UX182_CR0,0,182,268_AL_.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h6&gt;Summary: &lt;/h6&gt;
-&lt;p&gt;As a rogue agent with a mysterious past, you enlist the help of enhanced super-assassin M-13 (Michelle Rodriguez) to retrieve your identity and strike against the deadly organization that created you.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.imdb.com/title/tt8011436/?ref_=kw_li_tt&quot;&gt;Imdb&lt;/a&gt;&lt;/p&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;That’s it, the best Vr movie titles aorund at the moment. Following through with the links, you can observe that most of the movies are very short experience, this is as a result of motion sickness viewers are likely to have. In gaming, this is not a very big problem as in movie production because a gamer controls his/her movement most of the time and can adapt easily to the scene. In movies though, viewers are guided all the way and too much of this can cause motion sickness in some people. Thanks for reading through, I hope this list simplifies your work in searching for vr experiences to enjoy at this time.&lt;/p&gt;</content><author><name>Chel</name></author><summary type="html">Virtual reality is a sensation no doubt, it has been this way for gamers since a few years back. An industry adopting VR at an increasingly fast pace is the Movie Industry. Who can tell why? Well Movies are Immersive by them selves, Virtual Reality Movies are extra immersive. I will watch them at all cost, would you?. In this post, we share the top trending Vr movies you can get the best experience from - Just.</summary></entry></feed>
+&lt;p&gt;vjjvjv&lt;/p&gt;</content><author><name>Chel</name></author><summary type="html">In reality, virtual reality can still be referred to as an emerging technology. Surely it has not still gotten to it’s peak or highest point as we have predicted. That considered, nobody can take away the excitement surrounding gaming in vr. With all the ongoing rave about vr games today, it is a wonder how the vr gaming industry would react with the introduction of the latest technologies surrounding Virtual Reality like Haptic Feedback and . If you haven’t been current in the going-ons in virtual realiuty tech and breakthroughs, this article would show you the top technologies that would change virtual reality games giving them unparralled realism.</summary></entry></feed>
