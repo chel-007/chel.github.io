@@ -1,7 +1,7 @@
 ---
 layout: post-blog
 author: Chel
-title: 10 Things you must absolutely know before starting VR Development in 2020
+title: 10 Important Points to Note before starting VR Development in 2021
 seo: vr headsets oculus quest oculus go gear vr unity oculus game development oculus software vr tools vr software vr development unity vr unreal engine vr vr games on oculus
 description: Do you want to become a full-fledged virtual reality developer and make money from your games?. I know you do. Here's one thing, starting off on the wrong foot can make it very tough for you to attain that level in the expected amount of time before you lose the passion you once had. Here's why
 img-src: ../assets\images\Blog\vrdev-essential

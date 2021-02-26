@@ -1,10 +1,10 @@
 ---
 layout: post-blog
 author: Chel
-title: How to Set Up the Unity Interaction Toolkit for VR Development and Testing - Important Points you need to Know
+title: How to Set Up the Unity Interaction Toolkit for VR Development and Testing - Important Points you need to Note
 seo: unity interaction toolkit unity vr plugin manager without headset unity vr development vr unity oculus game development oculus software vr tools vr software vr development unity vr unreal engine vr vr games on oculus oculus developer xr plugins vr prototype projects
-description: The rather new Unity Interaction Toolkit holds a lot of promise for VR Developers to easily prototype an test new VR Ideas without heavy Plugin Downloads. In this tutorial, you would understand the workings of the toolkit in a simplified way and get set to use in your projects.
-img-src: ../assets\images\Blog\vrtk-unitydev
+description: The rather new Unity Interaction Toolkit holds a lot of promise for VR Developers to easily prototype and test new VR Ideas without heavy Plugin Downloads. In this tutorial, you would understand the workings of the toolkit in a simplified way and get set to use in your projects.
+img-src: ../assets\images\Blog\uit-unitydev
 ---
 
 

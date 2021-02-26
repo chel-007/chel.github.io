@@ -7,7 +7,7 @@ description: Follow our Games Updates to get news on the latest games releases, 
   <div class="container-xl align-items-center justify-content-center">
   <br>
   {% for post in site.posts %}
-    <!-- {% if post.path contains 'games' %} -->
+    {% if post.path contains 'tutorials' or post.path contains 'games' or post.path contains 'news'  %}
 
   <div class="row">
   <div class="col-lg-8 col-sm-8">
@@ -21,7 +21,7 @@ description: Follow our Games Updates to get news on the latest games releases, 
     <img defer class="responsive p-2 bd-highlight borderaround" src="{{ post.img-src }}.webp" alt="{{ post.img-alt }}" width="330" height="200"></a>
   </div>
 </div>
-<!-- {% endif %} -->
+{% endif %}
 {% endfor %}
   </div>
   <p style="clear: both;"></p>

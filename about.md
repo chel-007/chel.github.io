@@ -1,63 +1,68 @@
 ---
 layout: default
-title: Chel Ovebroard - Privacy-policy
+title: About ChelOverboard and Chelsea Koby
 ---
-# About ChelOverboard
+<h1 style="font-family: Montserrat, sans-serif; text-align: center; font-weight: 700; background-color: #24BCF9; padding: 68px; color: white; border-top: 2px solid black;">About</h1>
+  <div class="container-xl align-items-center justify-content-center">
+  <br>
 
-<section style="padding:70px;
-  font-family: Lato;
-  color: rgb(50,50,50);
-  font-size: 19px;
-  line-height: 1.8;">
-<hr>
-  <h2>PRIVACY NOTICE</h2>
-<hr>
-  <h4>INTRODUCTION</h4>
-  <p>Welcome to Chel Overboard privacy policy for <a href="/" style="color:#F67E7E;">www.cheloverboard.netlify.com/</a>.</p>
- <p>Chel Overboard respects your privacy and is committed to protecting your personal data. This privacy policy will give you a breakdown of how your personal data is processed when you visit our site (Regardless of where you're visiting from).
- <ol>
-   <li>INFORMATION ABOUT US</li>
-   <li>THE DATA WE COLLECT FROM YOU</li>
-   <li>HOW YOUR PERSONAL DATA IS COLLECTED</li>
-   <li>WHAT WE USE YOUR PERSONAL DATA FOR</li>
-   <li>DATA SECURITY</li>
-   <li>LAGAL RIGHTS</li>
- </ol>
-  <h4><li>INFORMATION ABOUT US</li></h4>
-    <p>This privacy notice hopes to give you the Users of our site an Overview of who we are and what we hope to achieve on this Site, How we collect your personal data and what we do with them.<br>
-      ChelOverboard referred to as ("we","our" or "us") at any time is the controller and receiver of all personal data received on our site.
-    <h3>What we do?</h3>
-    <p>We at ChelOverboard hope to be a fully Educational Site that gives or releases Articles on Technological Studies Mainly having to do with AI, Deeplearning, VirtualReality/Augmented-Reality and currently we have pages that Users can access Several Categories of Android Games solely for Entertainment. </p>
-    <h3>CHANGES TO THE PRIVACY NOTICE</h3>
-    <p>This version was last updated on 11 Febuary 2020.</p>
-    <h4><li>DATA WE COLLECT FROM YOU</li></h4>
-    <p>Personal data or Information includes Information about an individual by which he/she can be identified</p>
-    <p>We may collect, use, store different kinds of personal information about you which we have grouped together as the following.</p>
-    <ul style="list-style-type:disc">
-      <li><em>Identity Data</em> Includes firstname, lastname, username or similar identifier.</li>
-      <li><em>Contact Data</em> Includes email address and telephone numbers.</li>
-      <li><em>Financial Data</em> Includes bank account and payment card details.</li>
-      <li><em>Transaction Data</em> Includes details about payments and other services you have purchased from us.</li>
-      <li><em>Technical Data</em> Includes internet protocol (IP) address, browser type and version, location, operating system and platform and other technology on the devices you use to access this website.
-    </ul>
-    <h4><li>HOW YOUR PERSONAL DATA IS COLLECTED</li></h4>
-    <p>We may collect your personal data through different methods which include:
-      <ul style="list-style-type:disc">
-        <li>When you directly provide us with your detais when interacting with our website through fields that ask for them e.g Signup page, contact Us etc.</li>
-        <li>As you interact with our website, we may automatically collect Technical Data about your device, browsing actions and patterns. We may collect this information by using cookies, logs and other similar technologies.</li>
-        <li>When trying to purchase or unlock some services offered on our Site, you may give us your financial information as a requirement for the processes involved.</li></ul>
-     <h4><li>WHAT WE USE YOUR PERSONAL DATA FOR</li></h4>
-      <p>In most cases, we use your personal information only to contact or reach out to you by sending you our newslettters on Latest Contents, or in the case of Financial Data, Processing your requests of our services offered. We also use your Technical Data to perform studies on the geolocation of our most commom visitors and why we get those results.</p>
-        
-     <h4><li>DATA SECURITY</li></h4>
-     <p>We have security measures that ensures that your personal information is not accidentaly lost, used or accessed in an unauthorized way, altered or disclosed.</p>
-    <h4><li>YOUR LEGAL RIGHTS</li></h4>
-    <p>You have the following rights in relation to the personal data we hold about you:</p>
-    <h4>Right to be Informed</h4>
-    <em>You have the right to demand for "Information Processing" and how we collect Data on our Visitors</em>
-    <h4>Right to Rectification</h4>
-    <em>You have the right to have personal data about you rectified if it's inaccurate or incomplete.</em>
-    <h4>Right to Access</h4>
-      <em>You have the right to access your personal data and methods we use in acquiring it. For more information about this, simply email us at cheloverboard@gmail.com.<br>Proof mof identification is required to access any information a User is demanding in order to protect your information Effectively</em>
-       <br>                                                                                     
- </section>
+<div class="container">
+  <div class="row">
+    <div class="col-lg-12">
+Are you looking for detailed tutorials to kickstart your VR development?<br><br>
+
+Or are you looking for the right place to receive constant news and happenings surrounding VR?<br><br>
+
+Awesome!. You are in the right place _ while millions of VR enthusiasts don't follow my content yet, <b>that is my goal yet</b>.<br><br>
+
+And here's why:<br><br>
+
+Because I love Virtual Reality so much that I'm brimming with excitement to share every single knowledge I attain to upcoming developers
+<br><br>
+
+While I provide plenty of helpful tutorials for new developers, I do it slightly uniquely by providing a simplified explanation in layman terms - I hate keeping people frustrated. <br><br>
+
+
+Here, you will find tutorials, tactics, news, strategies that would get you running faster. <br><br>
+
+
+<h3>The beliefs ChelOverboard is founded upon</h3>
+<ul>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
+
+
+
+<h3>A little about me</h3><br>
+
+Hey, <a href="">Chelsea Koby</a> here... <br>
+
+I started ChelOverboard in 2020, as a place to write about everything I learn in VR. My goal is this - as I learn about VR Development on Unity, teach beginner folks what I know to save time on their side and get them in action faster. that was fine at first ... You know, but then ofc I love other aspects of VR, like learning about research and breakthroughs (it makes me inspired and more imaginative), therefore I created a news section to break down VR news around so other folks can be more imaginative 😌. <br><br>
+
+One more thing, I'm super focused on the practical side of things (what the fuck can I do with this shit 🤐). So, Yeh, I'm gonna teach you how to make a VR Game prototype in like what?... ... 1 week!. If you haven't already, visit here to start <a href="">Build a VR Game</a>. <br><br>
+
+
+<h3>Some quick facts about me </h3>
+<ul>
+  <li>I love sports, specifically "European" football. Messi team for life! </li>
+  <li>I built my first website when I was 16 - too old?. I'm ashamed too, but now were buddies.</li>
+  <li>My best video game of all time is - Brawl Stars. </li>
+  <li>Apart from blogging, I'm a front-end developer, programming tutor and computer vision engineer. My full profile is after (a little about me)</li>
+</ul>
+
+
+ChelOverboard is a project I've poured my heart into - I sincerely hope I can reach more people to share my knowledge with, and I can't wait to see what you'll accomplish with what you learn here. One thing is constant - A playable VR experience, the rest though depends on you 🙃. <br><br>
+
+Now, let's make the magic happen. <br><br>
+
+Thanks and talk soon, <br><br>
+
+<p style="font-size: 30px; font-family: cursive;">Chelsea Koby</p>
+
+</div>
+
+</div>
+</div>
