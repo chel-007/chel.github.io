@@ -65,10 +65,11 @@ The full list of Compatible Unity VR Plugins with VRTK and their Uses are listed
 
 If you wanna explore deeper using VRTK, ensure to follow this guide, take it from me - there are countless errors to run into <a href="https://cheloverboard.netlify.app/vrtk-for-vr-testing-without-headset/">VRTK for Vr Development</a>
 
-5. Oculus Integration Plugin:
+5. Oculus Integration Plugin: Unity provides built-in VR support for Oculus devices. The Oculus Integration package adds scripts, prefabs, samples, and other resources to supplement Unity’s built-in support. The package includes an interface for controlling VR camera behavior, a first-person control prefab, a unified input API for controllers, rendering features, debugging tools, and more.
 
+The Oculus Integration package, OculusIntegration.unitypackage, is available for download from the Unity Asset Store using this link <a href="https://ocul.us/3pXwvig">Oculus Integration Software/SDK</a>
+Before you import the package in unity, check the hardware, software, and Unity version requirements. The minimum supported Unity Editor version for Oculus development is 2018.4.
 
-6. HTC Vive Unity Plugin: 
 
 7. Open XR Unity Plugin: I left this for the least Plugin so as not to cause confusion among readers. Do you feel like we already mentioned this?. Go ahead and scroll up to identify the Difference.
 
@@ -103,9 +104,27 @@ After this detailed summary of the various VR SDKs/ XR SDKs, can you Identify th
 
 ### Which of Them?
 
-You read enough, in fact, you deserve a congratulatory message, drop your email and that would be attended to. I mean, you've read enough of them theory, your teeth must be craving for just some practice. Lucky, I made the necessary plans for that. Among the various SDKs Listed, you probably have a favorite already, but is that the most suited for you. Read On, In this section, we talk about choosing an SDK to start Development along with consideration of some Factors
+You read enough, in fact, you deserve a congratulatory message, drop your email and that would be attended to. I mean, you've read enough of them theory, your teeth must be craving for just some practice. Lucky, I made the necessary plans for that. Among the various SDKs Listed, you probably have a favorite already, but is that the most suited for you. Read On, In this section, we talk about choosing an SDK to start Development along with consideration of some Factors:
 
-The easiest SDK: UIT
-The most profitable: Open XR & Open VR
-Suited for Professionals: Steam VR & Oculus VR
-Unity Recommendation: Possibly Open XR 
+<ul>
+	<li><b>The easiest SDK</b>: UIT</li>
+	<li>The most profitable: Open XR & Open VR</li>
+	<li>Suited for Professionals: Steam VR & Oculus VR</li>
+	<li>Unity's Recommendation: Possibly Open XR</li>
+</ul>
+
+
+
+### Feedback
+Now it's been quite a long informative guide on the various VR SDKs that exist for Unity VR Development. As I said earlier in the article, if you are rather going to be developing using Unreal Engine, for all SDKs mentioned, I have provided links incase you want to download it. The components and features remain the same, the only difference being that the name unreal is used in stead of unity. 
+
+### VR SDKs for Unreal Engine
+
+1. Steam VR for Unreal Engine<a href="https://github.com/ValveSoftware/steamvr_unreal_plugin">Here</a>
+2. Unreal Engine has Built in Support for Oculus VR
+3. VR Expansion Plugin - Like VRTK but for Unreal <a href="https://forums.unrealengine.com/development-discussion/vr-ar-development/89050-vr-expansion-plugin">Here</a>
+4. Setting up Open XR in Unreal Engine <a href="https://docs.unrealengine.com/en-US/SharingAndReleasing/XRDevelopment/Openxr/openxr_prerequisites/index.html">Here</a>
+5.
+
+
+Right back on track and i have a little task for you; Can you identity SDKs which are multi-platform and those that are compatible with specific devices? Leave your answer in the comments box below!. I can't wait to see how your mind works 🙃

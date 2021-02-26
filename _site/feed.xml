@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-02-26T01:45:51+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">ChelOverboard</title><subtitle>Download Simulation MODs Free Everyday | Join a Community - cheloverboard.com . Welcome to ChelOverboard , Here we specialize on giving Our Users High-Quality MODs that are 100% Working , Follow our Website, Youtube, and Discord Community Today!.# this means to ignore newlines until &quot;baseurl:&quot;</subtitle><entry><title type="html">Comparing the Various VR SDks Plugins to give you a Headstart in VR development - Outlining their Advantages and Disadvantages</title><link href="http://localhost:4000/comparing-vr-sdks-for-unity-vr-development/" rel="alternate" type="text/html" title="Comparing the Various VR SDks Plugins to give you a Headstart in VR development - Outlining their Advantages and Disadvantages" /><published>2021-02-24T00:00:00+01:00</published><updated>2021-02-24T00:00:00+01:00</updated><id>http://localhost:4000/comparing%20vr%20sdks%20for%20unity%20vr%20development</id><content type="html" xml:base="http://localhost:4000/comparing-vr-sdks-for-unity-vr-development/">&lt;p&gt;Starting VR Game Development is a thrill and at the same time a cold chilling ordeal. You want to make beautiful games, you are confident of your creative abilities, one little hitch though - you have no idea where to start, what to use, or even why to use them. In this tutorial, I drastically simplify the entire process in my most preferred way of communication - layman terms. Are you with me?, well, then Read On!.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-02-26T18:22:51+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">ChelOverboard</title><subtitle>Download Simulation MODs Free Everyday | Join a Community - cheloverboard.com . Welcome to ChelOverboard , Here we specialize on giving Our Users High-Quality MODs that are 100% Working , Follow our Website, Youtube, and Discord Community Today!.# this means to ignore newlines until &quot;baseurl:&quot;</subtitle><entry><title type="html">Comparing the Various VR SDks Plugins to give you a Headstart in VR development - Outlining their Advantages and Disadvantages</title><link href="http://localhost:4000/comparing-vr-sdks-for-unity-vr-development/" rel="alternate" type="text/html" title="Comparing the Various VR SDks Plugins to give you a Headstart in VR development - Outlining their Advantages and Disadvantages" /><published>2021-02-24T00:00:00+01:00</published><updated>2021-02-24T00:00:00+01:00</updated><id>http://localhost:4000/comparing%20vr%20sdks%20for%20unity%20vr%20development</id><content type="html" xml:base="http://localhost:4000/comparing-vr-sdks-for-unity-vr-development/">&lt;p&gt;Starting VR Game Development is a thrill and at the same time a cold chilling ordeal. You want to make beautiful games, you are confident of your creative abilities, one little hitch though - you have no idea where to start, what to use, or even why to use them. In this tutorial, I drastically simplify the entire process in my most preferred way of communication - layman terms. Are you with me?, well, then Read On!.&lt;/p&gt;
 
 &lt;h3 id=&quot;on-this-page&quot;&gt;On this Page&lt;/h3&gt;
 &lt;ul&gt;
@@ -61,15 +61,14 @@ The full list of Compatible Unity VR Plugins with VRTK and their Uses are listed
 &lt;p&gt;If you wanna explore deeper using VRTK, ensure to follow this guide, take it from me - there are countless errors to run into &lt;a href=&quot;https://cheloverboard.netlify.app/vrtk-for-vr-testing-without-headset/&quot;&gt;VRTK for Vr Development&lt;/a&gt;&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Oculus Integration Plugin:&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;HTC Vive Unity Plugin:&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Open XR Unity Plugin: I left this for the least Plugin so as not to cause confusion among readers. Do you feel like we already mentioned this?. Go ahead and scroll up to identify the Difference.&lt;/p&gt;
-  &lt;/li&gt;
+  &lt;li&gt;Oculus Integration Plugin: Unity provides built-in VR support for Oculus devices. The Oculus Integration package adds scripts, prefabs, samples, and other resources to supplement Unity’s built-in support. The package includes an interface for controlling VR camera behavior, a first-person control prefab, a unified input API for controllers, rendering features, debugging tools, and more.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The Oculus Integration package, OculusIntegration.unitypackage, is available for download from the Unity Asset Store using this link &lt;a href=&quot;https://ocul.us/3pXwvig&quot;&gt;Oculus Integration Software/SDK&lt;/a&gt;
+Before you import the package in unity, check the hardware, software, and Unity version requirements. The minimum supported Unity Editor version for Oculus development is 2018.4.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Open XR Unity Plugin: I left this for the least Plugin so as not to cause confusion among readers. Do you feel like we already mentioned this?. Go ahead and scroll up to identify the Difference.&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;…&lt;/p&gt;
@@ -101,12 +100,29 @@ The full list of Compatible Unity VR Plugins with VRTK and their Uses are listed
 
 &lt;h3 id=&quot;which-of-them&quot;&gt;Which of Them?&lt;/h3&gt;
 
-&lt;p&gt;You read enough, in fact, you deserve a congratulatory message, drop your email and that would be attended to. I mean, you’ve read enough of them theory, your teeth must be craving for just some practice. Lucky, I made the necessary plans for that. Among the various SDKs Listed, you probably have a favorite already, but is that the most suited for you. Read On, In this section, we talk about choosing an SDK to start Development along with consideration of some Factors&lt;/p&gt;
+&lt;p&gt;You read enough, in fact, you deserve a congratulatory message, drop your email and that would be attended to. I mean, you’ve read enough of them theory, your teeth must be craving for just some practice. Lucky, I made the necessary plans for that. Among the various SDKs Listed, you probably have a favorite already, but is that the most suited for you. Read On, In this section, we talk about choosing an SDK to start Development along with consideration of some Factors:&lt;/p&gt;
 
-&lt;p&gt;The easiest SDK: UIT
-The most profitable: Open XR &amp;amp; Open VR
-Suited for Professionals: Steam VR &amp;amp; Oculus VR
-Unity Recommendation: Possibly Open XR&lt;/p&gt;</content><author><name>Chel</name></author><summary type="html">Starting VR Game Development is a thrill and at the same time a cold chilling ordeal. You want to make beautiful games, you are confident of your creative abilities, one little hitch though - you have no idea where to start, what to use, or even why to use them. In this tutorial, I drastically simplify the entire process in my most preferred way of communication - layman terms. Are you with me?, well, then Read On!.</summary></entry><entry><title type="html">How to Set Up the Unity Interaction Toolkit for VR Development and Testing - Important Points you need to Note</title><link href="http://localhost:4000/unity-xr-toolkit-for-vr-development/" rel="alternate" type="text/html" title="How to Set Up the Unity Interaction Toolkit for VR Development and Testing - Important Points you need to Note" /><published>2021-02-12T00:00:00+01:00</published><updated>2021-02-12T00:00:00+01:00</updated><id>http://localhost:4000/unity%20xr%20toolkit%20for%20vr%20development</id><content type="html" xml:base="http://localhost:4000/unity-xr-toolkit-for-vr-development/">&lt;h3 id=&quot;on-this-page&quot;&gt;On this Page&lt;/h3&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;b&gt;The easiest SDK&lt;/b&gt;: UIT&lt;/li&gt;
+	&lt;li&gt;The most profitable: Open XR &amp;amp; Open VR&lt;/li&gt;
+	&lt;li&gt;Suited for Professionals: Steam VR &amp;amp; Oculus VR&lt;/li&gt;
+	&lt;li&gt;Unity's Recommendation: Possibly Open XR&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;feedback&quot;&gt;Feedback&lt;/h3&gt;
+&lt;p&gt;Now it’s been quite a long informative guide on the various VR SDKs that exist for Unity VR Development. As I said earlier in the article, if you are rather going to be developing using Unreal Engine, for all SDKs mentioned, I have provided links incase you want to download it. The components and features remain the same, the only difference being that the name unreal is used in stead of unity.&lt;/p&gt;
+
+&lt;h3 id=&quot;vr-sdks-for-unreal-engine&quot;&gt;VR SDKs for Unreal Engine&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Steam VR for Unreal Engine&lt;a href=&quot;https://github.com/ValveSoftware/steamvr_unreal_plugin&quot;&gt;Here&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Unreal Engine has Built in Support for Oculus VR&lt;/li&gt;
+  &lt;li&gt;VR Expansion Plugin - Like VRTK but for Unreal &lt;a href=&quot;https://forums.unrealengine.com/development-discussion/vr-ar-development/89050-vr-expansion-plugin&quot;&gt;Here&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Setting up Open XR in Unreal Engine &lt;a href=&quot;https://docs.unrealengine.com/en-US/SharingAndReleasing/XRDevelopment/Openxr/openxr_prerequisites/index.html&quot;&gt;Here&lt;/a&gt;
+5.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Right back on track and i have a little task for you; Can you identity SDKs which are multi-platform and those that are compatible with specific devices? Leave your answer in the comments box below!. I can’t wait to see how your mind works 🙃&lt;/p&gt;</content><author><name>Chel</name></author><summary type="html">Starting VR Game Development is a thrill and at the same time a cold chilling ordeal. You want to make beautiful games, you are confident of your creative abilities, one little hitch though - you have no idea where to start, what to use, or even why to use them. In this tutorial, I drastically simplify the entire process in my most preferred way of communication - layman terms. Are you with me?, well, then Read On!.</summary></entry><entry><title type="html">How to Set Up the Unity Interaction Toolkit for VR Development and Testing - Important Points you need to Note</title><link href="http://localhost:4000/unity-xr-toolkit-for-vr-development/" rel="alternate" type="text/html" title="How to Set Up the Unity Interaction Toolkit for VR Development and Testing - Important Points you need to Note" /><published>2021-02-12T00:00:00+01:00</published><updated>2021-02-12T00:00:00+01:00</updated><id>http://localhost:4000/unity%20xr%20toolkit%20for%20vr%20development</id><content type="html" xml:base="http://localhost:4000/unity-xr-toolkit-for-vr-development/">&lt;h3 id=&quot;on-this-page&quot;&gt;On this Page&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;About the Unity Interaction Toolkit&lt;/li&gt;
   &lt;li&gt;Installation of Preview Template&lt;/li&gt;
