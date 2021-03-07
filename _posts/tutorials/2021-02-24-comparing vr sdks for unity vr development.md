@@ -1,7 +1,7 @@
 ---
 layout: post-blog
 author: Chel
-title: Comparing the Various VR SDks Plugins to give you a Headstart in VR development - Outlining their Advantages and Disadvantages
+title: VR SDks Comparations to give you a Headstart in VR development - By Outlining their Features
 seo: steamvr openxr openvr unity plugins unity vr development oculus vr hand tracking oculus integration oculus vr unity oculus game development oculus software vr tools vr software vr development vr sdks
 description: Starting VR Game Development is a thrill, and at the same time a cold chilling ordeal. You want to make beautiful games, you are confident of your creative abilities, one little hitch though - you have no idea where to start, what to use, or even why to use them. In this tutorial, i drastically simplify the entire process in my most preferred way of communication - layman terms.
 img-src: ../assets\images\Blog\sdks-unitydev
